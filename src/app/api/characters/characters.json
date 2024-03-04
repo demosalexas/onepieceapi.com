@@ -1,0 +1,136 @@
+[
+    {
+        "id": "c-1",
+        "image": "https//www.onepieceapi.com/api/images/c-1",
+        "japaneseName": "A・O",
+        "romanizedName": "Ā Ō",
+        "englishName": "A.O.",
+        "debut": [
+          "Chapter 551",
+          "Episode 460"
+        ],
+        "affiliations": [
+          "A O Pirates",
+          "Subordinate of the Whitebeard Pirates"
+        ],
+        "occupations": [
+          "Pirate",
+          "Captain"
+        ],
+        "status": "Unknown",
+        "birthday": "January 15th"
+    },
+    {
+        "id": "c-1151",
+        "image": "https//www.onepieceapi.com/api/images/c-1151",
+        "japaneseName": "シャンクス",
+        "romanizedName": "Shankusu",
+        "englishName": "Shanks",
+        "debut": [
+          "Chapter 1",
+          "Episode 4"
+        ],
+        "affiliations": [
+          "Red Hair Pirates",
+          "Four Emperors",
+          "Roger Pirates (former)"
+        ],
+        "occupations": [
+          "Chief",
+          "Emperor",
+          "Apprentice (former)"
+        ],
+        "origin": "West Blue",
+        "status": "Alive",
+        "age": 39,
+        "birthday": "March 9th",
+        "height": 199,
+        "bloodType": "XF",
+        "bounty": 4048900000
+    },
+    {
+        "id": "c-870",
+        "image": "https//www.onepieceapi.com/api/images/c-870",
+        "japaneseName": "モンキー・D・ルフィ",
+        "romanizedName": "Monkī Dī Rufi",
+        "englishName": "Monkey D. Luffy",
+        "debut": [
+          "Chapter 1",
+          "Episode 1"
+        ],
+        "affiliations": [
+          "Straw Hat Pirates",
+          "Straw Hat Grand Fleet",
+          "Four Emperors"
+        ],
+        "occupations": [
+          "Pirate Captain",
+          "Emperor",
+          "Senior Captain of the Grand Fleet"
+        ],
+        "origin": "East Blue (Goa Kingdom)",
+        "residence": [
+          "Foosha Village (former)",
+          "Mt. Colubo (former)",
+          "Rusukaina (former)"
+        ],
+        "status": "Alive",
+        "age": 19,
+        "birthday": "May 5th (Children's Day)",
+        "height": 174,
+        "bloodType": "F",
+        "bounty": 3000000000,
+        "devilFruit": {
+          "japaneseName": "Gomu Gomu no Mi(Hito Hito no Mi, Model: Nika)",
+          "englishName": "Gum-Gum Fruit(Human-Human Fruit, Model: Nika)",
+          "meaning": [
+            "Rubber",
+            "Human",
+            "Nika"
+          ],
+          "type": "Paramecia(Mythical Zoan)"
+        }
+    },
+    {
+        "id": "c-1277",
+        "image": "https//www.onepieceapi.com/api/images/c-1277",
+        "japaneseName": "トラファルガー・D・ワーテル・ロー",
+        "romanizedName": "Torafarugā Dī Wāteru Rō",
+        "englishName": "Trafalgar D. Water Law",
+        "debut": [
+          "Chapter 498",
+          "Episode 392"
+        ],
+        "affiliations": [
+          "Heart Pirates",
+          "Ninja-Pirate-Mink-Samurai Alliance (disbanded)",
+          "Seven Warlords of the Sea (revoked)",
+          "Donquixote Pirates (defected)"
+        ],
+        "occupations": [
+          "Pirate Captain",
+          "Doctor",
+          "Warlord of the Sea (former)"
+        ],
+        "origin": "North Blue",
+        "residence": [
+          "Flevance (former)",
+          "Spider Miles (former)",
+          "Swallow Island (former)"
+        ],
+        "status": "Alive",
+        "age": 26,
+        "birthday": "October 6th",
+        "height": 191,
+        "bloodType": "F",
+        "bounty": 3000000000,
+        "devilFruit": {
+          "japaneseName": "Ope Ope no Mi[15]",
+          "englishName": "Op-Op Fruit",
+          "meaning": [
+            "Operation"
+          ],
+          "type": "Paramecia"
+        }
+    }
+]

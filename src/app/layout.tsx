@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import { Analytics } from '@vercel/analytics/react'
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Flex } from '@chakra-ui/react'
 
 import { Providers } from './providers'
 import Header from '@/components/header'
@@ -22,11 +24,14 @@ export default function RootLayout({
       </head>
       <body>
         <Providers>
-          <Header />
-          {children}
-          {/* <Footer /> */}
+          <Flex direction="column" flex="1" justifyContent="space-between" h="100vh">
+            <Header />
+            {children}
+            <Footer />
+          </Flex>
         </Providers>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
