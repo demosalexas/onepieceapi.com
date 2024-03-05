@@ -1,7 +1,15 @@
 'use client'
 
 import { CacheProvider } from '@chakra-ui/next-js'
-import { ChakraProvider } from '@chakra-ui/react'
+import { ChakraProvider, extendTheme } from '@chakra-ui/react'
+
+const theme = extendTheme({
+  fonts: {
+    heading: `'Open Sans', sans-serif`,
+    body: `'Source Code Pro', sans-serif`,
+    
+  },
+})
 
 export function Providers({ 
     children 
@@ -10,7 +18,7 @@ export function Providers({
   }) {
   return (
     <CacheProvider>
-      <ChakraProvider>
+      <ChakraProvider theme={theme}>
         {children}
       </ChakraProvider>
     </CacheProvider>
