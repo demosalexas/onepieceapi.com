@@ -4,7 +4,7 @@ import { promises as fs } from 'fs'
 import { createPages } from '@/utils/createPages'
 
 export async function GET(request: Request) {
-  const file = await fs.readFile(process.cwd() + '/src/app/api/characters/characters.json', 'utf8')
+  const file = await fs.readFile(process.cwd() + '/src/data/characters.json', 'utf8')
   const data = JSON.parse(file)
 
   const url = new URL(request.url)
