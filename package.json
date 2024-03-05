@@ -17,7 +17,7 @@
   },
   "readme": "README.md",
   "engines": {
-    "node": "v21.6.2"
+    "node": "v20"
   },
   "scripts": {
     "dev": "next dev",
