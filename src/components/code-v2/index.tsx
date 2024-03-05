@@ -40,7 +40,7 @@ export default function CodeV2 ({ code="2", language="javascript", lineNumbers=0
 
   return (
     <Box>
-      {piecesOfCode2.map((piece: any) => <Text fontFamily={"Source Code Pro"} fontWeight={500} fontSize={16} as="span" color={piece.color}>{piece.value}</Text>)}
+      {piecesOfCode2.map((piece: any) => <Text fontFamily={"Source Code Pro"} key={piece.color} fontWeight={500} fontSize={16} as="span" color={piece.color}>{piece.value}</Text>)}
     </Box>
   )
 }

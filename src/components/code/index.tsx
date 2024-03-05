@@ -11,7 +11,7 @@ export default function Code ({ code, language, lineNumbers }: any) {
   useEffect(() => {
     lineNumbers && ref.current?.setAttribute('data-line', `${lineNumbers}`)
     Prism.highlightAll()
-  }, [])
+  })
 
   return (
     <Box>

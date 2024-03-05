@@ -18,8 +18,8 @@ export default function Documentation() {
   `
   return (
     <Flex justifyContent="center">
-      <Code lineNumbers="2" language="javascript" code={code}/>
-      <CodeV2 />
+      {/* <Code lineNumbers="2" language="javascript" code={code}/>
+      <CodeV2 /> */}
       {/* <Box p={4} w="800px">
         <Heading as="h1" size="lg" mb={4}>
           Documentation
