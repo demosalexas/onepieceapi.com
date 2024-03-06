@@ -231,7 +231,7 @@
   },
   {
     "id": "c-12",
-    "image": "https//www.onepieceapi.com/api/images/c-12",
+    "image": "https://www.onepieceapi.com/api/images/c-12.jpeg",
     "japaneseName": "あひる",
     "romanizedName": "Ahiru",
     "englishName": "Ahiru",
@@ -445,8 +445,10 @@
     "affiliations": [
       "Cross Guild",
       "Buggy's Delivery, Buggy and Alvida Alliance",
-      "Buggy Pirates (Acting Captain, temporarily)",
-      "Alvida Pirates (formerly)"
+      "Buggy Pirates (Acting Captain, temporarily)"
+    ],
+    "formerAffiliations": [
+      "Alvida Pirates"
     ],
     "occupations": [
       "Pirate Captain"
@@ -465,7 +467,7 @@
     "devilFruit": {
       "japaneseName": "Sube Sube no Mi",
       "englishName": "Smooth-Smooth Fruit",
-      "meaning": [
+      "meanings": [
         "Smooth, fat in cells, young and slippery"
       ],
       "type": "Paramecia"
@@ -473,7 +475,7 @@
   },
   {
     "id": "c-23",
-    "image": "https//www.onepieceapi.com/api/images/c-23",
+    "image": "https://www.onepieceapi.com/api/images/c-23.jpeg",
     "japaneseName": "アマドブ",
     "romanizedName": "Amadobu",
     "englishName": "Amadob",
@@ -17517,7 +17519,7 @@
   },
   {
     "id": "c-778",
-    "image": "https//www.onepieceapi.com/api/images/c-778",
+    "image": "https://www.onepieceapi.com/api/images/c-778.jpeg",
     "japaneseName": "マグラ",
     "romanizedName": "Magura",
     "englishName": "Magra",
@@ -17540,7 +17542,7 @@
   },
   {
     "id": "c-779",
-    "image": "https//www.onepieceapi.com/api/images/c-779",
+    "image": "https://www.onepieceapi.com/api/images/c-779.jpeg",
     "japaneseName": "マハ",
     "romanizedName": "Maha",
     "englishName": "Maha",
@@ -17558,7 +17560,7 @@
   },
   {
     "id": "c-780",
-    "image": "https//www.onepieceapi.com/api/images/c-780",
+    "image": "https://www.onepieceapi.com/api/images/c-780.jpeg",
     "japaneseName": "メイディ",
     "romanizedName": "Meidi",
     "englishName": "Maidy",
@@ -17579,10 +17581,10 @@
   },
   {
     "id": "c-781",
-    "image": "https//www.onepieceapi.com/api/images/c-781",
+    "image": "https://www.onepieceapi.com/api/images/c-781.jpeg",
     "japaneseName": "マキ",
     "romanizedName": "Maki",
-    "englishName": "N/A",
+    "englishName": "Maki",
     "debut": [
       "Chapter 925",
       "Episode 917"
@@ -17594,7 +17596,7 @@
   },
   {
     "id": "c-782",
-    "image": "https//www.onepieceapi.com/api/images/c-782",
+    "image": "https://www.onepieceapi.com/api/images/c-782.jpeg",
     "japaneseName": "マキノ",
     "romanizedName": "Makino",
     "englishName": "Makino",
@@ -17621,7 +17623,7 @@
   },
   {
     "id": "c-783",
-    "image": "https//www.onepieceapi.com/api/images/c-783",
+    "image": "https://www.onepieceapi.com/api/images/c-783.jpeg",
     "japaneseName": "マッコー",
     "romanizedName": "Makkō",
     "englishName": "Makko",
@@ -17639,7 +17641,7 @@
   },
   {
     "id": "c-784",
-    "image": "https//www.onepieceapi.com/api/images/c-784",
+    "image": "https://www.onepieceapi.com/api/images/c-784.jpeg",
     "japaneseName": "マンボシ",
     "romanizedName": "Manboshi",
     "englishName": "Mamboshi, Manboshi (Funi simulcast)",
@@ -17766,8 +17768,8 @@
     "bounty": 1374000000,
     "devilFruit": {
       "japaneseName": "Tori Tori no Mi, Model: Phoenix",
-      "englishName": "Bird-Bird Fruit, Model: Phoenix[10]",
-      "meaning": [
+      "englishName": "Bird-Bird Fruit, Model: Phoenix",
+      "meanings": [
         "Bird",
         "Phoenix"
       ],
@@ -17957,7 +17959,7 @@
   },
   {
     "id": "c-797",
-    "image": "https//www.onepieceapi.com/api/images/c-797",
+    "image": "https://www.onepieceapi.com/api/images/c-797.jpeg",
     "japaneseName": "マリン",
     "romanizedName": "Marin",
     "englishName": "Marin",
@@ -17977,7 +17979,7 @@
   },
   {
     "id": "c-798",
-    "image": "https//www.onepieceapi.com/api/images/c-798",
+    "image": "https://www.onepieceapi.com/api/images/c-798.jpeg",
     "japaneseName": "マリオ",
     "romanizedName": "Mario",
     "englishName": "Mario",
@@ -17989,7 +17991,7 @@
   },
   {
     "id": "c-799",
-    "image": "https//www.onepieceapi.com/api/images/c-799",
+    "image": "https://www.onepieceapi.com/api/images/c-799.jpeg",
     "japaneseName": "マーシャル・D・ティーチ",
     "romanizedName": "Māsharu Dī Tīchi",
     "englishName": "Marshall D. Teach",
@@ -18019,7 +18021,7 @@
     "devilFruit": {
       "japaneseName": "Yami Yami no Mi",
       "englishName": "Dark-Dark Fruit",
-      "meaning": [
+      "meanings": [
         "Darkness"
       ],
       "type": "Logia"
@@ -18316,7 +18318,7 @@
   },
   {
     "id": "c-815",
-    "image": "https//www.onepieceapi.com/api/images/c-815",
+    "image": "https://www.onepieceapi.com/api/images/c-815.jpeg",
     "japaneseName": "MAX マークス",
     "romanizedName": "Makkusu Mākusu",
     "englishName": "Max Marx",
@@ -18449,7 +18451,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-822",
     "japaneseName": "メロ",
     "romanizedName": "Mero",
-    "englishName": "Mello (Viz); Mero (FUNimation)",
+    "englishName": "Mello",
     "debut": [
       "Chapter 608",
       "Episode 527"
@@ -18491,7 +18493,7 @@
   },
   {
     "id": "c-824",
-    "image": "https//www.onepieceapi.com/api/images/c-824",
+    "image": "https://www.onepieceapi.com/api/images/c-824.jpeg",
     "japaneseName": "マイケル&ホイケル",
     "romanizedName": "Maikeru ando Hoikeru",
     "englishName": "Michael and Hoichael",
@@ -18511,7 +18513,7 @@
   },
   {
     "id": "c-825",
-    "image": "https//www.onepieceapi.com/api/images/c-825",
+    "image": "https://www.onepieceapi.com/api/images/c-825.jpeg",
     "japaneseName": "ミハール",
     "romanizedName": "Mihāru",
     "englishName": "Mihal",
@@ -18551,8 +18553,8 @@
   },
   {
     "id": "c-827",
-    "image": "https//www.onepieceapi.com/api/images/c-827",
-    "japaneseName": "MIKIO ITOO[1]",
+    "image": "https://www.onepieceapi.com/api/images/c-827.jpeg",
+    "japaneseName": "MIKIO ITOO",
     "romanizedName": "Mikio Itū",
     "englishName": "Mikio Itoo",
     "debut": [
@@ -18561,13 +18563,11 @@
     "origin": "East Blue",
     "status": "Alive",
     "birthday": "March 26th",
-    "bounty": [
-      "¥1,000,000"
-    ]
+    "bounty": 1000000
   },
   {
     "id": "c-828",
-    "image": "https//www.onepieceapi.com/api/images/c-828",
+    "image": "https://www.onepieceapi.com/api/images/c-828.jpeg",
     "japaneseName": "ミキータ",
     "romanizedName": "Mikīta",
     "englishName": "Mikita",
@@ -18576,12 +18576,16 @@
       "Episode 65"
     ],
     "affiliations": [
-      "New Spiders Cafe",
-      "Baroque Works (former)"
+      "New Spiders Cafe"
+    ],
+    "formerAffiliations": [
+      "Baroque Works"
     ],
     "occupations": [
-      "Cafe Pâtissier",
-      "Officer Agent (former)"
+      "Cafe Pâtissier"
+    ],
+    "formerOccupations": [
+      "Officer Agent"
     ],
     "origin": "West Blue",
     "status": "Alive",
@@ -18758,7 +18762,7 @@
   },
   {
     "id": "c-837",
-    "image": "https//www.onepieceapi.com/api/images/c-837",
+    "image": "https://www.onepieceapi.com/api/images/c-837.jpeg",
     "japaneseName": "ミノコアラ",
     "romanizedName": "Minokoara",
     "englishName": "Minokoala",
@@ -18768,8 +18772,7 @@
     ],
     "affiliations": [
       "Impel Down",
-      "World Government",
-      ""
+      "World Government"
     ],
     "occupations": [
       "Jailer Beast"
@@ -18805,7 +18808,7 @@
   },
   {
     "id": "c-839",
-    "image": "https//www.onepieceapi.com/api/images/c-839",
+    "image": "https://www.onepieceapi.com/api/images/c-839.jpeg",
     "japaneseName": "ミノルバ",
     "romanizedName": "Minoruba",
     "englishName": "Minoruba",
@@ -20721,12 +20724,12 @@
   },
   {
     "id": "c-928",
-    "image": "https//www.onepieceapi.com/api/images/c-928",
+    "image": "https://www.onepieceapi.com/api/images/c-928.jpeg",
     "japaneseName": "フデフデの実",
     "englishName": "Brush-Brush Fruit",
     "meaning": "Brush",
-    "fruitDebut": "Chapter 974; Episode 976[2]",
-    "usageDebut": "Chapter 754; Episode 691[3]",
+    "fruitDebut": "Chapter 974; Episode 976",
+    "usageDebut": "Chapter 754; Episode 691",
     "type": "Paramecia",
     "previousUser": "Kurozumi Kanjuro"
   },
@@ -20848,7 +20851,7 @@
   },
   {
     "id": "c-934",
-    "image": "https//www.onepieceapi.com/api/images/c-934",
+    "image": "https/:/www.onepieceapi.com/api/images/c-934.jpeg",
     "japaneseName": "ニコ･オルビア",
     "romanizedName": "Niko Orubia",
     "englishName": "Nico Olvia",
@@ -30707,7 +30710,7 @@
   },
   {
     "id": "c-1386",
-    "image": "https//www.onepieceapi.com/api/images/c-1386",
+    "image": "https://www.onepieceapi.com/api/images/c-1386.jpeg",
     "japaneseName": "ゼフ",
     "romanizedName": "Zefu",
     "englishName": "Zeff",

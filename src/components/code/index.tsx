@@ -1,23 +1,20 @@
 "use client"
 
-import React, { useEffect, useRef } from "react";
-import Prism from "prismjs";
-import "prismjs/themes/prism-tomorrow.css";
-import { Box, Code as ChakraCode } from "@chakra-ui/react";
+import React from 'react'
+import { CopyBlock, dracula } from 'react-code-blocks'
 
-export default function Code ({ code, language, lineNumbers }: any) {
-  const ref = useRef<HTMLPreElement>(null)
+interface CodeProps {
+  code: string
+  language: string
+}
 
-  useEffect(() => {
-    lineNumbers && ref.current?.setAttribute('data-line', `${lineNumbers}`)
-    Prism.highlightAll()
-  })
-
+export default function Code ({ code, language }: CodeProps) {
   return (
-    <Box>
-      <pre ref={ref}>
-        <ChakraCode className={`language-${language}`}>{code}</ChakraCode>
-      </pre>
-    </Box>
+     <CopyBlock 
+      text={code}
+      language={language}
+      showLineNumbers={true}
+      theme={dracula}
+    /> 
   )
 }
