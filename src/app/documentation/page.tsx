@@ -1,7 +1,8 @@
 import type { Metadata } from 'next'
 import { Flex, Box, Heading, Text, Link } from '@chakra-ui/react'
+
 import Code from '@/components/code'
-import CodeV2 from '@/components/code-v2'
+import Hero from '@/components/hero'
 
 export const metadata: Metadata = {
   title: 'Documentation',
@@ -16,18 +17,20 @@ export default function Documentation() {
       return name
     }
   `
+  if(true) {
+    return <Hero />
+  }
+
   return (
     <Flex justifyContent="center">
-      {/* <Code lineNumbers="2" language="javascript" code={code}/>
-      <CodeV2 /> */}
-      {/* <Box p={4} w="800px">
+      <Box p={4} w="800px">
         <Heading as="h1" size="lg" mb={4}>
           Documentation
         </Heading>
         <Text>
           This documentation will help you get familiar with the resources of the Rick and Morty API and show you how to make different queries, so that you can get the most out of it.
         </Text>
-        <CodeDisplay />
+        <Code code={code} language='javascript' />
         <Heading as="h3" size="md" mt={6} mb={4}>
           Rest
         </Heading>
@@ -48,7 +51,7 @@ export default function Documentation() {
             Contribution
           </Heading>
           <Text>
-            You can support it in maintaining the project's vitality and also contribute on GitHub: <Link href="https://github.com/demosalexas/one-piece-api">One Piece API</Link>
+            You can support it in maintaining the project&apos;s vitality and also contribute on GitHub: <Link href="https://github.com/demosalexas/one-piece-api">One Piece API</Link>
           </Text>
 
           <Heading as="h3" size="md" mt={6} mb={4}>
@@ -64,7 +67,7 @@ export default function Documentation() {
           <Text>
             This API is open source and utilizes a MIT license.
           </Text>
-      </Box> */}
+      </Box>
     </Flex>
   )
 }
