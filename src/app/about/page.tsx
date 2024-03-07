@@ -23,7 +23,7 @@ export default function About() {
           The One Piece API is a comprehensive REST centered around the popular manga and anime series One Piece.
           Gain access to a vast collection of characters and images, filled with canonical information derived from the One Piece series.
         </Text>
-        <Text mt={4}>
+        <Text mt={2}>
           Explore the documentation to get started: <Link fontWeight={900} as={NextLink} href="/documentation">Documentation</Link>
         </Text>
 
@@ -45,13 +45,13 @@ export default function About() {
           Copyright Information
         </Heading>
         <Text>
-        This API is specifically developed for non-commercial purposes and is intended solely for educational and informational use. It centers around the content inspired by "One Piece," a creation of Eiichiro Oda. The utilization of data and images within this API is performed without any assertion of ownership and strictly adheres to acknowledging and respecting the rights of their original creators and owners.
+        This API is specifically developed for non-commercial purposes and is intended solely for educational and informational use. It centers around the content inspired by &quot;One Piece&quot;, a creation of Eiichiro Oda. The utilization of data and images within this API is performed without any assertion of ownership and strictly adheres to acknowledging and respecting the rights of their original creators and owners.
         </Text>
         <Text mt={2}>
-          It is important to note that all rights to the original content, including characters, storylines, and visuals, belong solely to their respective creators and owners. This API is a tribute to the rich universe of "One Piece," aiming to provide users with a comprehensive and engaging experience while being fully compliant with copyright regulations.
+          It is important to note that all rights to the original content, including characters, storylines, and visuals, belong solely to their respective creators and owners. This API is a tribute to the rich universe of &quot;One Piece&quot;, aiming to provide users with a comprehensive and engaging experience while being fully compliant with copyright regulations.
         </Text>
         <Text mt={2}>
-          By accessing and utilizing this API, users acknowledge that it is not intended for any commercial endeavors, and its usage is limited to non-profit, educational, and informational contexts. The API developers emphasize the importance of respecting intellectual property rights and encourage users to explore the official sources and platforms supporting the "One Piece" series.
+          By accessing and utilizing this API, users acknowledge that it is not intended for any commercial endeavors, and its usage is limited to non-profit, educational, and informational contexts. The API developers emphasize the importance of respecting intellectual property rights and encourage users to explore the official sources and platforms supporting the &quot;One Piece&quot; series.
         </Text>
         <Text mt={2}>
           This API uses material from the{' '} 
