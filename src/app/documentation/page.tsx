@@ -3,6 +3,7 @@ import { Flex, Box, Heading, Text, Link } from '@chakra-ui/react'
 
 import Code from '@/components/code'
 import Hero from '@/components/hero'
+import { IN_DEV } from '@/consts/in-dev'
 
 export const metadata: Metadata = {
   title: 'Documentation',
@@ -17,9 +18,7 @@ export default function Documentation() {
       return name
     }
   `
-  if(true) {
-    return <Hero />
-  }
+  if(IN_DEV) return <Hero />
 
   return (
     <Flex justifyContent="center">
