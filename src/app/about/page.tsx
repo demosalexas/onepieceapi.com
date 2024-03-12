@@ -2,21 +2,16 @@ import type { Metadata } from 'next'
 import NextLink from 'next/link'
 import { Box, Flex, Heading, Text, Link } from '@chakra-ui/react'
 
-import Hero from "@/components/hero"
-import { IN_DEV } from "@/consts/in-dev"
-
 export const metadata: Metadata = {
   title: 'About',
   description: '',
 }
 
 export default function About() {
-  if(IN_DEV) return <Hero />
-  
   return (
     <Flex justifyContent="center">
       <Box p={4} w="800px">
-        <Heading as="h1" size="lg" mb={4}>
+        <Heading as="h1" size="lg" mb={4} mt={10}>
           One Piece API
         </Heading>
         <Text>

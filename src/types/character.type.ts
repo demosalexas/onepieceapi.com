@@ -1,3 +1,5 @@
+type Status = 'Alive' | 'Unkown'
+
 export interface Character {
   id: string
   image: string
@@ -6,8 +8,10 @@ export interface Character {
   englishName: string
   debut: string[]
   affiliations: string[]
+  formerAffiliations: string[]
   occupations: string[]
-  status: 'Alive' | 'Unknown'
+  formerOccupations: string[]
+  status: Status
   age: number
   height: number
   bloodType: string
@@ -16,6 +20,10 @@ export interface Character {
 }
 
 export interface DevilFruit {
+  id: string
+  image: string
+  japaneseName: string
+  englishName: string
   meanings: string[]
   type: string
 }

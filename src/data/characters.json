@@ -536,7 +536,7 @@
     "origin": "Grand Line",
     "status": "Alive",
     "birthday": "January 31st",
-    "bounty": "Over 15,000,000"
+    "bounty": "Unknown"
   },
   {
     "id": "c-26",
@@ -560,14 +560,13 @@
     "age": [
       "Bas: 48",
       "And: 53",
-      "Kerville: 42",
-      ""
+      "Kerville: 42"
     ],
-    "birthday": "Bas: March 30thAnd: March 31stKerville: April 1st",
+    "birthday": "Bas: March 30th And: March 31st Kerville: April 1st",
     "height": [
       "512 cm (16'9½) (combined)"
     ],
-    "bloodType": "Bas: XAnd: XFKerville: F"
+    "bloodType": "Bas: X And: XF Kerville: F"
   },
   {
     "id": "c-27",
@@ -692,7 +691,7 @@
     "devilFruit": {
       "japaneseName": "Mori Mori no Mi",
       "englishName": "Woods-Woods Fruit",
-      "meaning": [
+      "meanings": [
         "Forest"
       ],
       "type": "Logia"
