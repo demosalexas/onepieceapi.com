@@ -29,6 +29,9 @@ export async function GET(request: Request) {
     previous: previousUrl,
   }
 
+  // const bounty: number | undefined = Number(searchParams.get('bounty')) 
+  // console.log(bounty)
+
   return NextResponse.json({
     info,
     data: page,

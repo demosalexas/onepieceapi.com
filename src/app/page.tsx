@@ -1,11 +1,17 @@
+'use client'
+
+import CharactersSnippet from '@/components/CharactersSnippet'
 import Hero from '@/components/hero'
-import { IN_DEV } from '@/consts/in-dev'
+import useCharacters from '@/hooks/useCharacters'
 
 export default function Home() {
-  if(IN_DEV) return <Hero />
+
+  const { data, isLoading } = useCharacters()
 
   return (
     <>
+      <Hero />
+      {isLoading ? <h1>Loading</h1> : <CharactersSnippet characters={data.data} />}
     </>
   )
 }

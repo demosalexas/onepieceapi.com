@@ -2,7 +2,7 @@
   {
     "id": "c-1",
     "image": "https://www.onepieceapi.com/api/images/c-1.jpeg",
-    "japaneseName": "A・O",
+    "japaneseName": "アー・オー",
     "romanizedName": "Ā Ō",
     "englishName": "A.O.",
     "debut": [
@@ -382,7 +382,7 @@
   },
   {
     "id": "c-19",
-    "image": "https//www.onepieceapi.com/api/images/c-19",
+    "image": "https://www.onepieceapi.com/api/images/c-19.jpeg",
     "japaneseName": "アリー",
     "romanizedName": "Arī",
     "englishName": "Ally",
@@ -394,7 +394,7 @@
   },
   {
     "id": "c-20",
-    "image": "https//www.onepieceapi.com/api/images/c-20",
+    "image": "https://www.onepieceapi.com/api/images/c-20.jpeg",
     "japaneseName": "アルパカマン",
     "romanizedName": "Arupakaman",
     "englishName": "Alpaca-Man",
@@ -1087,7 +1087,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-51",
     "japaneseName": "ベビー5",
     "romanizedName": "Bebī Faibu",
-    "englishName": "Baby 5Baby Five (WT100)",
+    "englishName": "Baby Five",
     "debut": [
       "Chapter 682",
       "Episode 608"
@@ -1112,18 +1112,15 @@
       "Kano Country"
     ],
     "status": "Alive",
-    "age": [
-      "24",
-      "",
-      ""
-    ],
+    "age": 24,
     "birthday": "May 15th",
     "height": 181,
     "bloodType": "XF",
     "devilFruit": {
-      "japaneseName": "Buki Buki no Mi",
+      "japaneseName": "ブキブキの実",
+      "romanizedName": "Buki Buki no Mi",
       "englishName": "Arms-Arms Fruit",
-      "meaning": [
+      "meanings": [
         "Weapon"
       ],
       "type": "Paramecia"
@@ -1440,7 +1437,7 @@
     "devilFruit": {
       "japaneseName": "Nikyu Nikyu no Mi",
       "englishName": "Paw-Paw Fruit",
-      "meaning": [
+      "meanings": [
         "Paw"
       ],
       "type": "Paramecia"
@@ -1476,7 +1473,7 @@
     "devilFruit": {
       "japaneseName": "Bari Bari no Mi",
       "englishName": "Barrier-Barrier Fruit",
-      "meaning": [
+      "meanings": [
         "Barrier"
       ],
       "type": "Paramecia"
@@ -1504,8 +1501,7 @@
     "age": [
       "Bas: 48",
       "And: 53",
-      "Kerville: 42",
-      ""
+      "Kerville: 42"
     ],
     "birthday": "Bas: March 30thAnd: March 31stKerville: April 1st",
     "height": [
@@ -2083,9 +2079,7 @@
       "Brothel owner"
     ],
     "origin": "Wano Country",
-    "residence": [
-      "Onigashima"
-    ],
+    "residence": "Onigashima",
     "status": "Alive",
     "age": 29,
     "birthday": "September 24th",
@@ -2106,22 +2100,19 @@
     "image": "https//www.onepieceapi.com/api/images/c-93",
     "japaneseName": "BB（ブラックバック）",
     "romanizedName": "Bībī (Burakkubakku)",
-    "englishName": "BB (Blackback)BB (Black Back) (WT100)",
+    "englishName": "BB (Blackback)",
     "debut": [
       "Chapter 805",
       "Episode 754"
     ],
     "affiliations": [
       "Mokomo Dukedom",
-      "Guardians",
-      ""
+      "Guardians"
     ],
     "occupations": [
       "Guardian"
     ],
-    "residence": [
-      "Zou (Whale Forest)"
-    ],
+    "residence": "Zou (Whale Forest)",
     "status": "Alive"
   },
   {
@@ -2261,7 +2252,7 @@
     "devilFruit": {
       "japaneseName": "Nori Nori no Mi",
       "englishName": "Ride-Ride Fruit",
-      "meaning": [
+      "meanings": [
         "Ride"
       ],
       "type": "Paramecia"
@@ -2369,7 +2360,7 @@
     ],
     "origin": "Calm Belt (Amazon Lily)",
     "residence": [
-      "Amazon LilyMary Geoise (former)"
+      "Amazon Lily Mary Geoise (former)"
     ],
     "status": "Alive",
     "age": 31,
@@ -2380,7 +2371,7 @@
     "devilFruit": {
       "japaneseName": "Mero Mero no Mi",
       "englishName": "Love-Love Fruit",
-      "meaning": [
+      "meanings": [
         "Fall in Love"
       ],
       "type": "Paramecia"
@@ -2400,8 +2391,10 @@
       "Kuja (Kuja Pirates)"
     ],
     "occupations": [
-      "Ruler of Amazon Lily",
-      "Slave (Former)"
+      "Ruler of Amazon Lily"
+    ],
+    "formerOccupations": [
+      "Slave"
     ],
     "origin": "Calm Belt (Amazon Lily)",
     "residence": [
@@ -2416,7 +2409,7 @@
     "devilFruit": {
       "japaneseName": "Hebi Hebi no Mi, Model: King Cobra",
       "englishName": "Snake-Snake Fruit: Model King Cobra",
-      "meaning": [
+      "meanings": [
         "Snake"
       ],
       "type": "Zoan"
@@ -2632,16 +2625,13 @@
     ],
     "occupations": [
       "First Mate of the Happo Navy",
-      "Martial Artist (Viz: Fighter)"
+      "Martial Artist"
     ],
     "residence": [
       "Kano Country"
     ],
     "status": "Alive",
-    "age": [
-      "Under 28",
-      ""
-    ],
+    "age": "Unknown",
     "birthday": "August 20th",
     "gladiatorNumber": "0305[1]"
   },
@@ -7605,7 +7595,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-326",
     "japaneseName": "デビル・ディアス",
     "romanizedName": "Debiru Diasu",
-    "englishName": "Devil Dias (Viz); Devil (Funimation)",
+    "englishName": "Devil Dias",
     "debut": [
       "Chapter 497",
       "Episode 391"
@@ -7653,7 +7643,7 @@
     "devilFruit": {
       "japaneseName": "Hira Hira no Mi",
       "englishName": "Ripple-Ripple Fruit",
-      "meaning": [
+      "meanings": [
         "Flap",
         "Flutter"
       ],
@@ -19499,7 +19489,7 @@
     "devilFruit": {
       "japaneseName": "Gomu Gomu no Mi(Hito Hito no Mi, Model: Nika)",
       "englishName": "Gum-Gum Fruit(Human-Human Fruit, Model: Nika)",
-      "meaning": [
+      "meanings": [
         "Rubber",
         "Human",
         "Nika"
@@ -19665,15 +19655,14 @@
   },
   {
     "id": "c-878",
-    "image": "https//www.onepieceapi.com/api/images/c-878",
+    "image": "https://www.onepieceapi.com/api/images/c-878.jpeg",
     "japaneseName": "モルガンズ",
     "romanizedName": "Moruganzu",
     "englishName": "Morgans",
-    "debut": [
-      "Chapter 860",
-      "Episode 828 (silhouette)",
-      "Episode 830 (actual)"
-    ],
+    "debuts": {
+      "chapter": 860,
+      "episode": 828
+    },
     "affiliations": [
       "World Economy News Paper",
       "Underworld"
@@ -19689,8 +19678,8 @@
     "height": 305,
     "bloodType": "XF",
     "devilFruit": {
-      "japaneseName": "Tori Tori no Mi, Model: Albatross[4]",
-      "englishName": "Bird-Bird Fruit Model Albatross[6]",
+      "japaneseName": "Tori Tori no Mi, Model: Albatross",
+      "englishName": "Bird-Bird Fruit Model Albatross",
       "meaning": [
         "Bird, Albatross"
       ],
@@ -19699,21 +19688,23 @@
   },
   {
     "id": "c-879",
-    "image": "https//www.onepieceapi.com/api/images/c-879",
+    "image": "https://www.onepieceapi.com/api/images/c-879.jpeg",
     "japaneseName": "モーリー",
     "romanizedName": "Mōrī",
     "englishName": "Morley",
-    "debut": [
-      "Chapter 904",
-      "Episode 880"
-    ],
+    "debuts": {
+      "chapter": 904,
+      "episode": 880
+    },
     "affiliations": [
       "Revolutionary Army (West Army)"
     ],
     "occupations": [
-      "West Army Commander of the Revolutionary Army",
-      "Pirate (former)",
-      "Prisoner of Impel Down (former)"
+      "West Army Commander of the Revolutionary Army"
+    ],
+    "formerOccupations": [
+      "Prisoner of Impel Down",
+      "Pirate"
     ],
     "origin": "West Blue",
     "residence": [
@@ -19729,7 +19720,7 @@
     "devilFruit": {
       "japaneseName": "Oshi Oshi no Mi",
       "englishName": "Push-Push Fruit",
-      "meaning": [
+      "meanings": [
         "Push"
       ],
       "type": "Paramecia"
@@ -19737,14 +19728,14 @@
   },
   {
     "id": "c-880",
-    "image": "https//www.onepieceapi.com/api/images/c-880",
+    "image": "https://www.onepieceapi.com/api/images/c-880.jpeg",
     "japaneseName": "モーニン",
     "romanizedName": "Mōnin",
     "englishName": "Mornin",
-    "debut": [
-      "Chapter 23",
-      "Episode of East Blue"
-    ],
+    "debut": {
+      "chapter": 23,
+      "episode": "East Blue"
+    },
     "occupations": [
       "Mayor"
     ],
@@ -19775,7 +19766,7 @@
   },
   {
     "id": "c-882",
-    "image": "https//www.onepieceapi.com/api/images/c-882",
+    "image": "https://www.onepieceapi.com/api/images/c-882.jpeg",
     "japaneseName": "モッシュ",
     "romanizedName": "Mosshu",
     "englishName": "Mosh",
@@ -25536,13 +25527,14 @@
   },
   {
     "id": "c-1149",
-    "image": "https//www.onepieceapi.com/api/images/c-1149",
+    "image": "https://www.onepieceapi.com/api/images/c-1149.jpeg",
     "japaneseName": "シャンバ",
     "romanizedName": "Shanba",
     "englishName": "Shamba",
-    "debut": [
-      "Chapter 524, Episode 419"
-    ],
+    "debut": {
+      "chapter": 524,
+      "episode": 419
+    },
     "affiliations": [
       "Torino Kingdom"
     ],
@@ -25551,7 +25543,7 @@
   },
   {
     "id": "c-1150",
-    "image": "https//www.onepieceapi.com/api/images/c-1150",
+    "image": "https://www.onepieceapi.com/api/images/c-1150.jpeg",
     "japaneseName": "シャンディア酋長",
     "romanizedName": "Shandia Shūchō",
     "englishName": "Shandia Chief",
@@ -25620,7 +25612,7 @@
     "devilFruit": {
       "japaneseName": "Shari Shari no Mi",
       "englishName": "Wheel-Wheel Fruit",
-      "meaning": [
+      "meanings": [
         "Wheel"
       ],
       "type": "Paramecia"
@@ -25724,7 +25716,7 @@
     "devilFruit": {
       "japaneseName": "Fuwa Fuwa no Mi",
       "englishName": "Float-Float Fruit",
-      "meaning": [
+      "meanings": [
         "Float"
       ],
       "type": "Paramecia"

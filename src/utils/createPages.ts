@@ -1,6 +1,4 @@
-interface Character {
-  id: string
-}
+import { Character } from '@/types/character'
 
 interface Page {
   [key: string]: Character[]
