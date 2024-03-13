@@ -63,13 +63,13 @@
     "status": "Deceased",
     "age": 36,
     "birthday": "December 30th",
-    "height": "195 cm (6'5)",
-    "weight": "300 kg (661 lb)",
+    "height": 195,
+    "weight": 300,
     "bloodType": "F",
     "devilFruit": {
       "japaneseName": "Suke Suke no Mi",
       "englishName": "Clear-Clear Fruit",
-      "meaning": [
+      "meanings": [
         "See-through",
         "Sheer"
       ],
@@ -416,7 +416,7 @@
   },
   {
     "id": "c-21",
-    "image": "https//www.onepieceapi.com/api/images/c-21",
+    "image": "https://www.onepieceapi.com/api/images/c-21.jpeg",
     "japaneseName": "アルファ",
     "romanizedName": "Arufa",
     "englishName": "Alpha",
@@ -434,7 +434,7 @@
   },
   {
     "id": "c-22",
-    "image": "https//www.onepieceapi.com/api/images/c-22",
+    "image": "https://www.onepieceapi.com/api/images/c-22.jpeg",
     "japaneseName": "アルビダ",
     "romanizedName": "Arubida",
     "englishName": "Alvida",
@@ -495,7 +495,7 @@
   },
   {
     "id": "c-24",
-    "image": "https//www.onepieceapi.com/api/images/c-24",
+    "image": "https://www.onepieceapi.com/api/images/c-24.jpeg",
     "japaneseName": "アマゾン",
     "romanizedName": "Amazon",
     "englishName": "Amazon",
@@ -522,7 +522,7 @@
   },
   {
     "id": "c-25",
-    "image": "https//www.onepieceapi.com/api/images/c-25",
+    "image": "https://www.onepieceapi.com/api/images/c-25.jpeg",
     "japaneseName": "アン・ゼンガイーナ",
     "romanizedName": "An Zengaīna",
     "englishName": "Ratherby Seifer",
@@ -539,38 +539,8 @@
     "bounty": "Unknown"
   },
   {
-    "id": "c-26",
-    "image": "https//www.onepieceapi.com/api/images/c-26",
-    "japaneseName": "バスカビル",
-    "romanizedName": "Basukabiru",
-    "englishName": "Baskerville",
-    "debut": [
-      "Chapter 379",
-      "Episode 267"
-    ],
-    "affiliations": [
-      "World Government (Enies Lobby)"
-    ],
-    "occupations": [
-      "Chief Justices of Enies Lobby"
-    ],
-    "origin": "Grand Line",
-    "birthName": "Bas (バス, Basu?) (left)*;And (アンド, Ando?) (middle)*[2]Kerville (カビル, Kabiru?) (right)*",
-    "status": "Unknown",
-    "age": [
-      "Bas: 48",
-      "And: 53",
-      "Kerville: 42"
-    ],
-    "birthday": "Bas: March 30th And: March 31st Kerville: April 1st",
-    "height": [
-      "512 cm (16'9½) (combined)"
-    ],
-    "bloodType": "Bas: X And: XF Kerville: F"
-  },
-  {
     "id": "c-27",
-    "image": "https//www.onepieceapi.com/api/images/c-27",
+    "image": "https://www.onepieceapi.com/api/images/c-27.jpeg",
     "japaneseName": "アンドレ",
     "romanizedName": "Andore",
     "englishName": "Andre",
@@ -591,7 +561,7 @@
   },
   {
     "id": "c-28",
-    "image": "https//www.onepieceapi.com/api/images/c-28",
+    "image": "https://www.onepieceapi.com/api/images/c-28.jpeg",
     "japaneseName": "アンジョウ",
     "romanizedName": "Anjō",
     "englishName": "Anjo",
@@ -624,7 +594,7 @@
   },
   {
     "id": "c-30",
-    "image": "https//www.onepieceapi.com/api/images/c-30",
+    "image": "https://www.onepieceapi.com/api/images/c-30.jpeg",
     "japaneseName": "アントニオ",
     "romanizedName": "Antonio",
     "englishName": "Antonio",
@@ -646,7 +616,7 @@
   },
   {
     "id": "c-31",
-    "image": "https//www.onepieceapi.com/api/images/c-31",
+    "image": "https://www.onepieceapi.com/api/images/c-31.jpeg",
     "japaneseName": "アフェランドラ",
     "romanizedName": "Aferandora",
     "englishName": "Aphelandra",
@@ -659,7 +629,10 @@
       "Kuja Pirates"
     ],
     "occupations": [
-      "Warrior (Former), Pirate"
+      "Pirate"
+    ],
+    "formerOccupations": [
+      "Warrior"
     ],
     "origin": "Calm Belt (Amazon Lily)",
     "residence": [
@@ -670,7 +643,7 @@
   },
   {
     "id": "c-32",
-    "image": "https//www.onepieceapi.com/api/images/c-32",
+    "image": "https://www.onepieceapi.com/api/images/c-32.jpeg",
     "japaneseName": "アラマキ",
     "romanizedName": "Aramaki",
     "englishName": "Aramaki",
@@ -699,7 +672,7 @@
   },
   {
     "id": "c-33",
-    "image": "https//www.onepieceapi.com/api/images/c-33",
+    "image": "https://www.onepieceapi.com/api/images/c-33.jpeg",
     "japaneseName": "アレモ・ガンミー",
     "romanizedName": "Aremo Ganmī",
     "englishName": "Peekatha Krotch",
@@ -714,7 +687,7 @@
   },
   {
     "id": "c-34",
-    "image": "https//www.onepieceapi.com/api/images/c-34",
+    "image": "https://www.onepieceapi.com/api/images/c-34.jpeg",
     "japaneseName": "アーロン",
     "romanizedName": "Āron",
     "englishName": "Arlong",
@@ -723,14 +696,18 @@
       "Episode 31"
     ],
     "affiliations": [
-      "Arlong Pirates",
-      "Sun Pirates (former)",
-      "Impel Down (former)"
+      "Arlong Pirates"
+    ],
+    "formerAffiliations": [
+      "Sun Pirates",
+      "Impel Down"
     ],
     "occupations": [
       "Pirate",
-      "Captain",
-      "Prisoner of the Great Prison (former)"
+      "Captain"
+    ],
+    "formerOccupations": [
+      "Prisoner of the Great Prison"
     ],
     "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
     "residence": [
@@ -745,7 +722,7 @@
   },
   {
     "id": "c-35",
-    "image": "https//www.onepieceapi.com/api/images/c-35",
+    "image": "https://www.onepieceapi.com/api/images/c-35.jpeg",
     "japaneseName": "ツメゲリ部隊",
     "romanizedName": "Tsumegeri Butai",
     "englishName": "Kicking Claw Force; Elite Alabastian Royal Guards",
@@ -763,7 +740,7 @@
   },
   {
     "id": "c-36",
-    "image": "https//www.onepieceapi.com/api/images/c-36",
+    "image": "https://www.onepieceapi.com/api/images/c-36.jpeg",
     "japaneseName": "アーサー",
     "romanizedName": "Āsā",
     "englishName": "Arthur",
@@ -781,7 +758,7 @@
   },
   {
     "id": "c-37",
-    "image": "https//www.onepieceapi.com/api/images/c-37",
+    "image": "https://www.onepieceapi.com/api/images/c-37.jpeg",
     "japaneseName": "アルユータヤン五世",
     "romanizedName": "Aruyūtayan Gosei",
     "englishName": "N/A",
@@ -800,7 +777,7 @@
   },
   {
     "id": "c-38",
-    "image": "https//www.onepieceapi.com/api/images/c-38",
+    "image": "https://www.onepieceapi.com/api/images/c-38.jpeg",
     "japaneseName": "アサヒジャー",
     "romanizedName": "Asahijā",
     "englishName": "Heercomes Dasun",
@@ -818,7 +795,7 @@
   },
   {
     "id": "c-39",
-    "image": "https//www.onepieceapi.com/api/images/c-39",
+    "image": "https://www.onepieceapi.com/api/images/c-39.jpeg",
     "japaneseName": "麻七",
     "romanizedName": "Asashichi",
     "englishName": "N/A",
@@ -836,7 +813,7 @@
   },
   {
     "id": "c-40",
-    "image": "https//www.onepieceapi.com/api/images/c-40",
+    "image": "https://www.onepieceapi.com/api/images/c-40.jpeg",
     "japaneseName": "アシュラ童子",
     "romanizedName": "Ashura Dōji",
     "englishName": "Ashura Doji",
@@ -860,14 +837,14 @@
       "Wano Country (Kuri: Mt. Atama)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "56",
+    "ageAtDeath": 56,
     "birthday": "April 10th",
     "height": 544,
     "bloodType": "X"
   },
   {
     "id": "c-41",
-    "image": "https//www.onepieceapi.com/api/images/c-41",
+    "image": "https://www.onepieceapi.com/api/images/c-41.jpeg",
     "japaneseName": "アスワ",
     "romanizedName": "Asuwa",
     "englishName": "Aswa",
@@ -885,7 +862,7 @@
   },
   {
     "id": "c-42",
-    "image": "https//www.onepieceapi.com/api/images/c-42",
+    "image": "https://www.onepieceapi.com/api/images/c-42.jpeg",
     "japaneseName": "アタゴ山",
     "romanizedName": "Atagoyama",
     "englishName": "N/A",
@@ -991,7 +968,7 @@
     "devilFruit": {
       "japaneseName": "Shima Shima no Mi",
       "englishName": "Isle-Isle Fruit",
-      "meaning": [
+      "meanings": [
         "Island"
       ],
       "type": "Paramecia"
@@ -999,7 +976,7 @@
   },
   {
     "id": "c-47",
-    "image": "https//www.onepieceapi.com/api/images/c-47",
+    "image": "https://www.onepieceapi.com/api/images/c-47.jpeg",
     "japaneseName": "エーエスエ・ムアール",
     "romanizedName": "Ēesue Muāru",
     "englishName": "N/A",
@@ -1019,7 +996,7 @@
   },
   {
     "id": "c-48",
-    "image": "https//www.onepieceapi.com/api/images/c-48",
+    "image": "https://www.onepieceapi.com/api/images/c-48.jpeg",
     "japaneseName": "あずき",
     "romanizedName": "Azuki",
     "englishName": "N/A",
@@ -1034,7 +1011,7 @@
   },
   {
     "id": "c-49",
-    "image": "https//www.onepieceapi.com/api/images/c-49",
+    "image": "https://www.onepieceapi.com/api/images/c-49.jpeg",
     "japaneseName": "ババヌキ",
     "romanizedName": "Babanuki",
     "englishName": "Babanuki",
@@ -1058,7 +1035,7 @@
   },
   {
     "id": "c-50",
-    "image": "https//www.onepieceapi.com/api/images/c-50",
+    "image": "https://www.onepieceapi.com/api/images/c-50.jpeg",
     "japaneseName": "ベーブ",
     "romanizedName": "Bēbu",
     "englishName": "Babe",
@@ -1084,7 +1061,7 @@
   },
   {
     "id": "c-51",
-    "image": "https//www.onepieceapi.com/api/images/c-51",
+    "image": "https://www.onepieceapi.com/api/images/c-51.jpeg",
     "japaneseName": "ベビー5",
     "romanizedName": "Bebī Faibu",
     "englishName": "Baby Five",
@@ -1128,7 +1105,7 @@
   },
   {
     "id": "c-52",
-    "image": "https//www.onepieceapi.com/api/images/c-52",
+    "image": "https://www.onepieceapi.com/api/images/c-52.jpeg",
     "japaneseName": "バキュラ",
     "romanizedName": "Bakyura",
     "englishName": "Bakula",
@@ -1152,7 +1129,7 @@
   },
   {
     "id": "c-53",
-    "image": "https//www.onepieceapi.com/api/images/c-53",
+    "image": "https://www.onepieceapi.com/api/images/c-53.jpeg",
     "japaneseName": "バガリー",
     "romanizedName": "Bagarī",
     "englishName": "Baggaly",
@@ -1171,7 +1148,7 @@
   },
   {
     "id": "c-54",
-    "image": "https//www.onepieceapi.com/api/images/c-54",
+    "image": "https://www.onepieceapi.com/api/images/c-54.jpeg",
     "japaneseName": "バケゾー",
     "romanizedName": "Bakezō",
     "englishName": "Bazeko",
@@ -1187,7 +1164,7 @@
   },
   {
     "id": "c-55",
-    "image": "https//www.onepieceapi.com/api/images/c-55",
+    "image": "https://www.onepieceapi.com/api/images/c-55.jpeg",
     "japaneseName": "バン・ドデシネ",
     "romanizedName": "Ban Dodeshine",
     "englishName": "N/A",
@@ -1202,9 +1179,7 @@
       "Queen"
     ],
     "origin": "East Blue",
-    "residence": [
-      "Frauce Kingdom"
-    ],
+    "residence": "Frauce Kingdom",
     "status": "Alive"
   },
   {
@@ -1228,10 +1203,10 @@
   },
   {
     "id": "c-57",
-    "image": "https//www.onepieceapi.com/api/images/c-57",
+    "image": "https://www.onepieceapi.com/api/images/c-57.jpeg",
     "japaneseName": "バンキーナ",
     "romanizedName": "Bankīna",
-    "englishName": "Bankina (WT100);Banchina (Live-Action Series)",
+    "englishName": "Banchina",
     "debut": [
       "Chapter 41",
       "Episode 17"
@@ -1242,7 +1217,7 @@
   },
   {
     "id": "c-58",
-    "image": "https//www.onepieceapi.com/api/images/c-58",
+    "image": "https://www.onepieceapi.com/api/images/c-58.jpeg",
     "japaneseName": "バンクロ",
     "romanizedName": "Bankuro",
     "englishName": "Bancro",
@@ -1260,7 +1235,7 @@
   },
   {
     "id": "c-59",
-    "image": "https//www.onepieceapi.com/api/images/c-59",
+    "image": "https://www.onepieceapi.com/api/images/c-59.jpeg",
     "japaneseName": "バンシー",
     "romanizedName": "Banshī",
     "englishName": "Banshee",
@@ -1272,11 +1247,11 @@
       "Spade Pirates"
     ],
     "status": "Alive",
-    "age": "Over 30"
+    "age": "Unknown"
   },
   {
     "id": "c-60",
-    "image": "https//www.onepieceapi.com/api/images/c-60",
+    "image": "https://www.onepieceapi.com/api/images/c-60.jpeg",
     "japaneseName": "番三郎",
     "romanizedName": "Banzaburō",
     "englishName": "Banzaburo",
@@ -1298,7 +1273,7 @@
   },
   {
     "id": "c-61",
-    "image": "https//www.onepieceapi.com/api/images/c-61",
+    "image": "https://www.onepieceapi.com/api/images/c-61.jpeg",
     "japaneseName": "ギョロ, ニン, バオ",
     "romanizedName": "Gyoro, Nin, Bao",
     "englishName": "Gyoro, Nin, Bao",
@@ -1316,7 +1291,7 @@
   },
   {
     "id": "c-62",
-    "image": "https//www.onepieceapi.com/api/images/c-62",
+    "image": "https://www.onepieceapi.com/api/images/c-62.jpeg",
     "japaneseName": "バオファン",
     "romanizedName": "Baofan",
     "englishName": "Bao Huang",
@@ -1340,7 +1315,7 @@
   },
   {
     "id": "c-63",
-    "image": "https//www.onepieceapi.com/api/images/c-63",
+    "image": "https://www.onepieceapi.com/api/images/c-63.jpeg",
     "japaneseName": "バリエテ",
     "romanizedName": "Bariete",
     "englishName": "Bariete",
@@ -1363,7 +1338,7 @@
   },
   {
     "id": "c-64",
-    "image": "https//www.onepieceapi.com/api/images/c-64",
+    "image": "https://www.onepieceapi.com/api/images/c-64.jpeg",
     "japaneseName": "ツメゲリ部隊",
     "romanizedName": "Tsumegeri Butai",
     "englishName": "Kicking Claw Force; Elite Alabastian Royal Guards",
@@ -1381,7 +1356,7 @@
   },
   {
     "id": "c-65",
-    "image": "https//www.onepieceapi.com/api/images/c-65",
+    "image": "https://www.onepieceapi.com/api/images/c-65.jpeg",
     "japaneseName": "バリー",
     "romanizedName": "Barī",
     "englishName": "Barry",
@@ -1399,34 +1374,39 @@
   },
   {
     "id": "c-66",
-    "image": "https//www.onepieceapi.com/api/images/c-66",
+    "image": "https://www.onepieceapi.com/api/images/c-66.jpeg",
     "japaneseName": "バーソロミュー・くま",
     "romanizedName": "Bāsoromyū Kuma",
     "englishName": "Bartholomew Kuma",
-    "debut": [
-      "Chapter 233",
-      "Episode 151"
-    ],
+    "debut": {
+      "chapter": 233,
+      "episode": 151
+    },
     "affiliations": [
-      "Revolutionary Army",
-      "Freedom Fighters (former)",
-      "Seven Warlords of the Sea (former)",
-      "Sorbet Kingdom (former)"
+      "Revolutionary Army"
+    ],
+    "formerAffiliations": [
+      "Freedom Fighters",
+      "Seven Warlords of the Sea",
+      "Sorbet Kingdom"
     ],
     "occupations": [
-      "Army Commander of the Revolutionary Army",
-      "Slave (former)",
-      "Warlord of the Sea (former)",
-      "King of Sorbet Kingdom (former)",
-      "Pastor (former)"
+      "Army Commander of the Revolutionary Army"
+    ],
+    "formerOccupations": [
+      "Slave",
+      "Warlord of the Sea",
+      "King of Sorbet Kingdom",
+      "Pastor"
     ],
     "origin": "South Blue (Sorbet Kingdom)",
-    "residence": [
-      "Sorbet Kingdom (former)",
-      "Baltigo (former)",
-      "Egghead (former, temporary)",
-      "Mary Geoise (former)",
-      "Sabaody Archipelago (former, temporary)"
+    "residence": "",
+    "formerResidences": [
+      "Sorbet Kingdom",
+      "Baltigo",
+      "Egghead",
+      "Mary Geoise",
+      "Sabaody Archipelago"
     ],
     "status": "Alive",
     "age": 47,
@@ -1445,7 +1425,7 @@
   },
   {
     "id": "c-67",
-    "image": "https//www.onepieceapi.com/api/images/c-67",
+    "image": "https://www.onepieceapi.com/api/images/c-67.jpeg",
     "japaneseName": "バルトロメオ",
     "romanizedName": "Barutoromeo",
     "englishName": "Bartolomeo",
@@ -1455,13 +1435,17 @@
     ],
     "affiliations": [
       "Barto Club",
-      "his own Mafia Family (former)",
       "Straw Hat Grand Fleet"
+    ],
+    "formerAffiliations": [
+      "his own Mafia Family"
     ],
     "occupations": [
       "Captain of the Second Ship of the Straw Hat Grand Fleet",
-      "Pirate Captain",
-      "Mafia Leader (former)"
+      "Pirate Captain"
+    ],
+    "formerOccupations": [
+      "Mafia Leader"
     ],
     "origin": "East Blue",
     "status": "Alive",
@@ -1481,14 +1465,14 @@
   },
   {
     "id": "c-68",
-    "image": "https//www.onepieceapi.com/api/images/c-68",
+    "image": "https://www.onepieceapi.com/api/images/c-68.jpeg",
     "japaneseName": "バスカビル",
     "romanizedName": "Basukabiru",
     "englishName": "Baskerville",
-    "debut": [
-      "Chapter 379",
-      "Episode 267"
-    ],
+    "debut": {
+      "chapter": 379,
+      "episode": 267
+    },
     "affiliations": [
       "World Government (Enies Lobby)"
     ],
@@ -1503,7 +1487,7 @@
       "And: 53",
       "Kerville: 42"
     ],
-    "birthday": "Bas: March 30thAnd: March 31stKerville: April 1st",
+    "birthday": "Bas: March 30th And: March 31st Kerville: April 1st",
     "height": [
       "512 cm (16'9½) (combined)"
     ],
@@ -2288,7 +2272,7 @@
   },
   {
     "id": "c-101",
-    "image": "https//www.onepieceapi.com/api/images/c-101",
+    "image": "https://www.onepieceapi.com/api/images/c-101.jpeg",
     "japaneseName": "ブルーノ",
     "romanizedName": "Burūno",
     "englishName": "Blueno",
@@ -2310,7 +2294,7 @@
     "birthday": "April 20th",
     "height": 258,
     "bloodType": "X",
-    "doriki": "820[9]",
+    "doriki": 820,
     "devilFruit": {
       "japaneseName": "Doa Doa no Mi",
       "englishName": "Door-Door Fruit",
@@ -2444,7 +2428,7 @@
     "bounty": 40000000,
     "devilFruit": {
       "japaneseName": "Hebi Hebi no Mi, Model: Anaconda",
-      "englishName": "Snake-Snake Fruit: Model Anaconda (Funimation)",
+      "englishName": "Snake-Snake Fruit: Model Anaconda",
       "meaning": [
         "Snake"
       ],
@@ -2893,7 +2877,7 @@
   },
   {
     "id": "c-127",
-    "image": "https//www.onepieceapi.com/api/images/c-127",
+    "image": "https://www.onepieceapi.com/api/images/c-127.jpeg",
     "japaneseName": "ブルック",
     "romanizedName": "Burukku",
     "englishName": "Brook",
@@ -2937,7 +2921,7 @@
   },
   {
     "id": "c-128",
-    "image": "https//www.onepieceapi.com/api/images/c-128",
+    "image": "https://www.onepieceapi.com/api/images/c-128.jpeg",
     "japaneseName": "バブルガム",
     "romanizedName": "Baburugamu",
     "englishName": "Bubblegum",
@@ -2955,7 +2939,7 @@
   },
   {
     "id": "c-129",
-    "image": "https//www.onepieceapi.com/api/images/c-129",
+    "image": "https://www.onepieceapi.com/api/images/c-129.jpeg",
     "japaneseName": "ブッシュ",
     "romanizedName": "Busshu",
     "englishName": "Bouche",
@@ -2976,7 +2960,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-130",
     "japaneseName": "ブチ",
     "romanizedName": "Buchi",
-    "englishName": "ButchieBuchi (WT100)",
+    "englishName": "ButchieBuchi",
     "debut": [
       "Chapter 31",
       "Episode 13"
@@ -3129,7 +3113,7 @@
       "Surprise Zombie Boss"
     ],
     "status": "Deceased",
-    "zombieNumber": "298"
+    "zombieNumber": 298
   },
   {
     "id": "c-135",
@@ -3283,7 +3267,7 @@
     "age": 25,
     "birthday": "December 18th",
     "height": 192,
-    "weight": "130 kg (286.6 lbs)[1]"
+    "weight": 130
   },
   {
     "id": "c-143",
@@ -3818,7 +3802,7 @@
     ],
     "status": "Deceased",
     "birthday": "November 29th",
-    "zombieNumber": "82"
+    "zombieNumber": 82
   },
   {
     "id": "c-164",
@@ -6360,7 +6344,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-271",
     "japaneseName": "チョコポリス",
     "romanizedName": "Chokoporisu",
-    "englishName": "Choco-Police (VIZ); Chocopolice (Funimation)",
+    "englishName": "Chocopolice",
     "debut": [
       "Chapter 827",
       "Episode 786"
@@ -8547,10 +8531,10 @@
   },
   {
     "id": "c-369",
-    "image": "https//www.onepieceapi.com/api/images/c-369",
+    "image": "https://www.onepieceapi.com/api/images/c-369.jpeg",
     "japaneseName": "エドワード・二ューゲート",
     "romanizedName": "Edowādo Nyūgēto",
-    "englishName": "Edward Newgate (VIZ, Funimation);Ward Newgate (4Kids)",
+    "englishName": "Edward Newgate",
     "debut": [
       "Chapter 159",
       "Episode 95 (silhouette)",
@@ -9536,7 +9520,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-413",
     "japaneseName": "フクロウ",
     "romanizedName": "Fukurō",
-    "englishName": "Fukurô (Viz); Fukurou (FUNimation) (former)",
+    "englishName": "Fukurou",
     "debut": [
       "Chapter 375",
       "Episode 264"
@@ -9554,8 +9538,7 @@
     "birthday": "June 29th",
     "height": 331,
     "bloodType": "S",
-    "doriki": "800[8]",
-    "cP9Key": "4"
+    "doriki": 800
   },
   {
     "id": "c-414",
@@ -11876,7 +11859,7 @@
     ],
     "origin": "East Blue",
     "status": "Deceased",
-    "ageAtDeath": "46[2]",
+    "ageAtDeath": 46,
     "birthday": "November 18th",
     "height": 190,
     "bloodType": "X",
@@ -11927,7 +11910,7 @@
       "Wild Zombie"
     ],
     "status": "Deceased",
-    "zombieNumber": "21"
+    "zombieNumber": 21
   },
   {
     "id": "c-528",
@@ -13333,10 +13316,9 @@
     "birthday": "June 5th",
     "height": 212,
     "bloodType": "S",
-    "doriki": "2180[7]",
-    "cP9Key": "1",
+    "doriki": 2180,
     "devilFruit": {
-      "japaneseName": "Inu Inu no Mi, Model: Wolf[8]",
+      "japaneseName": "Inu Inu no Mi, Model: Wolf",
       "englishName": "Mutt-Mutt Fruit Wolf Model",
       "meaning": [
         "Dog"
@@ -13346,7 +13328,7 @@
   },
   {
     "id": "c-593",
-    "image": "https//www.onepieceapi.com/api/images/c-593",
+    "image": "https://www.onepieceapi.com/api/images/c-593.jpeg",
     "japaneseName": "ジャック",
     "romanizedName": "Jakku",
     "englishName": "Jack",
@@ -13380,16 +13362,6 @@
       ],
       "type": "Ancient Zoan"
     }
-  },
-  {
-    "id": "c-594",
-    "image": "https//www.onepieceapi.com/api/images/c-594",
-    "japaneseName": "ゾンビ",
-    "romanizedName": "Zonbi",
-    "englishName": "Zombie",
-    "firstAppearance": "Chapter 444; Episode 339",
-    "features": "Variable; common feature is stitches",
-    "homeland": "Thriller Bark"
   },
   {
     "id": "c-595",
@@ -13865,7 +13837,7 @@
     "birthday": "February 21st",
     "height": 238,
     "bloodType": "S",
-    "zombieNumber": "850"
+    "zombieNumber": 850
   },
   {
     "id": "c-616",
@@ -14151,7 +14123,7 @@
   },
   {
     "id": "c-629",
-    "image": "https//www.onepieceapi.com/api/images/c-629",
+    "image": "https://www.onepieceapi.com/api/images/c-629.jpeg",
     "devilFruit": {
       "japaneseName": "ジョイボーイ",
       "romanizedName": "Joi Bōi",
@@ -14162,7 +14134,7 @@
   },
   {
     "id": "c-630",
-    "image": "https//www.onepieceapi.com/api/images/c-630",
+    "image": "https://www.onepieceapi.com/api/images/c-630.jpeg",
     "japaneseName": "ジョズ",
     "romanizedName": "Jozu",
     "englishName": "Jozu",
@@ -14186,7 +14158,7 @@
     "bounty": "Unknown",
     "devilFruit": {
       "japaneseName": "Kira Kira no Mi",
-      "englishName": "Twinkle-Twinkle Fruit[7]",
+      "englishName": "Twinkle-Twinkle Fruit",
       "meaning": [
         "Sparkle"
       ],
@@ -14195,7 +14167,7 @@
   },
   {
     "id": "c-631",
-    "image": "https//www.onepieceapi.com/api/images/c-631",
+    "image": "https://www.onepieceapi.com/api/images/c-631.jpeg",
     "japaneseName": "ジュディ",
     "romanizedName": "Judi",
     "englishName": "Judi",
@@ -14215,7 +14187,7 @@
   },
   {
     "id": "c-632",
-    "image": "https//www.onepieceapi.com/api/images/c-632",
+    "image": "https://www.onepieceapi.com/api/images/c-632.jpeg",
     "japaneseName": "十字ロウ",
     "romanizedName": "Jūjirō",
     "englishName": "N/A",
@@ -14512,8 +14484,7 @@
     "birthday": "August 7th",
     "height": 193,
     "bloodType": "X",
-    "doriki": "2200",
-    "cP9Key": "5",
+    "doriki": 2200,
     "devilFruit": {
       "japaneseName": "Ushi Ushi no Mi, Model: Giraffe",
       "englishName": "Ox-Ox Fruit Giraffe Model",
@@ -14623,8 +14594,7 @@
     "birthday": "April 23rd",
     "height": 185,
     "bloodType": "XF",
-    "doriki": "630[9]",
-    "cP9Key": "2",
+    "doriki": 630,
     "devilFruit": {
       "japaneseName": "Awa Awa no Mi",
       "englishName": "Bubble-Bubble Fruit",
@@ -15125,65 +15095,39 @@
     }
   },
   {
-    "id": "c-673",
-    "image": "https//www.onepieceapi.com/api/images/c-673",
-    "japaneseName": "バスカビル",
-    "romanizedName": "Basukabiru",
-    "englishName": "Baskerville",
-    "debut": [
-      "Chapter 379",
-      "Episode 267"
-    ],
-    "affiliations": [
-      "World Government (Enies Lobby)"
-    ],
-    "occupations": [
-      "Chief Justices of Enies Lobby"
-    ],
-    "origin": "Grand Line",
-    "birthName": "Bas (バス, Basu?) (left)*;And (アンド, Ando?) (middle)*[2]Kerville (カビル, Kabiru?) (right)*",
-    "status": "Unknown",
-    "age": [
-      "Bas: 48",
-      "And: 53",
-      "Kerville: 42",
-      ""
-    ],
-    "birthday": "Bas: March 30thAnd: March 31stKerville: April 1st",
-    "height": [
-      "512 cm (16'9½) (combined)"
-    ],
-    "bloodType": "Bas: XAnd: XFKerville: F"
-  },
-  {
     "id": "c-674",
-    "image": "https//www.onepieceapi.com/api/images/c-674",
+    "image": "https://www.onepieceapi.com/api/images/c-674.jpeg",
     "japaneseName": "キバガエル",
     "romanizedName": "Kibagaeru",
     "englishName": "Kibagaeru",
-    "debut": [
-      "Chapter 306",
-      "Episode 208"
-    ],
+    "debut": {
+      "chapter": 306,
+      "episode": 208
+    },
     "affiliations": [
-      "Foxy Pirates",
-      "Fanged Toad Pirates (former)"
+      "Foxy Pirates"
+    ],
+    "formerAffiliations": [
+      "Fanged Toad Pirates"
     ],
     "occupations": [
-      "Pirate",
-      "Captain (former)"
+      "Pirate"
+    ],
+    "formerOccupations": [
+      "Captain"
     ],
     "status": "Alive"
   },
   {
     "id": "c-675",
-    "image": "https//www.onepieceapi.com/api/images/c-675",
+    "image": "https://www.onepieceapi.com/api/images/c-675.jpeg",
     "japaneseName": "キビン",
     "romanizedName": "Kibin",
     "englishName": "Kibin",
-    "debut": [
-      "Chapter 594, Episode 475"
-    ],
+    "debut": {
+      "chapter": 594,
+      "episode": 475
+    },
     "affiliations": [
       "Marines"
     ],
@@ -15194,7 +15138,7 @@
   },
   {
     "id": "c-676",
-    "image": "https//www.onepieceapi.com/api/images/c-676",
+    "image": "https://www.onepieceapi.com/api/images/c-676.jpeg",
     "japaneseName": "キエフ",
     "romanizedName": "Kiefu",
     "englishName": "Kiev",
@@ -15207,11 +15151,10 @@
       "Galley-La Company"
     ],
     "occupations": [
-      "Dismantler, Bounty Hunter"
+      "Dismantler",
+      "Bounty Hunter"
     ],
-    "residence": [
-      "Water 7"
-    ],
+    "residence": "Water 7",
     "status": "Alive"
   },
   {
@@ -15245,9 +15188,7 @@
     "occupations": [
       "Warrior"
     ],
-    "residence": [
-      "Amazon Lily"
-    ],
+    "residence": "Amazon Lily",
     "status": "Alive"
   },
   {
@@ -15305,22 +15246,24 @@
   },
   {
     "id": "c-681",
-    "image": "https//www.onepieceapi.com/api/images/c-681",
+    "image": "https://www.onepieceapi.com/api/images/c-681.jpeg",
     "japaneseName": "キラー",
     "romanizedName": "Kirā",
     "englishName": "Killer",
-    "debut": [
-      "Chapter 498",
-      "Episode 392"
-    ],
+    "debut": {
+      "chapter": 498,
+      "episode": 392
+    },
     "affiliations": [
       "Kid Pirates",
       "Kurozumi Orochi (defected)"
     ],
     "occupations": [
       "Pirate",
-      "Combatant",
-      "Assassin (former)"
+      "Combatant"
+    ],
+    "formerOccupations": [
+      "Assassin"
     ],
     "origin": "South Blue",
     "status": "Unknown",
@@ -15332,13 +15275,14 @@
   },
   {
     "id": "c-682",
-    "image": "https//www.onepieceapi.com/api/images/c-682",
+    "image": "https://www.onepieceapi.com/api/images/c-682.jpeg",
     "japaneseName": "キメル",
     "romanizedName": "Kimeru",
     "englishName": "Kimel",
-    "debut": [
-      "Chapter 552, Episode 461"
-    ],
+    "debut": {
+      "chapter": 552,
+      "episode": 461
+    },
     "affiliations": [
       "Spade Pirates"
     ],
@@ -15349,7 +15293,7 @@
   },
   {
     "id": "c-683",
-    "image": "https//www.onepieceapi.com/api/images/c-683",
+    "image": "https://www.onepieceapi.com/api/images/c-683.jpeg",
     "japaneseName": "錦えもん",
     "romanizedName": "Kin'emon",
     "englishName": "Kin'emon",
@@ -15365,13 +15309,13 @@
     "occupations": [
       "Samurai",
       "Retainer of the Kozuki Family",
-      "Leader of the Nine Red Scabbards",
-      "Thief (former)"
+      "Leader of the Nine Red Scabbards"
+    ],
+    "formerOccupations": [
+      "Thief"
     ],
     "origin": "Grand Line (Wano Country)",
-    "residence": [
-      "Wano Country (Kuri)"
-    ],
+    "residence": "Wano Country (Kuri)",
     "status": "Alive",
     "age": 36,
     "birthday": "January 29th",
@@ -15379,8 +15323,8 @@
     "bloodType": "X",
     "devilFruit": {
       "japaneseName": "Fuku Fuku no Mi",
-      "englishName": "Garb-Garb Jutsu (VIZ and Funimation);Garb-Garb Fruit (One Piece Official YouTube Channel)[11]",
-      "meaning": [
+      "englishName": "Garb-Garb Fruit",
+      "meanings": [
         "Clothing"
       ],
       "type": "Paramecia"
@@ -15388,7 +15332,7 @@
   },
   {
     "id": "c-684",
-    "image": "https//www.onepieceapi.com/api/images/c-684",
+    "image": "https://www.onepieceapi.com/api/images/c-684.jpeg",
     "japaneseName": "キン坊",
     "romanizedName": "Kinbō",
     "englishName": "N/A",
@@ -15396,9 +15340,7 @@
       "Chapter 917",
       "Episode 904"
     ],
-    "residence": [
-      "Wano Country (Okobore Town)"
-    ],
+    "residence": "Wano Country (Okobore Town)",
     "status": "Alive"
   },
   {
@@ -15423,7 +15365,7 @@
   },
   {
     "id": "c-686",
-    "image": "https//www.onepieceapi.com/api/images/c-686",
+    "image": "https://www.onepieceapi.com/api/images/c-686.jpeg",
     "japaneseName": "キング",
     "romanizedName": "Kingu",
     "englishName": "King",
@@ -15440,10 +15382,12 @@
       "All-Star"
     ],
     "origin": "Grand Line",
-    "residence": [
-      "Wano Country"
-    ],
-    "birthName": "Alber (アルベル, Aruberu?)[3]",
+    "residence": "Wano Country",
+    "birthName": {
+      "japanese": "アルベル",
+      "romanized": "Aruberu",
+      "english": "Alber"
+    },
     "status": "Alive",
     "age": 47,
     "birthday": "December 1st",
@@ -15453,7 +15397,7 @@
     "devilFruit": {
       "japaneseName": "Ryu Ryu no Mi, Model: Pteranodon",
       "englishName": "Dragon-Dragon Fruit, Model: Pteranodon",
-      "meaning": [
+      "meanings": [
         "Dragon, Pteranodon"
       ],
       "type": "Ancient Zoan"
@@ -15461,7 +15405,7 @@
   },
   {
     "id": "c-687",
-    "image": "https//www.onepieceapi.com/api/images/c-687",
+    "image": "https://www.onepieceapi.com/api/images/c-687.jpeg",
     "japaneseName": "キングバーム",
     "romanizedName": "Kingubāmu",
     "englishName": "Kingbaum",
@@ -15477,16 +15421,14 @@
       "Master of the Seducing Woods"
     ],
     "origin": "Grand Line (Totto Land)",
-    "residence": [
-      "Whole Cake Island (Seducing Woods)"
-    ],
+    "residence": "Whole Cake Island (Seducing Woods)",
     "status": "Unknown",
     "birthday": "July 13th",
     "height": 2340
   },
   {
     "id": "c-688",
-    "image": "https//www.onepieceapi.com/api/images/c-688",
+    "image": "https://www.onepieceapi.com/api/images/c-688.jpeg",
     "japaneseName": "キンガ",
     "romanizedName": "Kinga",
     "englishName": "Kinga",
@@ -15505,7 +15447,7 @@
   },
   {
     "id": "c-689",
-    "image": "https//www.onepieceapi.com/api/images/c-689",
+    "image": "https://www.onepieceapi.com/api/images/c-689.jpeg",
     "japaneseName": "キングデュー",
     "romanizedName": "Kingudyū",
     "englishName": "Kingdew",
@@ -15527,7 +15469,7 @@
   },
   {
     "id": "c-690",
-    "image": "https//www.onepieceapi.com/api/images/c-690",
+    "image": "https://www.onepieceapi.com/api/images/c-690.jpeg",
     "japaneseName": "キノコ",
     "romanizedName": "Kinoko",
     "englishName": "Mushroom",
@@ -15548,7 +15490,7 @@
   },
   {
     "id": "c-691",
-    "image": "https//www.onepieceapi.com/api/images/c-691",
+    "image": "https://www.onepieceapi.com/api/images/c-691.jpeg",
     "japaneseName": "キリン子ダヌキ",
     "romanizedName": "Kirinkodanuki",
     "englishName": "N/A",
@@ -15563,7 +15505,7 @@
   },
   {
     "id": "c-692",
-    "image": "https//www.onepieceapi.com/api/images/c-692",
+    "image": "https://www.onepieceapi.com/api/images/c-692.jpeg",
     "japaneseName": "キリンタウロス",
     "romanizedName": "Kirintaurosu",
     "englishName": "Kirintauros",
@@ -15579,7 +15521,7 @@
   },
   {
     "id": "c-693",
-    "image": "https//www.onepieceapi.com/api/images/c-693",
+    "image": "https://www.onepieceapi.com/api/images/c-693.jpeg",
     "japaneseName": "きせ川",
     "romanizedName": "Kisegawa",
     "englishName": "Kisegawa",
@@ -15597,7 +15539,7 @@
   },
   {
     "id": "c-694",
-    "image": "https//www.onepieceapi.com/api/images/c-694",
+    "image": "https://www.onepieceapi.com/api/images/c-694.jpeg",
     "japaneseName": "キットン",
     "romanizedName": "Kitton",
     "englishName": "Kitton",
@@ -15606,34 +15548,6 @@
       "Episode 418"
     ],
     "status": "Alive"
-  },
-  {
-    "id": "c-695",
-    "image": "https//www.onepieceapi.com/api/images/c-695",
-    "japaneseName": "モズ&キウイ",
-    "romanizedName": "Mozu & Kiui",
-    "englishName": "Mozu and Kiwi",
-    "debut": [
-      "Chapter 329",
-      "Episode 233"
-    ],
-    "affiliations": [
-      "Franky Family"
-    ],
-    "occupations": [
-      "Bartenders",
-      "Dismantlers",
-      "Bounty Hunters"
-    ],
-    "origin": "Grand Line (Water 7, Slums)",
-    "residence": [
-      "Water 7"
-    ],
-    "status": "Alive",
-    "age": 22,
-    "birthday": "January 7th (Mozu); September 1st (Kiwi)",
-    "height": 187,
-    "bloodType": "F"
   },
   {
     "id": "c-696",
@@ -16045,7 +15959,7 @@
   },
   {
     "id": "c-715",
-    "image": "https//www.onepieceapi.com/api/images/c-715",
+    "image": "https://www.onepieceapi.com/api/images/c-715.jpeg",
     "japaneseName": "光月モモの助",
     "romanizedName": "Kōzuki Momonosuke",
     "englishName": "Kozuki Momonosuke",
@@ -16065,19 +15979,13 @@
       "Wano Country (Kuri)"
     ],
     "status": "Alive",
-    "age": [
-      "8",
-      "(born 28 years ago)(biologically 28)",
-      ""
-    ],
+    "age": 8,
     "birthday": "October 7th",
-    "height": [
-      "110 cm (3'7) (child body)"
-    ],
+    "height": 110,
     "bloodType": "X",
     "devilFruit": {
       "japaneseName": "Uo Uo no Mi, Model: Seiryu (Artificial)",
-      "englishName": "Fish-Fish Fruit, Model: Azure Dragon[9]Fish-Fish Fruit, Azure Dragon Model[10]",
+      "englishName": "Fish-Fish Fruit, Model: Azure Dragon",
       "meaning": [
         "Fish, Azure Dragon"
       ],
@@ -16086,24 +15994,28 @@
   },
   {
     "id": "c-716",
-    "image": "https//www.onepieceapi.com/api/images/c-716",
+    "image": "https://www.onepieceapi.com/api/images/c-716.jpeg",
     "japaneseName": "光月おでん",
     "romanizedName": "Kōzuki Oden",
-    "englishName": "Kozuki Oden;Kouzuki Oden (OPCG)",
+    "englishName": "Kozuki Oden",
     "debut": [
       "Chapter 920",
       "Episode 910"
     ],
     "affiliations": [
-      "Kozuki Family",
-      "Roger Pirates (former)",
-      "Whitebeard Pirates (former)"
+      "Kozuki Family"
+    ],
+    "formerAffiliations": [
+      "Roger Pirates",
+      "Whitebeard Pirates"
     ],
     "occupations": [
       "Samurai",
-      "Daimyo",
-      "Pirate (former)",
-      "2nd Division Commander (former)"
+      "Daimyo"
+    ],
+    "formerOccupations": [
+      "Pirate",
+      "2nd Division Commander"
     ],
     "origin": "Grand Line (Wano Country)",
     "residence": [
@@ -16119,7 +16031,7 @@
   },
   {
     "id": "c-717",
-    "image": "https//www.onepieceapi.com/api/images/c-717",
+    "image": "https://www.onepieceapi.com/api/images/c-717.jpeg",
     "japaneseName": "光月スキヤキ",
     "romanizedName": "Kōzuki Sukiyaki",
     "englishName": "Kozuki Sukiyaki",
@@ -16145,7 +16057,7 @@
   },
   {
     "id": "c-718",
-    "image": "https//www.onepieceapi.com/api/images/c-718",
+    "image": "https://www.onepieceapi.com/api/images/c-718.jpeg",
     "japaneseName": "光月トキ",
     "romanizedName": "Kōzuki Toki",
     "englishName": "Kozuki Toki",
@@ -16269,12 +16181,11 @@
     "birthday": "February 20th",
     "height": 338,
     "bloodType": "XF",
-    "doriki": "810",
-    "cP9Key": "3"
+    "doriki": 810
   },
   {
     "id": "c-723",
-    "image": "https//www.onepieceapi.com/api/images/c-723",
+    "image": "https://www.onepieceapi.com/api/images/c-723.jpeg",
     "japaneseName": "クマドリヤマンバ子",
     "romanizedName": "Kumadori Yamanba-ko",
     "englishName": "Kumadori Yamanbako",
@@ -16291,7 +16202,7 @@
   },
   {
     "id": "c-724",
-    "image": "https//www.onepieceapi.com/api/images/c-724",
+    "image": "https://www.onepieceapi.com/api/images/c-724.jpeg",
     "japaneseName": "くまエー",
     "romanizedName": "Kumaē",
     "englishName": "Kuma-A",
@@ -16305,7 +16216,7 @@
   },
   {
     "id": "c-725",
-    "image": "https//www.onepieceapi.com/api/images/c-725",
+    "image": "https://www.onepieceapi.com/api/images/c-725.jpeg",
     "japaneseName": "クマ五郎",
     "romanizedName": "Kumagorō",
     "englishName": "Kumagoro",
@@ -16319,18 +16230,8 @@
     "status": "Alive"
   },
   {
-    "id": "c-726",
-    "image": "https//www.onepieceapi.com/api/images/c-726",
-    "devilFruit": {
-      "japaneseName": "ベリー",
-      "romanizedName": "Berī",
-      "officialEnglishName": "Berry",
-      "firstAppearance": "Chapter 1; Episode 4 (mentioned)[1]Chapter 69; Episode 31 (shown)[2]"
-    }
-  },
-  {
     "id": "c-727",
-    "image": "https//www.onepieceapi.com/api/images/c-727",
+    "image": "https://www.onepieceapi.com/api/images/c-727.jpeg",
     "japaneseName": "クマシー",
     "romanizedName": "Kumashī",
     "englishName": "Kumacy",
@@ -16349,7 +16250,7 @@
   },
   {
     "id": "c-728",
-    "image": "https//www.onepieceapi.com/api/images/c-728",
+    "image": "https://www.onepieceapi.com/api/images/c-728.jpeg",
     "japaneseName": "クニさん",
     "romanizedName": "Kuni-san",
     "englishName": "Kuni",
@@ -16572,7 +16473,7 @@
   },
   {
     "id": "c-738",
-    "image": "https//www.onepieceapi.com/api/images/c-738",
+    "image": "https://www.onepieceapi.com/api/images/c-738.jpeg",
     "japaneseName": "黒炭カン十郎",
     "romanizedName": "Kurozumi Kanjūrō",
     "englishName": "Kurozumi Kanjuro",
@@ -16597,7 +16498,7 @@
       "Wano Country (Kuri)Wano Country (Kibi) (Former)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "34[5][8] (born 54 years ago)",
+    "ageAtDeath": 34,
     "birthday": "July 21st",
     "height": 347,
     "bloodType": "X",
@@ -16632,7 +16533,7 @@
       "Wano Country (Flower Capital)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "54[5]",
+    "ageAtDeath": 54,
     "birthday": "September 23rd",
     "height": 350,
     "bloodType": "XF",
@@ -19159,7 +19060,7 @@
       "Wild Zombie"
     ],
     "status": "Deceased",
-    "zombieNumber": "115"
+    "zombieNumber": 115
   },
   {
     "id": "c-858",
@@ -19979,9 +19880,7 @@
       "Bounty Hunters"
     ],
     "origin": "Grand Line (Water 7, Slums)",
-    "residence": [
-      "Water 7"
-    ],
+    "residence": "Water 7",
     "status": "Alive",
     "age": [
       "19 (Mozu, debut)",
@@ -19994,7 +19893,7 @@
   },
   {
     "id": "c-893",
-    "image": "https//www.onepieceapi.com/api/images/c-893",
+    "image": "https://www.onepieceapi.com/api/images/c-893.jpeg",
     "japaneseName": "Mr. 6",
     "romanizedName": "Misutā Shikkusu",
     "englishName": "Mr. 6",
@@ -20012,12 +19911,11 @@
   },
   {
     "id": "c-894",
-    "image": "https//www.onepieceapi.com/api/images/c-894",
-    "japaneseName": "Mr. 7",
+    "image": "https://www.onepieceapi.com/api/images/c-894.jpeg",
+    "japaneseName": "ミスター・セブン",
     "romanizedName": "Misutā Sebun",
     "englishName": "Mr. 7",
     "debut": [
-      "SBS Volume 36",
       "Chapter 190",
       "Episode 116 (mentioned)"
     ],
@@ -20031,8 +19929,8 @@
   },
   {
     "id": "c-895",
-    "image": "https//www.onepieceapi.com/api/images/c-895",
-    "japaneseName": "Mr. 7",
+    "image": "https://www.onepieceapi.com/api/images/c-895.jpeg",
+    "japaneseName": "ミスター・セブン",
     "romanizedName": "Misutā Sebun",
     "englishName": "Mr. 7",
     "debut": [
@@ -20043,27 +19941,32 @@
       "Baroque Works"
     ],
     "occupations": [
-      "Frontier Agent (former)",
       "Sniper"
+    ],
+    "formerOccupations": [
+      "Frontier Agent"
     ],
     "status": "Alive"
   },
   {
     "id": "c-896",
-    "image": "https//www.onepieceapi.com/api/images/c-896",
-    "japaneseName": "Mr. 9[1]",
+    "image": "https://www.onepieceapi.com/api/images/c-896.jpeg",
+    "japaneseName": "ミスター・ナイン",
     "romanizedName": "Misutā Nain",
     "englishName": "Mr. 9",
     "debut": [
       "Chapter 103",
       "Episode 62"
     ],
-    "affiliations": [
-      "Baroque Works (former)"
+    "affiliations": [],
+    "formerAffiliations": [
+      "Baroque Works"
     ],
     "occupations": [
-      "Frontier Agent (former)",
       "Bounty Hunter"
+    ],
+    "formerOccupations": [
+      "Frontier Agent"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -20071,8 +19974,8 @@
   },
   {
     "id": "c-897",
-    "image": "https//www.onepieceapi.com/api/images/c-897",
-    "japaneseName": "Mr. 10",
+    "image": "https://www.onepieceapi.com/api/images/c-897.jpeg",
+    "japaneseName": "ミスター・テン",
     "romanizedName": "Misutā Ten",
     "englishName": "Mr. 10",
     "debut": [
@@ -20089,8 +19992,8 @@
   },
   {
     "id": "c-898",
-    "image": "https//www.onepieceapi.com/api/images/c-898",
-    "japaneseName": "Mr. 11",
+    "image": "https://www.onepieceapi.com/api/images/c-898.jpeg",
+    "japaneseName": "ミスター・イレブン",
     "romanizedName": "Misutā Irebun",
     "englishName": "Mr. 11",
     "debut": [
@@ -20109,8 +20012,8 @@
   },
   {
     "id": "c-899",
-    "image": "https//www.onepieceapi.com/api/images/c-899",
-    "japaneseName": "Mr. 12",
+    "image": "https://www.onepieceapi.com/api/images/c-899.jpeg",
+    "japaneseName": "ミスター・トゥエルブ",
     "romanizedName": "Misutā Tuerubu",
     "englishName": "Mr. 12",
     "debut": [
@@ -20127,7 +20030,7 @@
   },
   {
     "id": "c-900",
-    "image": "https//www.onepieceapi.com/api/images/c-900",
+    "image": "https://www.onepieceapi.com/api/images/c-900.jpeg",
     "japaneseName": "ミスター・サーティーン",
     "romanizedName": "Misutā Sātīn",
     "englishName": "Mr. 13",
@@ -20147,7 +20050,7 @@
   },
   {
     "id": "c-901",
-    "image": "https//www.onepieceapi.com/api/images/c-901",
+    "image": "https://www.onepieceapi.com/api/images/c-901.jpeg",
     "japaneseName": "ミスター・ビーンズ",
     "romanizedName": "Misutā Bīnzu",
     "englishName": "Mr. Beans",
@@ -20163,21 +20066,20 @@
       "Bounty Hunter"
     ],
     "origin": "Grand Line",
-    "residence": [
-      "Whisky Peak"
-    ],
+    "residence": "Whisky Peak",
     "status": "Alive",
     "birthday": "February 24th"
   },
   {
     "id": "c-902",
-    "image": "https//www.onepieceapi.com/api/images/c-902",
-    "japaneseName": "Mr.ラブ",
+    "image": "https://www.onepieceapi.com/api/images/c-902.jpeg",
+    "japaneseName": "ミスター・ラブ",
     "romanizedName": "Misutā Rabu",
     "englishName": "Mr. Love",
-    "debut": [
-      "Chapter 206, Episode 125"
-    ],
+    "debut": {
+      "chapter": 206,
+      "episode": 125
+    },
     "affiliations": [
       "Baroque Works (Billions)[citation needed]",
       "Rebel Army (ruse)"
@@ -20186,8 +20088,8 @@
   },
   {
     "id": "c-903",
-    "image": "https//www.onepieceapi.com/api/images/c-903",
-    "japaneseName": "Mr. メロウ",
+    "image": "https://www.onepieceapi.com/api/images/c-903.jpeg",
+    "japaneseName": "ミスター・メロウ",
     "romanizedName": "Misutā Merō",
     "englishName": "Mr. Melow",
     "debut": [
@@ -20204,8 +20106,8 @@
   },
   {
     "id": "c-904",
-    "image": "https//www.onepieceapi.com/api/images/c-904",
-    "japaneseName": "Mr. モモラ",
+    "image": "https://www.onepieceapi.com/api/images/c-904.jpeg",
+    "japaneseName": "ミスター・モモラ",
     "romanizedName": "Misutā Momora",
     "englishName": "Mr. Momora",
     "debut": [
@@ -20221,18 +20123,9 @@
     "status": "Unknown"
   },
   {
-    "id": "c-905",
-    "image": "https//www.onepieceapi.com/api/images/c-905",
-    "japaneseName": "N/A",
-    "romanizedName": "N/A",
-    "englishName": "Sapoten Graveyard",
-    "firstAppearance": "Chapter 107; Episode 64[1]",
-    "region": "Cactus Island"
-  },
-  {
     "id": "c-906",
-    "image": "https//www.onepieceapi.com/api/images/c-906",
-    "japaneseName": "Mr.シミズ",
+    "image": "https://www.onepieceapi.com/api/images/c-906.jpeg",
+    "japaneseName": "ミスター・シミズ",
     "romanizedName": "Misutā Shimizu",
     "englishName": "Mr. Shimizu",
     "debut": [
@@ -20291,7 +20184,7 @@
   },
   {
     "id": "c-909",
-    "image": "https//www.onepieceapi.com/api/images/c-909",
+    "image": "https://www.onepieceapi.com/api/images/c-909.jpeg",
     "japaneseName": "ムッカシミ・タワー",
     "romanizedName": "Mukkashimi Tawā",
     "englishName": "Sawyer Wayback",
@@ -20319,7 +20212,7 @@
   },
   {
     "id": "c-911",
-    "image": "https//www.onepieceapi.com/api/images/c-911",
+    "image": "https://www.onepieceapi.com/api/images/c-911.jpeg",
     "japaneseName": "マミーミー",
     "romanizedName": "Mamīmī",
     "englishName": "Mameemee",
@@ -20342,7 +20235,7 @@
   },
   {
     "id": "c-912",
-    "image": "https//www.onepieceapi.com/api/images/c-912",
+    "image": "https://www.onepieceapi.com/api/images/c-912.jpeg",
     "japaneseName": "ミュレ",
     "romanizedName": "Myure",
     "englishName": "Mjure",
@@ -20380,7 +20273,7 @@
   },
   {
     "id": "c-914",
-    "image": "https//www.onepieceapi.com/api/images/c-914",
+    "image": "https://www.onepieceapi.com/api/images/c-914.jpeg",
     "japaneseName": "ナミ",
     "romanizedName": "Nami",
     "englishName": "Nami",
@@ -20390,23 +20283,28 @@
     ],
     "affiliations": [
       "Straw Hat Pirates",
-      "Straw Hat Grand Fleet",
-      "Arlong Pirates (defected)",
-      "Ganzack Pirates (movie, former)",
-      "Golden Lion Pirates (movie, former)",
-      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+      "Straw Hat Grand Fleet"
+    ],
+    "formerAffiliations": [
+      "Arlong Pirates",
+      "Ganzack Pirates",
+      "Golden Lion Pirates",
+      "Ninja-Pirate-Mink-Samurai Alliance"
     ],
     "occupations": [
       "Navigator",
       "Senior Officer",
-      "Thief",
-      "Pirate Officer (Arlong Pirates, former)",
-      "Kunoichi (temporary)"
+      "Thief"
+    ],
+    "formerOccupations": [
+      "Pirate Officer",
+      "Kunoichi"
     ],
     "origin": "East Blue (Conomi Islands)",
-    "residence": [
-      "Cocoyasi Village (former)",
-      "Weatheria (former, temporary)"
+    "residence": [],
+    "formerResidences": [
+      "Cocoyasi Village",
+      "Weatheria"
     ],
     "status": "Alive",
     "age": 20,
@@ -21543,7 +21441,7 @@
   },
   {
     "id": "c-968",
-    "image": "https//www.onepieceapi.com/api/images/c-968",
+    "image": "https://www.onepieceapi.com/api/images/c-968.jpeg",
     "japaneseName": "オラン",
     "romanizedName": "Oran",
     "englishName": "Oran",
@@ -22068,7 +21966,7 @@
   },
   {
     "id": "c-992",
-    "image": "https//www.onepieceapi.com/api/images/c-992",
+    "image": "https://www.onepieceapi.com/api/images/c-992.jpeg",
     "japaneseName": "ペドロ",
     "romanizedName": "Pedoro",
     "englishName": "Pedro",
@@ -22663,7 +22561,7 @@
   },
   {
     "id": "c-1017",
-    "image": "https//www.onepieceapi.com/api/images/c-1017",
+    "image": "https://www.onepieceapi.com/api/images/c-1017.jpeg",
     "japaneseName": "ポートガス・D・エース",
     "romanizedName": "Pōtogasu Dī Ēsu",
     "englishName": "Portgas D. Ace",
@@ -22690,16 +22588,20 @@
       "Baterilla (former)",
       "Mt. Colubo (former)"
     ],
-    "birthName": "Gol D. Ace (ゴール・D・エース, Gōru D. Ēsu?)[5]",
+    "birthName": {
+      "japanese": "ゴール・D・エース",
+      "romanized": "Gōru D. Ēsu",
+      "english": "Gol D. Ace"
+    },
     "status": "Deceased",
-    "ageAtDeath": "20",
+    "ageAtDeath": 20,
     "birthday": "January 1st",
     "height": 185,
     "bloodType": "S",
     "bounty": 550000000,
     "devilFruit": {
       "japaneseName": "Mera Mera no Mi",
-      "englishName": "Flame-Flame Fruit (VIZ, Funimation);Flare-Flare Fruit (4Kids, Funimation subs)",
+      "englishName": "Flame-Flame Fruit",
       "meaning": [
         "Sound of fire burning"
       ],
@@ -23872,10 +23774,10 @@
   },
   {
     "id": "c-1075",
-    "image": "https//www.onepieceapi.com/api/images/c-1075",
+    "image": "https://www.onepieceapi.com/api/images/c-1075.jpeg",
     "japaneseName": "ロックス・D・ジーベック",
     "romanizedName": "Rokkusu Dī Jībekku",
-    "englishName": "Rocks D. Xebec (VIZ);Rox (Funimation, formerly VIZ )",
+    "englishName": "Rocks D. Xebec",
     "debut": [
       "Chapter 957",
       "Episode 958"
@@ -23891,7 +23793,7 @@
   },
   {
     "id": "c-1076",
-    "image": "https//www.onepieceapi.com/api/images/c-1076",
+    "image": "https://www.onepieceapi.com/api/images/c-1076.jpeg",
     "japaneseName": "ロックスター",
     "romanizedName": "Rokkusutā",
     "englishName": "Rockstar",
@@ -24016,7 +23918,7 @@
   },
   {
     "id": "c-1083",
-    "image": "https//www.onepieceapi.com/api/images/c-1083",
+    "image": "https://www.onepieceapi.com/api/images/c-1083.jpeg",
     "japaneseName": "ロロノア・ピンゾロ",
     "romanizedName": "Roronoa Pinzoro",
     "englishName": "N/A",
@@ -24030,10 +23932,10 @@
   },
   {
     "id": "c-1084",
-    "image": "https//www.onepieceapi.com/api/images/c-1084",
+    "image": "https://www.onepieceapi.com/api/images/c-1084.jpeg",
     "japaneseName": "ロロノア・ゾロ",
     "romanizedName": "Roronoa Zoro",
-    "englishName": "Roronoa Zoro (Uncut dub, Early VIZ manga);Roronoa Zolo (Edited dub, VIZ Media, 4Kids)",
+    "englishName": "Roronoa Zoro",
     "debut": [
       "Chapter 3",
       "Episode 1"
@@ -24162,21 +24064,11 @@
     "birthday": "January 23rd"
   },
   {
-    "id": "c-1090",
-    "image": "https//www.onepieceapi.com/api/images/c-1090",
-    "japaneseName": "ゾンビ",
-    "romanizedName": "Zonbi",
-    "englishName": "Zombie",
-    "firstAppearance": "Chapter 444; Episode 339",
-    "features": "Variable; common feature is stitches",
-    "homeland": "Thriller Bark"
-  },
-  {
     "id": "c-1091",
-    "image": "https//www.onepieceapi.com/api/images/c-1091",
+    "image": "https://www.onepieceapi.com/api/images/c-1091.jpeg",
     "japaneseName": "ルン",
     "romanizedName": "Run",
-    "englishName": "Lun (Viz);Run (FUNimation subs)",
+    "englishName": "Run",
     "debut": [
       "Chapter 679",
       "Episode 605"
@@ -24191,7 +24083,7 @@
   },
   {
     "id": "c-1092",
-    "image": "https//www.onepieceapi.com/api/images/c-1092",
+    "image": "https://www.onepieceapi.com/api/images/c-1092.jpeg",
     "japaneseName": "ラッシュ",
     "romanizedName": "Rasshu",
     "englishName": "Rush",
@@ -24209,7 +24101,7 @@
   },
   {
     "id": "c-1093",
-    "image": "https//www.onepieceapi.com/api/images/c-1093",
+    "image": "https://www.onepieceapi.com/api/images/c-1093.jpeg",
     "japaneseName": "ルシアン",
     "romanizedName": "Rushian",
     "englishName": "Russian",
@@ -24221,7 +24113,7 @@
   },
   {
     "id": "c-1094",
-    "image": "https//www.onepieceapi.com/api/images/c-1094",
+    "image": "https://www.onepieceapi.com/api/images/c-1094.jpeg",
     "japaneseName": "リュウボシ",
     "romanizedName": "Ryūboshi",
     "englishName": "Ryuboshi",
@@ -24689,7 +24581,7 @@
   },
   {
     "id": "c-1114",
-    "image": "https//www.onepieceapi.com/api/images/c-1114",
+    "image": "https://www.onepieceapi.com/api/images/c-1114.jpeg",
     "japaneseName": "サンジ",
     "romanizedName": "Sanji",
     "englishName": "Sanji",
@@ -24718,7 +24610,11 @@
       "Germa Kingdom (former)",
       "Momoiro Island (former, temporary)"
     ],
-    "birthName": "Vinsmoke Sanji (ヴィンスモーク・サンジ, Vinsumōku Sanji?)",
+    "birthName": {
+      "japanese": "ヴィンスモーク・サンジ",
+      "romanized": "Vinsumōku Sanji",
+      "english": "Vinsmoke Sanji"
+    },
     "status": "Alive",
     "age": 21,
     "birthday": "March 2nd",
@@ -24728,7 +24624,7 @@
   },
   {
     "id": "c-1115",
-    "image": "https//www.onepieceapi.com/api/images/c-1115",
+    "image": "https://www.onepieceapi.com/api/images/c-1115.jpeg",
     "japaneseName": "サンファン・ウルフ",
     "romanizedName": "Sanfan Urufu",
     "englishName": "San Juan Wolf",
@@ -25566,7 +25462,7 @@
   },
   {
     "id": "c-1151",
-    "image": "https//www.onepieceapi.com/api/images/c-1151",
+    "image": "https://www.onepieceapi.com/api/images/c-1151.jpeg",
     "japaneseName": "シャンクス",
     "romanizedName": "Shankusu",
     "englishName": "Shanks",
@@ -25576,13 +25472,17 @@
     ],
     "affiliations": [
       "Red Hair Pirates",
-      "Four Emperors",
-      "Roger Pirates (former)"
+      "Four Emperors"
+    ],
+    "formerAffiliations":[
+      "Roger Pirates"
     ],
     "occupations": [
       "Chief",
-      "Emperor",
-      "Apprentice (former)"
+      "Emperor"
+    ],
+    "formerOccupations":[
+      "Apprentice"
     ],
     "origin": "West Blue",
     "status": "Alive",
@@ -25594,7 +25494,7 @@
   },
   {
     "id": "c-1152",
-    "image": "https//www.onepieceapi.com/api/images/c-1152",
+    "image": "https://www.onepieceapi.com/api/images/c-1152.jpeg",
     "japaneseName": "シャリングル",
     "romanizedName": "Sharinguru",
     "englishName": "Sharingle",
@@ -25647,10 +25547,10 @@
   },
   {
     "id": "c-1154",
-    "image": "https//www.onepieceapi.com/api/images/c-1154",
+    "image": "https://www.onepieceapi.com/api/images/c-1154.jpeg",
     "japaneseName": "シェリー",
     "romanizedName": "Sherī",
-    "englishName": "Sherry (Viz); Shelly (FUNimation)",
+    "englishName": "Shelly",
     "debut": [
       "Chapter 304",
       "Episode 207"
@@ -25795,7 +25695,7 @@
       "Shimotsuki Village"
     ],
     "status": "Deceased",
-    "ageAtDeath": "11",
+    "ageAtDeath": 11,
     "birthday": "September 17th",
     "height": 150,
     "bloodType": "S"
@@ -25826,7 +25726,7 @@
       "Thriller Bark (Post-Mortem)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "47[2]",
+    "ageAtDeath": 47,
     "birthday": "November 6th",
     "height": 179,
     "bloodType": "XF",
@@ -26341,7 +26241,7 @@
       "Pet, Bio-Chemical weapon of mass destruction"
     ],
     "status": "Deceased",
-    "ageAtDeath": "4[2]",
+    "ageAtDeath": 4,
     "birthday": "July 18th",
     "size": "150m (492') by estimate[4]",
     "devilFruit": {
@@ -26358,7 +26258,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-1185",
     "japaneseName": "スモーカー",
     "romanizedName": "Sumōkā",
-    "englishName": "Smoker (VIZ, Funimation),Chaser (4Kids)",
+    "englishName": "Smoker",
     "debut": [
       "Chapter 97",
       "Episode 48"
@@ -26384,7 +26284,7 @@
     "bloodType": "XF",
     "devilFruit": {
       "japaneseName": "Moku Moku no Mi",
-      "englishName": "Smoke-Smoke Fruit (4Kids); Plume-Plume Fruit (VIZ, Funimation); Steam-Steam Fruit (Grand Adventure)",
+      "englishName": "Smoke-Smoke Fruit",
       "meaning": [
         "Sound of billowing smoke"
       ],
@@ -26932,7 +26832,7 @@
   },
   {
     "id": "c-1213",
-    "image": "https//www.onepieceapi.com/api/images/c-1213",
+    "image": "https://www.onepieceapi.com/api/images/c-1213.jpeg",
     "japaneseName": "ステリー",
     "romanizedName": "Suterī",
     "englishName": "StellySterry (WT100)",
@@ -26959,7 +26859,7 @@
   },
   {
     "id": "c-1214",
-    "image": "https//www.onepieceapi.com/api/images/c-1214",
+    "image": "https://www.onepieceapi.com/api/images/c-1214.jpeg",
     "japaneseName": "ステイビー",
     "romanizedName": "Suteibī",
     "englishName": "Staybe",
@@ -26977,7 +26877,7 @@
   },
   {
     "id": "c-1215",
-    "image": "https//www.onepieceapi.com/api/images/c-1215",
+    "image": "https://www.onepieceapi.com/api/images/c-1215.jpeg",
     "japaneseName": "超カルガモ部隊",
     "romanizedName": "Chō Karugamo Butai",
     "englishName": "Supersonic Duck SquadronSuper Spot-Billed Duck Troops (OPCG)",
@@ -27016,7 +26916,7 @@
   },
   {
     "id": "c-1218",
-    "image": "https//www.onepieceapi.com/api/images/c-1218",
+    "image": "https://www.onepieceapi.com/api/images/c-1218.jpeg",
     "japaneseName": "シュトロイゼン",
     "romanizedName": "Shutoroizen",
     "englishName": "Streusen",
@@ -27025,8 +26925,10 @@
       "Episode 827"
     ],
     "affiliations": [
-      "Big Mom Pirates",
-      "Rocks Pirates (former)"
+      "Big Mom Pirates"
+    ],
+    "formerAffiliations": [
+      "Rocks Pirates"
     ],
     "occupations": [
       "Executive Chef",
@@ -27052,7 +26954,7 @@
   },
   {
     "id": "c-1219",
-    "image": "https//www.onepieceapi.com/api/images/c-1219",
+    "image": "https://www.onepieceapi.com/api/images/c-1219.jpeg",
     "japaneseName": "ストロガノフ",
     "romanizedName": "Sutoroganofu",
     "englishName": "N/A",
@@ -27073,10 +26975,10 @@
   },
   {
     "id": "c-1220",
-    "image": "https//www.onepieceapi.com/api/images/c-1220",
+    "image": "https://www.onepieceapi.com/api/images/c-1220.jpeg",
     "japaneseName": "ストロンガー",
     "romanizedName": "Sutorongā",
-    "englishName": "Stronger (Funimation, VIZ);Strongheart (Formerly VIZ)",
+    "englishName": "Stronger",
     "debut": [
       "Chapter 223",
       "Episode 146"
@@ -27101,14 +27003,14 @@
   },
   {
     "id": "c-1221",
-    "image": "https//www.onepieceapi.com/api/images/c-1221",
+    "image": "https://www.onepieceapi.com/api/images/c-1221.jpeg",
     "japaneseName": "ステューシー",
     "romanizedName": "Sutyūshī",
     "englishName": "Stussy",
-    "debut": [
-      "Chapter 860",
-      "Episode 828"
-    ],
+    "debut": {
+      "chapter": 860,
+      "episode": 828
+    },
     "affiliations": [
       "CP0 (undercover)",
       "Underworld (undercover)",
@@ -27168,10 +27070,10 @@
     "japaneseName": "シュガー",
     "romanizedName": "Shugā",
     "englishName": "Sugar",
-    "debut": [
-      "Chapter 682",
-      "Episode 608"
-    ],
+    "debut": {
+      "chapter": 682,
+      "episode": 608
+    },
     "affiliations": [
       "Donquixote Pirates"
     ],
@@ -27192,7 +27094,7 @@
     "height": 110,
     "bloodType": "XF",
     "devilFruit": {
-      "japaneseName": "Hobi Hobi no Mi[2]",
+      "japaneseName": "Hobi Hobi no Mi",
       "englishName": "Hobby-Hobby Fruit",
       "meaning": [
         "Hobby"
@@ -27206,10 +27108,10 @@
     "japaneseName": "スケさん",
     "romanizedName": "Suke-san",
     "englishName": "Suke",
-    "debut": [
-      "Chapter 927",
-      "Episode 919"
-    ],
+    "debut": {
+      "chapter": 927,
+      "episode": 919
+    },
     "affiliations": [
       "Kyoshiro Family"
     ],
@@ -27239,10 +27141,10 @@
     "japaneseName": "スレイマン",
     "romanizedName": "Sureiman",
     "englishName": "Suleiman",
-    "debut": [
-      "Chapter 704",
-      "Episode 632"
-    ],
+    "debut": {
+      "chapter": 704,
+      "episode": 632
+    },
     "affiliations": [
       "Beautiful Pirates",
       "Underworld (former)",
@@ -27285,10 +27187,10 @@
     "japaneseName": "スルメ",
     "romanizedName": "Surume",
     "englishName": "Surume",
-    "debut": [
-      "Chapter 604",
-      "Episode 524"
-    ],
+    "debut": {
+      "chapter": 604,
+      "episode": 524
+    },
     "affiliations": [
       "Straw Hat Pirates",
       "New Fish-Man Pirates (defected)"
@@ -27465,7 +27367,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-1237",
     "japaneseName": "タマチビ",
     "romanizedName": "Tamachibi",
-    "englishName": "Tamachibi (Funimation),Tama (Viz)",
+    "englishName": "Tamachibi",
     "debut": [
       "Chapter 134",
       "Episode 81"
@@ -27570,7 +27472,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-1241",
     "japaneseName": "タンク・レパント",
     "romanizedName": "Tanku Repanto",
-    "englishName": "Tank Lepant (FUNimation)",
+    "englishName": "Tank Lepant",
     "debut": [
       "Chapter 706",
       "Episode 636"
@@ -28100,7 +28002,7 @@
       "Fish-Man Island (former)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "67[2]",
+    "ageAtDeath": 67,
     "birthday": "March 16th",
     "height": 296,
     "bloodType": "F"
@@ -28243,7 +28145,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-1274",
     "japaneseName": "トト",
     "romanizedName": "Toto",
-    "englishName": "Toto (FUNimation),Toh-Toh (Viz),Tu-tu (4Kids)",
+    "englishName": "Toto",
     "debut": [
       "Chapter 163",
       "Episode 100"
@@ -29287,7 +29189,7 @@
       "Downs (former)G-5 (former)"
     ],
     "status": "Deceased",
-    "ageAtDeath": "41",
+    "ageAtDeath": 41,
     "birthday": "July 5th",
     "height": 247,
     "bloodType": "X"
@@ -29321,7 +29223,7 @@
   },
   {
     "id": "c-1322",
-    "image": "https//www.onepieceapi.com/api/images/c-1322",
+    "image": "https://www.onepieceapi.com/api/images/c-1322.jpeg",
     "japaneseName": "ビクトリア･シンドリー",
     "romanizedName": "Bikutoria Shindorī",
     "englishName": "Victoria Cindry",
@@ -29339,7 +29241,7 @@
     ],
     "origin": "West Blue",
     "status": "Deceased",
-    "ageAtDeath": "24[4]",
+    "ageAtDeath": 24,
     "birthday": "May 4th",
     "height": 188,
     "bloodType": "F",
@@ -30068,7 +29970,7 @@
     "image": "https//www.onepieceapi.com/api/images/c-1355",
     "japaneseName": "ワイパー",
     "romanizedName": "Waipā",
-    "englishName": "Wyper (4Kids, Viz, FUNimation);Wyler (4Kids; FUNimation edited dub)",
+    "englishName": "Wyper",
     "debut": [
       "Chapter 237",
       "Episode 153"
@@ -30815,7 +30717,7 @@
   },
   {
     "id": "c-1391",
-    "image": "https//www.onepieceapi.com/api/images/c-1391",
+    "image": "https://www.onepieceapi.com/api/images/c-1391.jpeg",
     "japaneseName": "ゾット",
     "romanizedName": "Zotto",
     "englishName": "Burr",
@@ -30852,7 +30754,7 @@
   },
   {
     "id": "c-1393",
-    "image": "https//www.onepieceapi.com/api/images/c-1393",
+    "image": "https://www.onepieceapi.com/api/images/c-1393.jpeg",
     "japaneseName": "象主",
     "romanizedName": "Zunīsha",
     "englishName": "Zunesha",
@@ -30861,9 +30763,7 @@
       "Episode 751"
     ],
     "origin": "Grand Line",
-    "residence": [
-      "New World"
-    ],
+    "residence": "New World",
     "status": "Alive",
     "age": "Over 1000",
     "birthday": "December 18th",
