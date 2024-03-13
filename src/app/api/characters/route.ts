@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server'
 
 import { createPages } from '@/utils/createPages'
 import data from '@/data/characters.json' 
+import getCharactersByFilter from '@/utils/getCharactersByFilter'
 
 export async function GET(request: Request) {
   const url = new URL(request.url)
@@ -32,6 +33,8 @@ export async function GET(request: Request) {
   // const bounty: number | undefined = Number(searchParams.get('bounty')) 
   // console.log(bounty)
 
+  // const res = getCharactersByFilter(data, 'bounty', bounty)
+  // console.log(res)
   return NextResponse.json({
     info,
     data: page,
