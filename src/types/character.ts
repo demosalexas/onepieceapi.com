@@ -6,10 +6,7 @@ type BloodType = 'F' | 'X' | 'XF' | 'S'
 export interface Character {
   id: string
   image: string
-  japaneseName: string
-  romanizedName: string
-  englishName: string
-  name?: {
+  name: {
     japanese: string
     romanized: string
     english: string
