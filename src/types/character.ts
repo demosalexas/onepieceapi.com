@@ -4,6 +4,7 @@ type Status = 'Alive' | 'Unkown' | 'Deceased'
 type BloodType = 'F' | 'X' | 'XF' | 'S'
 
 export interface Character {
+  // Required Fields
   id: string
   image: string
   name: {
@@ -11,11 +12,13 @@ export interface Character {
     romanized: string
     english: string
   }
+  status: Status
   debut: {
     chapter: number
-    episode: number
-    sbs?: number
+    episode: number | null
   }
+
+  // Optional Fields
   birthName?: {
     japanese: string
     romanized: string
@@ -28,16 +31,16 @@ export interface Character {
   formerAffiliations?: string[]
   occupations?: string[]
   formerOccupations?: string[]
-  status: Status
-  age?: number | 'Unknown'
+  age?: number 
   ageAtDeath?: number
-  height?: number | 'Unknown'
+  height?: number 
   weight?: number
-  bounty?: number | 'Unknown'
+  bounty?: number 
   formerBounties?: number[]
   bloodType?: BloodType
   birthday?: string
   doriki?: number
+  favoriteFoods?: string[]
   zombieNumber?: number
   onePieceWikiFandom: string
   devilFruit?: DevilFruit

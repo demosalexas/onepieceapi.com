@@ -3,15 +3,11 @@ type Type = 'Paramecia' | 'Zoan' | 'Logia' | 'Artificial Zoan' | 'Artificial Par
 export interface DevilFruit {
   id: string
   image: string
-  japaneseName: string
-  romanizedName: string
-  englishName: string
   name: {
     japanese: string
     romanized: string
     english: string
   }
-  meanings: string[]
   type: Type
   model?: string
 }
