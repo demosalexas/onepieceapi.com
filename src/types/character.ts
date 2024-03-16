@@ -42,6 +42,7 @@ export interface Character {
   doriki?: number
   favoriteFoods?: string[]
   zombieNumber?: number
+  gladiatorNumber?: string
   onePieceWikiFandom: string
   devilFruit?: DevilFruit
 }

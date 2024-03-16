@@ -14744,11 +14744,8 @@
       "english": "Pincers (VIZ, 4Kids, Funimation subs)Scissors (Funimation dub)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 176",
-        "Episode 110"
-      ],
-      "episode": 0
+      "chapter": 176,
+      "episode": 110
     },
     "affiliations": [
       "Ukkari Hot-Spring Island",
@@ -14774,11 +14771,8 @@
       "english": "Haccha"
     },
     "debut": {
-      "chapter": [
-        "Chapter 981",
-        "Episode 987"
-      ],
-      "episode": 0
+      "chapter": 981,
+      "episode": 987
     },
     "affiliations": [
       "Beasts Pirates (Numbers)"
@@ -14800,29 +14794,22 @@
       "english": "Hatchan"
     },
     "debut": {
-      "chapter": [
-        "Chapter 69",
-        "Episode 31"
-      ],
-      "episode": 0
+      "chapter": 69,
+      "episode": 31
     },
     "formerOccupations": [
-      "Pirate (former)",
-      "Pirate Officer (former)"
+      "Pirate",
+      "Pirate Officer"
     ],
     "formerAffiliations": [
-      "Arlong Pirates (former)",
-      "Sun Pirates (former)"
+      "Arlong Pirates",
+      "Sun Pirates"
     ],
     "affiliations": [
-      "Takoyaki 8",
-      "Arlong Pirates (former)",
-      "Sun Pirates (former)"
+      "Takoyaki 8"
     ],
     "occupations": [
-      "Takoyaki seller",
-      "Pirate (former)",
-      "Pirate Officer (former)"
+      "Takoyaki seller"
     ],
     "residence": [
       "Fish-Man District (former)",
@@ -14845,20 +14832,15 @@
       "english": "Hattori"
     },
     "debut": {
-      "chapter": [
-        "Chapter 323",
-        "Episode 230"
-      ],
-      "episode": 0
+      "chapter": 323,
+      "episode": 230
     },
     "formerAffiliations": [
-      "CP9 (former)",
-      "Galley-La (former)"
+      "CP9",
+      "Galley-La"
     ],
     "affiliations": [
-      "CP0",
-      "CP9 (former)",
-      "Galley-La (former)"
+      "CP0"
     ],
     "occupations": [
       "Rob Lucci's Pet"
@@ -14876,11 +14858,8 @@
       "english": "Heat"
     },
     "debut": {
-      "chapter": [
-        "Chapter 500",
-        "Episode 394"
-      ],
-      "episode": 0
+      "chapter": 500,
+      "episode": 394
     },
     "affiliations": [
       "Kid Pirates"
@@ -14902,11 +14881,8 @@
       "english": "Helmeppo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 3",
-        "Episode 2"
-      ],
-      "episode": 0
+      "chapter": 3,
+      "episode": 2
     },
     "formerAffiliations": [
       "SWORD) (formerly 153rd Branch)"
@@ -14939,11 +14915,8 @@
       "english": "Heppoko"
     },
     "debut": {
-      "chapter": [
-        "Chapter 2",
-        "Episode 1"
-      ],
-      "episode": 0
+      "chapter":2,
+      "episode": 1
     },
     "affiliations": [
       "Alvida Pirates"
@@ -14963,16 +14936,13 @@
     "id": "c-517",
     "image": "https://www.onepieceapi.com/api/images/c-517.jpeg",
     "name": {
-      "japanese": "N/A",
-      "romanized": "N/A",
+      "japanese": null,
+      "romanized": null,
       "english": "Hera"
     },
     "debut": {
-      "chapter": [
-        "Chapter 703",
-        "Episode 633"
-      ],
-      "episode": 0
+      "chapter": 703,
+      "episode": 633
     },
     "affiliations": [
       "Corrida Colosseum"
@@ -14982,7 +14952,7 @@
     ],
     "status": "Alive",
     "gladiatorNumber": "0421",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Hera_(Gladiator)"
   },
   {
     "id": "c-518",
@@ -14993,11 +14963,8 @@
       "english": "Hera"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1011",
-        "Episode 1028"
-      ],
-      "episode": 0
+      "chapter": 1011,
+      "episode": 1028
     },
     "affiliations": [
       "Big Mom Pirates"
@@ -33772,11 +33739,8 @@
       "english": "Snakeman"
     },
     "debut": {
-      "chapter": [
-        "Chapter 916",
-        "Episode 904"
-      ],
-      "episode": 0
+      "chapter":916,
+      "episode": 904
     },
     "affiliations": [
       "Beasts Pirates"
@@ -33797,14 +33761,11 @@
     "name": {
       "japanese": "ソドム",
       "romanized": "Sodomu",
-      "english": "Sodomu (VIZ),Sodom  (FUNimation)"
+      "english": "Sodom"
     },
     "debut": {
-      "chapter": [
-        "Chapter 366",
-        "Episode 256"
-      ],
-      "episode": 0
+      "chapter": 366,
+      "episode": 256
     },
     "affiliations": [
       "Franky Family"
@@ -33828,11 +33789,8 @@
       "english": "Solitaire"
     },
     "debut": {
-      "chapter": [
-        "Chapter 935",
-        "Episode 930"
-      ],
-      "episode": 0
+      "chapter": 935,
+      "episode": 930
     },
     "affiliations": [
       "Beasts Pirates"
@@ -33857,11 +33815,8 @@
       "english": "Osome"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1031",
-        "Episode 1057"
-      ],
-      "episode": 0
+      "chapter": 1031,
+      "episode": 1057
     },
     "occupations": [
       "Geisha"
@@ -33902,11 +33857,8 @@
       "english": "Sola"
     },
     "debut": {
-      "chapter": [
-        "Chapter 608",
-        "Episode 527"
-      ],
-      "episode": 0
+      "chapter": 608,
+      "episode": 527
     },
     "affiliations": [
       "Mermaid Cafe"
@@ -33930,11 +33882,8 @@
       "english": "Sora"
     },
     "debut": {
-      "chapter": [
-        "Chapter 825",
-        "Episode 783"
-      ],
-      "episode": 0
+      "chapter": 825,
+      "episode": 783
     },
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
