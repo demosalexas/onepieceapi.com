@@ -385,11 +385,8 @@
       "english": "Aladdin"
     },
     "debut": {
-      "chapter": [
-        "Chapter 620",
-        "Episode 540"
-      ],
-      "episode": 0
+      "chapter": 620,
+      "episode": 540
     },
     "affiliations": [
       "Sun Pirates"
@@ -424,15 +421,14 @@
       "english": "Albion"
     },
     "debut": {
-      "chapter": [
-        "Chapter 600",
-        "Episode 519"
-      ],
-      "episode": 0
+      "chapter": 600,
+      "episode": 519
     },
     "affiliations": [
-      "Fake Straw Hat Crew (Former)",
       "His own crew"
+    ],
+    "formerAffiliations": [
+      "Fake Straw Hat Crew"
     ],
     "occupations": [
       "Pirate",
@@ -452,11 +448,8 @@
       "english": "Ally"
     },
     "debut": {
-      "chapter": [
-        "Chapter 658",
-        "Episode 583"
-      ],
-      "episode": 0
+      "chapter": 658,
+      "episode": 583
     },
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -470,11 +463,8 @@
       "english": "Alpaca-Man"
     },
     "debut": {
-      "chapter": [
-        "Chapter 934",
-        "Episode 929"
-      ],
-      "episode": 0
+      "chapter": 934,
+      "episode": 929
     },
     "affiliations": [
       "Beasts Pirates"
@@ -522,11 +512,8 @@
       "english": "Alvida"
     },
     "debut": {
-      "chapter": [
-        "Chapter 2",
-        "Episode 1"
-      ],
-      "episode": 0
+      "chapter": 2,
+      "episode": 1
     },
     "affiliations": [
       "Cross Guild",
@@ -569,11 +556,8 @@
       "english": "Amadob"
     },
     "debut": {
-      "chapter": [
-        "Chapter 558",
-        "Episode 467"
-      ],
-      "episode": 0
+      "chapter": 558,
+      "episode": 467
     },
     "affiliations": [
       "Ally of the Whitebeard Pirates"
@@ -595,11 +579,8 @@
       "english": "Amazon"
     },
     "debut": {
-      "chapter": [
-        "Chapter 238",
-        "Episode 153"
-      ],
-      "episode": 0
+      "chapter": 238,
+      "episode": 153
     },
     "formerOccupations": [
       "Gatekeeper of Skypiea (former)"
@@ -631,11 +612,8 @@
       "english": "Ratherby Seifer"
     },
     "debut": {
-      "chapter": [
-        "Chapter 528",
-        "Episode 425"
-      ],
-      "episode": 0
+      "chapter": 528,
+      "episode": 425
     },
     "occupations": [
       "Prisoner"
@@ -655,11 +633,8 @@
       "english": "Andre"
     },
     "debut": {
-      "chapter": [
-        "Chapter 558",
-        "Episode 479"
-      ],
-      "episode": 0
+      "chapter": 558,
+      "episode": 479
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -682,11 +657,8 @@
       "english": "Anjo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1",
-        "We Are!"
-      ],
-      "episode": 0
+      "chapter": 1,
+      "episode": 1
     },
     "origin": "East Blue",
     "status": "Alive",
@@ -702,11 +674,8 @@
       "english": "Ankoro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 606",
-        "Episode 525"
-      ],
-      "episode": 0
+      "chapter": 606,
+      "episode": 525
     },
     "affiliations": [
       "Flying Pirates"
@@ -727,11 +696,8 @@
       "english": "Antonio"
     },
     "debut": {
-      "chapter": [
-        "Chapter 497",
-        "Episode 391"
-      ],
-      "episode": 0
+      "chapter": 497,
+      "episode": 391
     },
     "affiliations": [
       "Antonio's Graman"
@@ -1145,26 +1111,21 @@
       "english": "Attach"
     },
     "debut": {
-      "chapter": [
-        "SBS Volume 24",
-        "Chapter 436",
-        "Episode 321"
-      ],
-      "episode": 0
+      "chapter": 436,
+      "episode": 321,
+      "sbs": 24
     },
     "formerOccupations": [
-      "Marine Photography Department chief (former)"
+      "Marine Photography Department chief"
     ],
     "formerAffiliations": [
-      "Marines Photography Department (former)"
+      "Marines Photography Department"
     ],
     "affiliations": [
-      "World Economy News Paper",
-      "Marines Photography Department (former)"
+      "World Economy News Paper"
     ],
     "occupations": [
-      "Reporter",
-      "Marine Photography Department chief (former)"
+      "Reporter"
     ],
     "status": "Unknown",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -1185,21 +1146,18 @@
       "episode": 0
     },
     "formerOccupations": [
-      "Prisoner of the Great Prison (former)",
-      "King (former)"
+      "Prisoner of the Great Prison",
+      "King"
     ],
     "formerAffiliations": [
-      "Impel Down (former)"
+      "Impel Down"
     ],
     "affiliations": [
-      "Blackbeard Pirates",
-      "Impel Down (former)"
+      "Blackbeard Pirates"
     ],
     "occupations": [
       "Pirate",
-      "Titanic Captain (Captain of the Fourth Ship)",
-      "Prisoner of the Great Prison (former)",
-      "King (former)"
+      "Titanic Captain (Captain of the Fourth Ship)"
     ],
     "origin": "North Blue",
     "status": "Alive",
@@ -1253,15 +1211,10 @@
       "english": "N/A"
     },
     "debut": {
-      "chapter": [
-        "Chapter 940",
-        "Episode 936"
-      ],
-      "episode": 0
+      "chapter": 940,
+      "episode": 936
     },
-    "residence": [
-      "Ebisu Town, Wano Country"
-    ],
+    "residence": "Ebisu Town, Wano Country",
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
@@ -1274,11 +1227,8 @@
       "english": "Babanuki"
     },
     "debut": {
-      "chapter": [
-        "Chapter 934",
-        "Episode 930"
-      ],
-      "episode": 0
+      "chapter": 934,
+      "episode": 930
     },
     "affiliations": [
       "Beasts Pirates",
@@ -1304,25 +1254,20 @@
       "english": "Babe"
     },
     "debut": {
-      "chapter": [
-        "Chapter 160",
-        "Episode 103"
-      ],
-      "episode": 0
+      "chapter": 160,
+      "episode": 103
     },
     "formerOccupations": [
-      "Officer Agent (former)"
+      "Officer Agent"
     ],
     "formerAffiliations": [
-      "Baroque Works (former)"
+      "Baroque Works"
     ],
     "affiliations": [
-      "New Spiders Cafe",
-      "Baroque Works (former)"
+      "New Spiders Cafe"
     ],
     "occupations": [
-      "Cafe Delivery Boy",
-      "Officer Agent (former)"
+      "Cafe Delivery Boy"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -1349,21 +1294,20 @@
       "episode": 0
     },
     "formerOccupations": [
-      "Pirate Officer (former)",
-      "Servant (former)",
-      "Assassin (former)"
+      "Pirate Officer",
+      "Servant",
+      "Assassin"
+    ],
+    "formerAffiliations": [
+      "Donquixote Pirates"
     ],
     "affiliations": [
       "Happo Navy",
       "Chinjao Family",
-      "Straw Hat Grand Fleet",
-      "Donquixote Pirates (defected)"
+      "Straw Hat Grand Fleet"
     ],
     "occupations": [
-      "Pirate",
-      "Pirate Officer (former)",
-      "Servant (former)",
-      "Assassin (former)"
+      "Pirate"
     ],
     "origin": "North Blue",
     "residence": [
@@ -1397,11 +1341,8 @@
       "english": "Bakula"
     },
     "debut": {
-      "chapter": [
-        "Chapter 516",
-        "Episode 410"
-      ],
-      "episode": 0
+      "chapter": 516,
+      "episode": 410
     },
     "affiliations": [
       "Kuja"
@@ -1427,11 +1368,8 @@
       "english": "Baggaly"
     },
     "debut": {
-      "chapter": [
-        "Chapter 561",
-        "Episode 489"
-      ],
-      "episode": 0
+      "chapter": 561,
+      "episode": 489
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -1452,11 +1390,8 @@
       "english": "Bazeko"
     },
     "debut": {
-      "chapter": [
-        "Chapter 668",
-        "Episode 594"
-      ],
-      "episode": 0
+      "chapter": 668,
+      "episode": 594
     },
     "affiliations": [
       "Marines",
@@ -1474,11 +1409,8 @@
       "english": "N/A"
     },
     "debut": {
-      "chapter": [
-        "Chapter 823",
-        "Episode 777"
-      ],
-      "episode": 0
+      "chapter": 823,
+      "episode": 777
     },
     "affiliations": [
       "Levely"
@@ -1500,11 +1432,8 @@
       "english": "Bunch"
     },
     "debut": {
-      "chapter": [
-        "Chapter 114",
-        "Episode 67"
-      ],
-      "episode": 0
+      "chapter": 114,
+      "episode": 67
     },
     "affiliations": [
       "Baroque Works"
@@ -1525,11 +1454,8 @@
       "english": "Banchina"
     },
     "debut": {
-      "chapter": [
-        "Chapter 41",
-        "Episode 17"
-      ],
-      "episode": 0
+      "chapter": 41,
+      "episode": 17
     },
     "origin": "East Blue (Syrup Village)",
     "status": "Deceased",
@@ -1545,11 +1471,8 @@
       "english": "Bancro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 967",
-        "Episode 959"
-      ],
-      "episode": 0
+      "chapter": 967,
+      "episode": 959
     },
     "affiliations": [
       "Roger Pirates"
@@ -1569,11 +1492,8 @@
       "english": "Banshee"
     },
     "debut": {
-      "chapter": [
-        "Chapter 552",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 552,
+      "episode": 461
     },
     "affiliations": [
       "Spade Pirates"
@@ -1591,11 +1511,8 @@
       "english": "Banzaburo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 960",
-        "Episode 960"
-      ],
-      "episode": 0
+      "chapter": 960,
+      "episode": 960
     },
     "affiliations": [
       "Kozuki Family"
@@ -1619,11 +1536,8 @@
       "english": "Gyoro, Nin, Bao"
     },
     "debut": {
-      "chapter": [
-        "Chapter 449",
-        "Episode 343"
-      ],
-      "episode": 0
+      "chapter": 449,
+      "episode": 343
     },
     "affiliations": [
       "Thriller Bark Pirates"
@@ -1643,11 +1557,8 @@
       "english": "Bao Huang"
     },
     "debut": {
-      "chapter": [
-        "Chapter 979",
-        "Episode 985"
-      ],
-      "episode": 0
+      "chapter": 979,
+      "episode": 985
     },
     "affiliations": [
       "Beasts Pirates"
@@ -1673,11 +1584,8 @@
       "english": "Bariete"
     },
     "debut": {
-      "chapter": [
-        "Chapter 804",
-        "Episode 753"
-      ],
-      "episode": 0
+      "chapter": 804,
+      "episode": 753
     },
     "affiliations": [
       "Mokomo Dukedom (Recon Squad)",
@@ -1702,11 +1610,8 @@
       "english": "Kicking Claw Force; Elite Alabastian Royal Guards"
     },
     "debut": {
-      "chapter": [
-        "Chapter 196",
-        "Episode 120"
-      ],
-      "episode": 0
+      "chapter": 196,
+      "episode": 120
     },
     "affiliations": [
       "Arabasta Kingdom"
@@ -1726,11 +1631,8 @@
       "english": "Barry"
     },
     "debut": {
-      "chapter": [
-        "Chapter 552",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 552,
+      "episode": 461
     },
     "affiliations": [
       "Spade Pirates"
@@ -1804,11 +1706,8 @@
       "english": "Bartolomeo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 705",
-        "Episode 633"
-      ],
-      "episode": 0
+      "chapter": 705,
+      "episode": 633
     },
     "affiliations": [
       "Barto Club",
@@ -1883,11 +1782,8 @@
       "english": "Basil Hawkins"
     },
     "debut": {
-      "chapter": [
-        "Chapter 498",
-        "Episode 392"
-      ],
-      "episode": 0
+      "chapter": 498,
+      "episode": 392
     },
     "affiliations": [
       "Hawkins Pirates",
@@ -1924,11 +1820,8 @@
       "english": "Basilisk"
     },
     "debut": {
-      "chapter": [
-        "Chapter 528",
-        "Episode 425"
-      ],
-      "episode": 0
+      "chapter": 528,
+      "episode": 425
     },
     "affiliations": [
       "World Government, Impel Down"
@@ -1949,11 +1842,8 @@
       "english": "Bastille"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 462"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 462
     },
     "affiliations": [
       "Marines"
@@ -1978,11 +1868,8 @@
       "english": "Bacchy"
     },
     "debut": {
-      "chapter": [
-        "Chapter 43",
-        "Episode 20"
-      ],
-      "episode": 0
+      "chapter": 43,
+      "episode": 20
     },
     "origin": "East Blue",
     "status": "Unknown",
@@ -1998,11 +1885,8 @@
       "english": "Batman"
     },
     "debut": {
-      "chapter": [
-        "Chapter 914",
-        "Episode 900"
-      ],
-      "episode": 0
+      "chapter": 914,
+      "episode": 900
     },
     "affiliations": [
       "Beasts Pirates"
@@ -2026,11 +1910,8 @@
       "english": "Baxcon"
     },
     "debut": {
-      "chapter": [
-        "Chapter 718",
-        "Episode 648"
-      ],
-      "episode": 0
+      "chapter": 718,
+      "episode": 648
     },
     "affiliations": [
       "Tontatta Kingdom Scouting Unit",
@@ -2053,11 +1934,8 @@
       "english": "Beer VI"
     },
     "debut": {
-      "chapter": [
-        "Chapter 823",
-        "Episode 777"
-      ],
-      "episode": 0
+      "chapter": 823,
+      "episode": 777
     },
     "occupations": [
       "King of the Roshwan Kingdom"
@@ -2077,17 +1955,13 @@
       "english": "Bekori"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1097"
-      ],
-      "episode": 0
+      "chapter": 1097,
+      "episode": null
     },
     "formerOccupations": [
-      "King (former)"
+      "King"
     ],
-    "occupations": [
-      "King (former)"
-    ],
+    "occupations": [],
     "residence": [
       "Sorbet Kingdom"
     ],
@@ -2103,11 +1977,8 @@
       "english": "Belo Betty"
     },
     "debut": {
-      "chapter": [
-        "Chapter 904",
-        "Episode 880"
-      ],
-      "episode": 0
+      "chapter": 904,
+      "episode": 880
     },
     "affiliations": [
       "Revolutionary Army (East Army)"
@@ -2148,11 +2019,8 @@
       "english": "Belladonna"
     },
     "debut": {
-      "chapter": [
-        "Chapter 514",
-        "Episode 408"
-      ],
-      "episode": 0
+      "chapter": 514,
+      "episode": 408
     },
     "affiliations": [
       "Kuja"
@@ -2177,26 +2045,19 @@
       "english": "Bellamy"
     },
     "debut": {
-      "chapter": [
-        "Chapter 222",
-        "Episode 146"
-      ],
-      "episode": 0
+      "chapter": 222,
+      "episode": 146
     },
     "formerOccupations": [
-      "Pirate Captain (former)"
+      "Pirate Captain"
     ],
     "formerAffiliations": [
-      "Donquixote Pirates (former)",
-      "Bellamy Pirates (former)"
+      "Donquixote Pirates",
+      "Bellamy Pirates"
     ],
-    "affiliations": [
-      "Donquixote Pirates (former)",
-      "Bellamy Pirates (former)"
-    ],
+    "affiliations": [],
     "occupations": [
-      "Dyer",
-      "Pirate Captain (former)"
+      "Dyer"
     ],
     "residence": [
       "Dressrosa (former)Notice (former)"
@@ -2226,24 +2087,18 @@
       "english": "Beret"
     },
     "debut": {
-      "chapter": [
-        "Chapter 537",
-        "Episode 439"
-      ],
-      "episode": 0
+      "chapter": 537,
+      "episode": 439
     },
     "formerOccupations": [
-      "Prince (former)"
+      "Prince"
     ],
     "formerAffiliations": [
-      "Unnamed kingdom (former)"
+      "Unnamed kingdom"
     ],
-    "affiliations": [
-      "Unnamed kingdom (former)"
-    ],
+    "affiliations": [],
     "occupations": [
-      "Pirate",
-      "Prince (former)"
+      "Pirate"
     ],
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -2254,32 +2109,24 @@
     "name": {
       "japanese": "ベルメール",
       "romanized": "Berumēru",
-      "english": "Belle-Mère (VIZ Media);Bellemere (Funimation)Bell-mère (OPCG)"
+      "english": "Bell-mère"
     },
     "debut": {
-      "chapter": [
-        "Chapter 77",
-        "Episode 32"
-      ],
-      "episode": 0
+      "chapter": 77,
+      "episode": 32
     },
     "formerOccupations": [
-      "Marine Officer (former)"
+      "Marine Officer"
     ],
     "formerAffiliations": [
-      "Marines (former)"
+      "Marines"
     ],
-    "affiliations": [
-      "Marines (former)"
-    ],
+    "affiliations": [],
     "occupations": [
-      "Mikan Farmer",
-      "Marine Officer (former)"
+      "Mikan Farmer"
     ],
     "origin": "East Blue (Conomi Islands)",
-    "residence": [
-      "Cocoyasi Village"
-    ],
+    "residence": "Cocoyasi Village",
     "status": "Deceased",
     "ageAtDeath": 30,
     "birthday": "December 3rd",
@@ -2296,11 +2143,8 @@
       "english": "Ben Beckman"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1",
-        "Episode 4"
-      ],
-      "episode": 0
+      "chapter": 1,
+      "episode": 4
     },
     "affiliations": [
       "Red Hair Pirates"
@@ -2327,25 +2171,20 @@
       "english": "Bentham"
     },
     "debut": {
-      "chapter": [
-        "Chapter 129",
-        "Episode 78"
-      ],
-      "episode": 0
+      "chapter": 129,
+      "episode": 78
     },
     "formerOccupations": [
-      "Officer Agent (former)"
+      "Officer Agent"
     ],
     "formerAffiliations": [
-      "Baroque Works (former)"
+      "Baroque Works"
     ],
     "affiliations": [
-      "Newkama Land",
-      "Baroque Works (former)"
+      "Newkama Land"
     ],
     "occupations": [
       "Queen of Newkama Land",
-      "Officer Agent (former)",
       "Prisoner of the Great Prison"
     ],
     "origin": "East Blue",
@@ -2374,11 +2213,8 @@
       "english": "Bepo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 498",
-        "Episode 392"
-      ],
-      "episode": 0
+      "chapter": 498,
+      "episode": 392
     },
     "affiliations": [
       "Heart Pirates"
@@ -2410,11 +2246,8 @@
       "english": "Bian"
     },
     "debut": {
-      "chapter": [
-        "Chapter 717",
-        "Episode 647"
-      ],
-      "episode": 0
+      "chapter": 717,
+      "episode": 647
     },
     "affiliations": [
       "Tontatta Kingdom",
@@ -2446,11 +2279,8 @@
       "english": "Big Pan"
     },
     "debut": {
-      "chapter": [
-        "Chapter 309",
-        "Episode 210"
-      ],
-      "episode": 0
+      "chapter": 309,
+      "episode": 210
     },
     "affiliations": [
       "Foxy Pirates",
@@ -2496,25 +2326,16 @@
       "english": "Bingoh"
     },
     "debut": {
-      "chapter": [
-        "Chapter 928",
-        "Episode 921"
-      ],
-      "episode": 0
+      "chapter": 928,
+      "episode": 921
     },
     "formerOccupations": [
-      "Priest (former)",
-      "Cooper (former)",
-      "Graverobber (former)"
+      "Priest",
+      "Cooper",
+      "Graverobber"
     ],
-    "occupations": [
-      "Priest (former)",
-      "Cooper (former)",
-      "Graverobber (former)"
-    ],
-    "residence": [
-      "Wano Country (Ebisu Town)"
-    ],
+    "occupations": [],
+    "residence":"Wano Country (Ebisu Town)",
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
@@ -2527,29 +2348,22 @@
       "english": "Bishamon"
     },
     "debut": {
-      "chapter": [
-        "Chapter 931",
-        "Episode 925"
-      ],
-      "episode": 0
+      "chapter": 931,
+      "episode": 925
     },
     "formerAffiliations": [
-      "Orochi Oniwabanshu (former)",
-      "Kurozumi Family (former)"
+      "Orochi Oniwabanshu",
+      "Kurozumi Family"
     ],
     "affiliations": [
-      "Beasts Pirates",
-      "Orochi Oniwabanshu (former)",
-      "Kurozumi Family (former)"
+      "Beasts Pirates"
     ],
     "occupations": [
       "Ninja",
       "Pirate"
     ],
     "origin": "Wano Country",
-    "residence": [
-      "Flower Capital, Wano Country"
-    ],
+    "residence": "Flower Capital, Wano Country",
     "status": "Alive",
     "age": 28,
     "birthday": "August 1st",
@@ -2566,11 +2380,8 @@
       "english": "Beeyo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 658",
-        "Episode 583"
-      ],
-      "episode": 0
+      "chapter": 658,
+      "episode": 583
     },
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -2584,11 +2395,8 @@
       "english": "Bizarre"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 468"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 468
     },
     "affiliations": [
       "Subordinate of the Whitebeard Pirates"
@@ -2610,11 +2418,8 @@
       "english": "Black Maria"
     },
     "debut": {
-      "chapter": [
-        "Chapter 977",
-        "Episode 982"
-      ],
-      "episode": 0
+      "chapter": 977,
+      "episode": 982
     },
     "affiliations": [
       "Beasts Pirates (Tobiroppo)"
@@ -2645,16 +2450,13 @@
     "id": "c-93",
     "image": "https://www.onepieceapi.com/api/images/c-93.jpeg",
     "name": {
-      "japanese": "BB（ブラックバック）",
-      "romanized": "Bībī (Burakkubakku)",
-      "english": "BB (Blackback)"
+      "japanese": "ブラックバック",
+      "romanized": "Burakkubakku",
+      "english": "Blackback"
     },
     "debut": {
-      "chapter": [
-        "Chapter 805",
-        "Episode 754"
-      ],
-      "episode": 0
+      "chapter": 805,
+      "episode": 754
     },
     "affiliations": [
       "Mokomo Dukedom",
@@ -2676,11 +2478,8 @@
       "english": "Blamenco"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 461
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -2711,11 +2510,8 @@
       "english": "Blenheim"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 461
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -2738,11 +2534,8 @@
       "english": "Blondie"
     },
     "debut": {
-      "chapter": [
-        "Chapter 558",
-        "Episode 468"
-      ],
-      "episode": 0
+      "chapter": 558,
+      "episode": 468
     },
     "affiliations": [
       "Subordinate of the Whitebeard Pirates"
@@ -2764,11 +2557,8 @@
       "english": "Bluefan"
     },
     "debut": {
-      "chapter": [
-        "Chapter 516",
-        "Episode 410"
-      ],
-      "episode": 0
+      "chapter": 516,
+      "episode": 410
     },
     "affiliations": [
       "Kuja",
@@ -2778,9 +2568,7 @@
       "Pirate"
     ],
     "origin": "Calm Belt (Amazon Lily)",
-    "residence": [
-      "Amazon Lily"
-    ],
+    "residence": "Amazon Lily",
     "status": "Alive",
     "birthday": "July 11th",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -2794,11 +2582,8 @@
       "english": "Blue Gilly"
     },
     "debut": {
-      "chapter": [
-        "Chapter 706",
-        "Episode 636"
-      ],
-      "episode": 0
+      "chapter": 706,
+      "episode": 636
     },
     "affiliations": [
       "Ideo Pirates",
@@ -2824,10 +2609,8 @@
       "english": "Bluegrass"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1089"
-      ],
-      "episode": 0
+      "chapter": 1089,
+      "episode": null
     },
     "affiliations": [
       "Marines"
@@ -2855,11 +2638,8 @@
       "english": "Bluejam"
     },
     "debut": {
-      "chapter": [
-        "Chapter 584",
-        "Episode 494"
-      ],
-      "episode": 0
+      "chapter": 584,
+      "episode": 494
     },
     "affiliations": [
       "Bluejam Pirates"
@@ -2870,10 +2650,7 @@
     ],
     "origin": "East Blue (Goa Kingdom)",
     "status": "Unknown",
-    "age": [
-      "42 (debut)",
-      ""
-    ],
+    "age": 42,
     "birthday": "February 16th",
     "height": 261,
     "bloodType": "X",
@@ -2889,22 +2666,18 @@
       "english": "Blueno"
     },
     "debut": {
-      "chapter": [
-        "Chapter 325",
-        "Episode 230"
-      ],
-      "episode": 0
+      "chapter": 325,
+      "episode": 230
     },
     "formerAffiliations": [
-      "CP9 (former)"
+      "CP9"
     ],
     "affiliations": [
-      "CP0",
-      "CP9 (former)"
+      "CP0"
     ],
     "occupations": [
       "Cipher Pol Agent",
-      "Bartender (undercover)"
+      "Bartender"
     ],
     "origin": "North Blue",
     "status": "Alive",
@@ -2956,28 +2729,22 @@
       "english": "Boa Hancock"
     },
     "debut": {
-      "chapter": [
-        "Chapter 516",
-        "Episode 409"
-      ],
-      "episode": 0
+      "chapter": 516,
+      "episode": 409
     },
     "formerOccupations": [
-      "Warlord of the Sea (former)",
-      "Slave (former)"
+      "Warlord of the Sea",
+      "Slave"
     ],
     "formerAffiliations": [
-      "Seven Warlords of the Sea (former)"
+      "Seven Warlords of the Sea"
     ],
     "affiliations": [
-      "Kuja (Kuja Pirates)",
-      "Seven Warlords of the Sea (former)"
+      "Kuja (Kuja Pirates)"
     ],
     "occupations": [
       "Pirate Captain",
-      "Empress of Amazon Lily",
-      "Warlord of the Sea (former)",
-      "Slave (former)"
+      "Empress of Amazon Lily"
     ],
     "origin": "Calm Belt (Amazon Lily)",
     "residence": [
@@ -3008,11 +2775,8 @@
       "english": "Boa Marigold"
     },
     "debut": {
-      "chapter": [
-        "Chapter 516",
-        "Episode 409"
-      ],
-      "episode": 0
+      "chapter": 516,
+      "episode": 409
     },
     "affiliations": [
       "Kuja (Kuja Pirates)"
@@ -3052,21 +2816,17 @@
       "english": "Boa Sandersonia"
     },
     "debut": {
-      "chapter": [
-        "Chapter 516",
-        "Episode 409"
-      ],
-      "episode": 0
+      "chapter": 516,
+      "episode": 409
     },
     "formerOccupations": [
-      "Slave (former)"
+      "Slave"
     ],
     "affiliations": [
       "Kuja (Kuja Pirates)"
     ],
     "occupations": [
-      "Ruler of Amazon Lily",
-      "Slave (former)"
+      "Ruler of Amazon Lily"
     ],
     "origin": "Calm Belt (Amazon Lily)",
     "residence": [
@@ -18975,27 +18735,21 @@
       "english": "Kalifa"
     },
     "debut": {
-      "chapter": [
-        "Chapter 323",
-        "Episode 230"
-      ],
-      "episode": 0
+      "chapter": 323,
+      "episode": 230
     },
     "formerOccupations": [
-      "Secretary (cover, former)"
+      "Secretary"
     ],
     "formerAffiliations": [
-      "CP9 (former)",
-      "Galley-La Company (former)"
+      "CP9",
+      "Galley-La Company"
     ],
     "affiliations": [
-      "CP0",
-      "CP9 (former)",
-      "Galley-La Company (former)"
+      "CP0"
     ],
     "occupations": [
-      "Cipher Pol Agent",
-      "Secretary (cover, former)"
+      "Cipher Pol Agent"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -19023,11 +18777,8 @@
       "english": "Kamakiri"
     },
     "debut": {
-      "chapter": [
-        "Chapter 249",
-        "Episode 163"
-      ],
-      "episode": 0
+      "chapter": 249,
+      "episode": 163
     },
     "affiliations": [
       "Shandia",
@@ -19054,11 +18805,8 @@
       "english": "N/A"
     },
     "debut": {
-      "chapter": [
-        "Chapter 926",
-        "Episode 918"
-      ],
-      "episode": 0
+      "chapter": 926,
+      "episode": 918
     },
     "occupations": [
       "Newspaper deliveryman"
@@ -19078,11 +18826,8 @@
       "english": "Kamijiro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 914",
-        "Episode 901"
-      ],
-      "episode": 0
+      "chapter": 914,
+      "episode": 901
     },
     "affiliations": [
       "Beasts Pirates"
@@ -19099,18 +18844,14 @@
       "english": "Kaneshiro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 72",
-        "Episode 31"
-      ],
-      "episode": 0
+      "chapter":72,
+      "episode": 31
     },
     "formerAffiliations": [
-      "Sun Pirates (former)"
+      "Sun Pirates"
     ],
     "affiliations": [
-      "Arlong Pirates",
-      "Sun Pirates (former)"
+      "Arlong Pirates"
     ],
     "occupations": [
       "Pirate",
@@ -19133,11 +18874,8 @@
       "english": "Moneypenny"
     },
     "debut": {
-      "chapter": [
-        "Chapter 398",
-        "Episode 278"
-      ],
-      "episode": 0
+      "chapter": 398,
+      "episode": 278
     },
     "occupations": [
       "Farmer"
@@ -19154,18 +18892,13 @@
       "english": "Kappa"
     },
     "debut": {
-      "chapter": [
-        "Chapter 167",
-        "Episode 105"
-      ],
-      "episode": 0
+      "chapter":167,
+      "episode": 105
     },
     "occupations": [
       "Shoeshiner"
     ],
-    "residence": [
-      "Nanohana"
-    ],
+    "residence": "Nanohana",
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
@@ -19178,11 +18911,8 @@
       "english": "Karasu"
     },
     "debut": {
-      "chapter": [
-        "Chapter 593",
-        "Episode 510"
-      ],
-      "episode": 0
+      "chapter": 593,
+      "episode": 510
     },
     "affiliations": [
       "Revolutionary Army (North Army)"
@@ -19220,11 +18950,8 @@
       "english": "Karma"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 467"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 467
     },
     "affiliations": [
       "Takotopus Pirates",
@@ -19248,31 +18975,27 @@
       "english": "Karoo (Viz, 4Kids, Funimation);Kalu (Odex)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 109",
-        "Episode 65"
-      ],
-      "episode": 0
+      "chapter": 109,
+      "episode": 65
     },
     "formerOccupations": [
-      "Pirate (former)"
+      "Pirate"
     ],
     "formerAffiliations": [
-      "Super Spot-Billed Duck Troops, Nefertari Vivi, Straw Hat Pirates (former), Baroque Works (former)"
+      "Straw Hat Pirates", 
+      "Baroque Works"
     ],
     "affiliations": [
-      "Super Spot-Billed Duck Troops, Nefertari Vivi, Straw Hat Pirates (former), Baroque Works (former)"
+      "Super Spot-Billed Duck Troops",
+      "Nefertari Vivi"
     ],
     "occupations": [
       "Pet",
       "Royal Transport",
-      "Captain of the Super Spot-Billed Duck Troops",
-      "Pirate (former)"
+      "Captain of the Super Spot-Billed Duck Troops"
     ],
     "origin": "Grand Line (Arabasta Kingdom)",
-    "residence": [
-      "Arabasta Kingdom (Alubarna)"
-    ],
+    "residence": "Arabasta Kingdom (Alubarna)",
     "status": "Alive",
     "age": 16,
     "birthday": "November 8th",
@@ -19289,11 +19012,8 @@
       "english": "Kasa"
     },
     "debut": {
-      "chapter": [
-        "Chapter 594",
-        "Episode 511"
-      ],
-      "episode": 0
+      "chapter": 594,
+      "episode": 511
     },
     "affiliations": [
       "Raijin Island"
@@ -19310,11 +19030,8 @@
       "english": "KasagonKasagoba (WT100)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 607",
-        "Episode 527"
-      ],
-      "episode": 0
+      "chapter":607,
+      "episode": 527
     },
     "affiliations": [
       "New Fish-Man Pirates"
@@ -25227,11 +24944,8 @@
       "english": "Monkey D. Luffy"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1",
-        "Episode 1"
-      ],
-      "episode": 0
+      "chapter": 1,
+      "episode": 1
     },
     "affiliations": [
       "Straw Hat Pirates",
@@ -25276,11 +24990,8 @@
       "english": "Monster"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1",
-        "Episode 489"
-      ],
-      "episode": 0
+      "chapter": 1,
+      "episode": 489
     },
     "affiliations": [
       "Red Hair Pirates"
@@ -32047,32 +31758,26 @@
       "english": "Sanji"
     },
     "debut": {
-      "chapter": [
-        "Chapter 43",
-        "Episode 20"
-      ],
-      "episode": 0
+      "chapter": 43,
+      "episode": 20
     },
     "formerOccupations": [
-      "Sous Chef (former)",
-      "Prince (former)"
+      "Sous Chef",
+      "Prince"
     ],
     "formerAffiliations": [
-      "Vinsmoke Family (former)"
+      "Vinsmoke Family",
+      "Baratie",
+      "Germa Kingdom",
+      "Ninja-Pirate-Mink-Samurai Alliance"
     ],
     "affiliations": [
       "Straw Hat Pirates",
-      "Straw Hat Grand Fleet",
-      "Vinsmoke Family (former)",
-      "Baratie (resigned)",
-      "Germa Kingdom (defected)",
-      "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+      "Straw Hat Grand Fleet"
     ],
     "occupations": [
       "Cook",
       "Senior Officer",
-      "Sous Chef (former)",
-      "Prince (former)",
       "Cart Vendor (temporary)"
     ],
     "origin": "North Blue",
@@ -32103,34 +31808,27 @@
       "english": "San Juan Wolf"
     },
     "debut": {
-      "chapter": [
-        "Chapter 575",
-        "Episode 484 (Full)"
-      ],
-      "episode": 0
+      "chapter": 575,
+      "episode": 484
     },
     "formerOccupations": [
-      "Prisoner of the Great Prison (former)"
+      "Prisoner of the Great Prison"
     ],
     "formerAffiliations": [
-      "Impel Down (former)"
+      "Impel Down"
     ],
     "affiliations": [
-      "Blackbeard Pirates",
-      "Impel Down (former)"
+      "Blackbeard Pirates"
     ],
     "occupations": [
       "Pirate",
-      "Titanic Captain (Captain of the Seventh Ship)",
-      "Prisoner of the Great Prison (former)"
+      "Titanic Captain (Captain of the Seventh Ship)"
     ],
     "origin": "West Blue",
     "status": "Alive",
     "age": 99,
     "birthday": "March 2nd",
-    "height": [
-      "180 m (590'6) (maximum)"
-    ],
+    "height": 18000,
     "bloodType": "S",
     "bounty": "Unknown",
     "devilFruit": {
@@ -32152,11 +31850,8 @@
       "english": "Ichika, Nika, Sanka, Yonka, Yonka Two"
     },
     "debut": {
-      "chapter": [
-        "Chapter 608",
-        "Episode 527"
-      ],
-      "episode": 0
+      "chapter": 608,
+      "episode": 527
     },
     "affiliations": [
       "Neutral"
@@ -32177,11 +31872,8 @@
       "english": "Sapee"
     },
     "debut": {
-      "chapter": [
-        "Chapter 98",
-        "Episode 51"
-      ],
-      "episode": 0
+      "chapter": 98,
+      "episode": 51
     },
     "occupations": [
       "Fishmonger"
@@ -32203,21 +31895,17 @@
       "english": "Sarahebi"
     },
     "debut": {
-      "chapter": [
-        "Chapter 919",
-        "Episode 909"
-      ],
-      "episode": 0
+      "chapter": 919,
+      "episode": 909
     },
     "formerOccupations": [
-      "Teacher (former)"
+      "Teacher"
     ],
     "affiliations": [
       "Beasts Pirates"
     ],
     "occupations": [
-      "Gifter",
-      "Teacher (former)"
+      "Gifter"
     ],
     "status": "Alive",
     "devilFruit": {
@@ -32235,11 +31923,8 @@
       "english": "Sarfunkel"
     },
     "debut": {
-      "chapter": [
-        "Chapter 620 (cover)",
-        "One Piece Film: Red (credits)"
-      ],
-      "episode": 0
+      "chapter": 620,
+      "episode": null
     },
     "affiliations": [
       "Gaimon"
@@ -32259,25 +31944,19 @@
       "english": "Sally Isntoinette"
     },
     "debut": {
-      "chapter": [
-        "Chapter 823",
-        "Episode 777"
-      ],
-      "episode": 0
+      "chapter": 823,
+      "episode": 777
     },
     "formerOccupations": [
-      "Princess(former)"
+      "Princess"
     ],
     "affiliations": [
       "Goa Kingdom"
     ],
     "occupations": [
-      "Queen",
-      "Princess(former)"
+      "Queen"
     ],
-    "residence": [
-      "Goa Kingdom"
-    ],
+    "residence": "Goa Kingdom",
     "status": "Alive",
     "birthday": "July 31st",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -32291,21 +31970,16 @@
       "english": "Sarquiss"
     },
     "debut": {
-      "chapter": [
-        "Chapter 222",
-        "Episode 146"
-      ],
-      "episode": 0
+      "chapter": 222,
+      "episode": 146
     },
     "formerOccupations": [
-      "First Mate (former)"
+      "First Mate"
     ],
     "affiliations": [
       "Bellamy Pirates"
     ],
-    "occupations": [
-      "First Mate (former)"
-    ],
+    "occupations": [],
     "origin": "North Blue",
     "status": "Unknown",
     "age": 27,
@@ -32321,14 +31995,11 @@
     "name": {
       "japanese": "サルウ",
       "romanized": "Sarū",
-      "english": "Salou (VIZ); Saruu (Funimation)"
+      "english": "Saru"
     },
     "debut": {
-      "chapter": [
-        "Chapter 497",
-        "Episode 391"
-      ],
-      "episode": 0
+      "chapter": 497,
+      "episode": 391
     },
     "affiliations": [
       "Rosward Family"
@@ -32352,27 +32023,21 @@
       "english": "Sarutobi"
     },
     "debut": {
-      "chapter": [
-        "Chapter 931",
-        "Episode 925"
-      ],
-      "episode": 0
+      "chapter": 931,
+      "episode": 925
     },
     "formerAffiliations": [
-      "Orochi Oniwabanshu (former)"
+      "Orochi Oniwabanshu"
     ],
     "affiliations": [
-      "Beasts Pirates",
-      "Orochi Oniwabanshu (former)"
+      "Beasts Pirates"
     ],
     "occupations": [
       "Ninja",
       "Pirate"
     ],
     "origin": "Wano Country",
-    "residence": [
-      "Flower Capital, Wano Country"
-    ],
+    "residence": "Flower Capital, Wano Country",
     "status": "Alive",
     "age": 45,
     "birthday": "March 12th",
@@ -32389,26 +32054,20 @@
       "english": "Sasaki"
     },
     "debut": {
-      "chapter": [
-        "Chapter 977",
-        "Episode 954 (silhouette)",
-        "Episode 982 (actual)"
-      ],
-      "episode": 0
+      "chapter": 977,
+      "episode": 954
     },
     "formerOccupations": [
-      "Pirate Captain (former)"
+      "Pirate Captain"
     ],
     "formerAffiliations": [
-      "Sasaki Pirates (former)"
+      "Sasaki Pirates"
     ],
     "affiliations": [
-      "Beasts Pirates (Tobiroppo)",
-      "Sasaki Pirates (former)"
+      "Beasts Pirates (Tobiroppo)"
     ],
     "occupations": [
-      "Shinuchi",
-      "Pirate Captain (former)"
+      "Shinuchi"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -32436,11 +32095,8 @@
       "english": "Satori"
     },
     "debut": {
-      "chapter": [
-        "Chapter 241",
-        "Episode 155"
-      ],
-      "episode": 0
+      "chapter": 241,
+      "episode": 155
     },
     "affiliations": [
       "God's Army"
@@ -32465,11 +32121,8 @@
       "english": "N/A"
     },
     "debut": {
-      "chapter": [
-        "Chapter 906",
-        "Episode 884"
-      ],
-      "episode": 0
+      "chapter": 906,
+      "episode": 884
     },
     "affiliations": [
       "Levely"
@@ -32492,20 +32145,17 @@
       "english": "Scarlet"
     },
     "debut": {
-      "chapter": [
-        "Chapter 721",
-        "Episode 650"
-      ],
-      "episode": 0
+      "chapter": 721,
+      "episode": 650
     },
     "formerOccupations": [
-      "Princess (former)"
+      "Princess"
     ],
     "affiliations": [
       "Riku Family"
     ],
     "occupations": [
-      "Princess (former)"
+      "Princess"
     ],
     "status": "Deceased",
     "ageAtDeath": 25,
@@ -32549,18 +32199,13 @@
       "english": "Scopper Gaban"
     },
     "debut": {
-      "chapter": [
-        "Chapter 19",
-        "Episode 0"
-      ],
-      "episode": 0
+      "chapter": 19,
+      "episode": null
     },
     "formerAffiliations": [
-      "Roger Pirates (former)"
+      "Roger Pirates"
     ],
-    "affiliations": [
-      "Roger Pirates (former)"
-    ],
+    "affiliations": [],
     "occupations": [
       "Pirate"
     ],
@@ -32576,11 +32221,8 @@
       "english": "Yeti Cool Brothers"
     },
     "debut": {
-      "chapter": [
-        "Chapter 665",
-        "Episode 591"
-      ],
-      "episode": 0
+      "chapter": 665,
+      "episode": 591
     },
     "affiliations": [
       "Caesar Clown"
@@ -32610,11 +32252,8 @@
       "english": "Scotch"
     },
     "debut": {
-      "chapter": [
-        "Chapter 595",
-        "Episode 513"
-      ],
-      "episode": 0
+      "chapter": 595,
+      "episode": 513
     },
     "affiliations": [
       "Beasts Pirates"
@@ -32634,11 +32273,8 @@
       "english": "Scratchmen Apoo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 498",
-        "Episode 392"
-      ],
-      "episode": 0
+      "chapter": 498,
+      "episode": 392
     },
     "affiliations": [
       "On Air Pirates",
@@ -32702,11 +32338,9 @@
       "episode": 0
     },
     "formerAffiliations": [
-      "Roger Pirates (former)"
+      "Roger Pirates"
     ],
-    "affiliations": [
-      "Roger Pirates (former)"
-    ],
+    "affiliations": [],
     "occupations": [
       "Pirate"
     ],
@@ -32722,16 +32356,15 @@
       "english": "Seamars"
     },
     "debut": {
-      "chapter": [
-        "Chapter 440 (cover)"
-      ],
-      "episode": 0
+      "chapter": 440,
+      "episode": null
     },
     "affiliations": [
       "Space Pirates"
     ],
     "occupations": [
-      "Captain, Pirate"
+      "Captain",
+      "Pirate"
     ],
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -32745,11 +32378,8 @@
       "english": "Seira"
     },
     "debut": {
-      "chapter": [
-        "Chapter 608",
-        "Episode 527"
-      ],
-      "episode": 0
+      "chapter": 608,
+      "episode": 527
     },
     "affiliations": [
       "Mermaid Cafe"
@@ -32758,9 +32388,7 @@
       "Dancer"
     ],
     "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
-    "residence": [
-      "Mermaid Cove (Coral Hill)"
-    ],
+    "residence": "Mermaid Cove (Coral Hill)",
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
@@ -32773,21 +32401,16 @@
       "english": "Seki"
     },
     "debut": {
-      "chapter": [
-        "Chapter 908",
-        "Episode 884"
-      ],
-      "episode": 0
+      "chapter": 908,
+      "episode": 884
     },
     "formerOccupations": [
-      "King (former)"
+      "King"
     ],
     "affiliations": [
       "Levely"
     ],
-    "occupations": [
-      "King (former)"
-    ],
+    "occupations": [],
     "residence": [
       "Lulusia Kingdom"
     ],
@@ -32803,11 +32426,8 @@
       "english": "Sengoku"
     },
     "debut": {
-      "chapter": [
-        "Chapter 234",
-        "Episode 151"
-      ],
-      "episode": 0
+      "chapter": 234,
+      "episode": 151
     },
     "formerOccupations": [
       "Fleet Admiral (former)",
@@ -32817,9 +32437,7 @@
       "Marines (semi-retired)"
     ],
     "occupations": [
-      "Inspector General",
-      "Fleet Admiral (former)",
-      "Admiral (former)"
+      "Inspector General"
     ],
     "origin": "South Blue",
     "status": "Alive",
@@ -32846,19 +32464,14 @@
       "english": "Sen-no-Rikyuru"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1053",
-        "Episode 1080"
-      ],
-      "episode": 0
+      "chapter": 1053,
+      "episode": 1080
     },
     "occupations": [
       "Master of Tea Ceremonies",
       "Cook"
     ],
-    "residence": [
-      "Wano Country (Flower Capital)"
-    ],
+    "residence": "Wano Country (Flower Capital)",
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
@@ -32871,11 +32484,8 @@
       "english": "Señor Pink"
     },
     "debut": {
-      "chapter": [
-        "Chapter 702",
-        "Episode 632"
-      ],
-      "episode": 0
+      "chapter": 702,
+      "episode": 632
     },
     "affiliations": [
       "Donquixote Pirates"
@@ -32914,18 +32524,13 @@
       "english": "Sentomaru"
     },
     "debut": {
-      "chapter": [
-        "Chapter 497",
-        "Episode 401"
-      ],
-      "episode": 0
+      "chapter": 497,
+      "episode": 401
     },
     "formerAffiliations": [
-      "Marines (former)"
+      "Marines"
     ],
-    "affiliations": [
-      "Marines (former)"
-    ],
+    "affiliations": [],
     "occupations": [
       "Marine Officer",
       "Dr. Vegapunk's bodyguard"
@@ -32950,10 +32555,8 @@
       "english": "N/A"
     },
     "debut": {
-      "chapter": [
-        "Chapter 915 (cover)"
-      ],
-      "episode": 0
+      "chapter": 915,
+      "episode": null
     },
     "occupations": [
       "Dyer",
@@ -32971,11 +32574,8 @@
       "english": "Seto"
     },
     "debut": {
-      "chapter": [
-        "Chapter 287",
-        "Episode 187"
-      ],
-      "episode": 0
+      "chapter": 287,
+      "episode": 187
     },
     "affiliations": [
       "Shandia"
@@ -32993,11 +32593,8 @@
       "english": "Shachi"
     },
     "debut": {
-      "chapter": [
-        "Chapter 498",
-        "Episode 392"
-      ],
-      "episode": 0
+      "chapter": 498,
+      "episode": 392
     },
     "affiliations": [
       "Heart Pirates"
@@ -33006,9 +32603,7 @@
       "Pirate"
     ],
     "origin": "North Blue",
-    "residence": [
-      "Swallow Island (former)"
-    ],
+    "residence": "Swallow Island (former)",
     "status": "Unknown",
     "age": 27,
     "birthday": "April 7th",
@@ -33024,11 +32619,8 @@
       "english": "Shaka"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1062",
-        "Episode 1091"
-      ],
-      "episode": 0
+      "chapter": 1062,
+      "episode": 1091
     },
     "affiliations": [
       "Marines (SSG)"
@@ -33048,29 +32640,23 @@
       "english": "Shakuyaku"
     },
     "debut": {
-      "chapter": [
-        "Chapter 498",
-        "Episode 392"
-      ],
-      "episode": 0
+      "chapter": 498,
+      "episode": 392
     },
     "formerOccupations": [
-      "Captain (former)",
-      "Empress of Amazon Lily (former)"
+      "Captain",
+      "Empress of Amazon Lily"
     ],
     "formerAffiliations": [
-      "Kuja Pirates (former)"
+      "Kuja Pirates"
     ],
     "affiliations": [
       "Shakky's Rip-off Bar",
-      "Kuja",
-      "Kuja Pirates (former)"
+      "Kuja"
     ],
     "occupations": [
       "Bartender",
-      "Pirate",
-      "Captain (former)",
-      "Empress of Amazon Lily (former)"
+      "Pirate"
     ],
     "residence": [
       "Sabaody Archipelago"
@@ -33091,11 +32677,8 @@
       "english": "Saint Shalria"
     },
     "debut": {
-      "chapter": [
-        "Chapter 497",
-        "Episode 391"
-      ],
-      "episode": 0
+      "chapter": 497,
+      "episode": 391
     },
     "affiliations": [
       "World Government"
@@ -33120,14 +32703,11 @@
     "name": {
       "japanese": "シャム",
       "romanized": "Shamu",
-      "english": "SiamSham (WT100)"
+      "english": "Sham"
     },
     "debut": {
-      "chapter": [
-        "Chapter 31",
-        "Episode 13"
-      ],
-      "episode": 0
+      "chapter": 31,
+      "episode": 13
     },
     "affiliations": [
       "Black Cat Pirates"
@@ -33142,10 +32722,8 @@
     "birthday": "April 19th",
     "height": 201,
     "bloodType": "X",
-    "bounty": [
-      "7,000,000 (with Buchi)"
-    ],
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "bounty": 7000000,
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Sham"
   },
   {
     "id": "c-1149",
@@ -33175,11 +32753,8 @@
       "english": "Shandia Chief"
     },
     "debut": {
-      "chapter": [
-        "Chapter 275",
-        "Episode 168"
-      ],
-      "episode": 0
+      "chapter": 275,
+      "episode": 168
     },
     "affiliations": [
       "Shandia"
@@ -33204,11 +32779,8 @@
       "english": "Shanks"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1",
-        "Episode 4"
-      ],
-      "episode": 0
+      "chapter": 1,
+      "episode": 4
     },
     "affiliations": [
       "Red Hair Pirates",
@@ -33242,11 +32814,8 @@
       "english": "Sharingle"
     },
     "debut": {
-      "chapter": [
-        "Chapter 428",
-        "Episode 310"
-      ],
-      "episode": 0
+      "chapter": 428,
+      "episode": 310
     },
     "affiliations": [
       "Marines"
@@ -33274,11 +32843,8 @@
       "english": "Sheepshead"
     },
     "debut": {
-      "chapter": [
-        "Chapter 795",
-        "Episode 739"
-      ],
-      "episode": 0
+      "chapter": 795,
+      "episode": 739
     },
     "affiliations": [
       "Beasts Pirates"
@@ -33307,11 +32873,8 @@
       "english": "Shelly"
     },
     "debut": {
-      "chapter": [
-        "Chapter 304",
-        "Episode 207"
-      ],
-      "episode": 0
+      "chapter": 304,
+      "episode": 207
     },
     "affiliations": [
       "Nomads"
@@ -33332,11 +32895,8 @@
       "english": "St. Shepherd Ju Peter"
     },
     "debut": {
-      "chapter": [
-        "Chapter 233",
-        "Episode 151"
-      ],
-      "episode": 0
+      "chapter": 233,
+      "episode": 151
     },
     "affiliations": [
       "Five Elders",
@@ -33367,23 +32927,20 @@
         "Episode 425",
         "One Piece Film: Strong World"
       ],
-      "episode": 0
+      "episode": 425
     },
     "formerOccupations": [
-      "Prisoner of the Great Prison (former)"
+      "Prisoner of the Great Prison"
     ],
     "formerAffiliations": [
-      "Rocks Pirates (former)",
-      "Impel Down (former)"
+      "Rocks Pirates",
+      "Impel Down"
     ],
     "affiliations": [
-      "Golden Lion Pirates",
-      "Rocks Pirates (former)",
-      "Impel Down (former)"
+      "Golden Lion Pirates"
     ],
     "occupations": [
-      "Pirate Captain/Admiral",
-      "Prisoner of the Great Prison (former)"
+      "Pirate Captain/Admiral"
     ],
     "residence": [
       "Merveille"
@@ -33426,11 +32983,8 @@
       "english": "Koshiro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 5",
-        "Episode 19"
-      ],
-      "episode": 0
+      "chapter": 5,
+      "episode": 19
     },
     "affiliations": [
       "Shimotsuki Family"
@@ -33455,11 +33009,8 @@
       "english": "Shimotsuki Kozaburo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1033",
-        "Episode 1060"
-      ],
-      "episode": 0
+      "chapter": 1033,
+      "episode": 1060
     },
     "affiliations": [
       "Shimotsuki Family"
@@ -33479,11 +33030,8 @@
       "english": "Shimotsuki Kuina"
     },
     "debut": {
-      "chapter": [
-        "Chapter 5",
-        "Episode 2"
-      ],
-      "episode": 0
+      "chapter": 5,
+      "episode": 2
     },
     "affiliations": [
       "Shimotsuki Family"
@@ -33549,11 +33097,8 @@
       "english": "Shimotsuki Ushimaru"
     },
     "debut": {
-      "chapter": [
-        "Chapter 953",
-        "Episode 954"
-      ],
-      "episode": 0
+      "chapter": 953,
+      "episode": 954
     },
     "occupations": [
       "Daimyo of Ringo",
@@ -33574,18 +33119,14 @@
       "english": "Shimotsuki Yasuie"
     },
     "debut": {
-      "chapter": [
-        "Chapter 929",
-        "Episode 916"
-      ],
-      "episode": 0
+      "chapter": 929,
+      "episode": 916
     },
     "formerOccupations": [
-      "Daimyo (former)"
+      "Daimyo"
     ],
     "occupations": [
-      "Taikomochi",
-      "Daimyo (former)"
+      "Taikomochi"
     ],
     "residence": [
       "Ebisu Town",
@@ -33607,17 +33148,14 @@
       "english": "Stella Live"
     },
     "debut": {
-      "chapter": [
-        "Chapter 785",
-        "Episode 727"
-      ],
-      "episode": 0
+      "chapter": 785,
+      "episode": 727
     },
     "formerOccupations": [
       "Dancer (former)"
     ],
     "occupations": [
-      "Dancer (former)"
+      "Dancer"
     ],
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -33649,11 +33187,8 @@
       "english": "Shine"
     },
     "debut": {
-      "chapter": [
-        "Chapter 214",
-        "Episode 128"
-      ],
-      "episode": 0
+      "chapter":214,
+      "episode": 128
     },
     "affiliations": [
       "Marines"
@@ -33673,11 +33208,8 @@
       "english": "Shinobu"
     },
     "debut": {
-      "chapter": [
-        "Chapter 921",
-        "Episode 911"
-      ],
-      "episode": 0
+      "chapter": 921,
+      "episode": 911
     },
     "affiliations": [
       "Kozuki Family"
@@ -33687,9 +33219,7 @@
       "Retainer of the Kozuki Family"
     ],
     "origin": "Grand Line (Wano Country)",
-    "residence": [
-      "Kuri, Wano Country"
-    ],
+    "residence": "Kuri, Wano Country",
     "status": "Alive",
     "age": 49,
     "birthday": "October 23rd",
@@ -33714,11 +33244,8 @@
       "english": "Shinosuke"
     },
     "debut": {
-      "chapter": [
-        "Chapter 955",
-        "Episode 956"
-      ],
-      "episode": 0
+      "chapter": 955,
+      "episode": 956
     },
     "affiliations": [
       "Kozuki Family"
@@ -33741,11 +33268,8 @@
       "english": "Shion"
     },
     "debut": {
-      "chapter": [
-        "Chapter 515",
-        "Episode 409 (mentioned)"
-      ],
-      "episode": 0
+      "chapter": 515,
+      "episode": 409
     },
     "affiliations": [
       "Kuja"
@@ -33768,11 +33292,8 @@
       "english": "Saltgrill"
     },
     "debut": {
-      "chapter": [
-        "Chapter 75",
-        "Episode 33"
-      ],
-      "episode": 0
+      "chapter": 75,
+      "episode": 33
     },
     "affiliations": [
       "Arlong Pirates"
@@ -33798,11 +33319,8 @@
       "english": "Shirahoshi"
     },
     "debut": {
-      "chapter": [
-        "Chapter 612",
-        "Episode 531"
-      ],
-      "episode": 0
+      "chapter": 612,
+      "episode": 531
     },
     "affiliations": [
       "Neptune Family",
@@ -33831,27 +33349,21 @@
       "english": "ShiryuShiliew (WT100)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 538",
-        "Episode 440"
-      ],
-      "episode": 0
+      "chapter": 538,
+      "episode": 440
     },
     "formerOccupations": [
-      "Head Jailer (former)",
-      "Prisoner of the Great Prison (former)"
+      "Head Jailer",
+      "Prisoner of the Great Prison"
     ],
     "formerAffiliations": [
-      "Impel Down (former)"
+      "Impel Down"
     ],
     "affiliations": [
-      "Blackbeard Pirates",
-      "Impel Down (former)"
+      "Blackbeard Pirates"
     ],
     "occupations": [
-      "Titanic Captain (Captain of the Second Ship)",
-      "Head Jailer (former)",
-      "Prisoner of the Great Prison (former)"
+      "Titanic Captain (Captain of the Second Ship)"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -33882,11 +33394,8 @@
       "english": "Shishilian"
     },
     "debut": {
-      "chapter": [
-        "Chapter 808",
-        "Episode 758"
-      ],
-      "episode": 0
+      "chapter": 808,
+      "episode": 758
     },
     "affiliations": [
       "Mokomo Dukedom",
@@ -33916,11 +33425,8 @@
       "english": "Shojoe (4Kids);Shoujou (Viz);Shojo (Funimation)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 226",
-        "Episode 147"
-      ],
-      "episode": 0
+      "chapter": 226,
+      "episode": 147
     },
     "affiliations": [
       "Saruyama Alliance (Shoujou Pirates)"
@@ -33950,11 +33456,8 @@
       "english": "Shu"
     },
     "debut": {
-      "chapter": [
-        "Chapter 426",
-        "Episode 309"
-      ],
-      "episode": 0
+      "chapter": 426,
+      "episode": 309
     },
     "affiliations": [
       "Marines"
@@ -33982,11 +33485,8 @@
       "english": "Shura"
     },
     "debut": {
-      "chapter": [
-        "Chapter 241",
-        "Episode 155"
-      ],
-      "episode": 0
+      "chapter": 241,
+      "episode": 155
     },
     "affiliations": [
       "God's Army"
@@ -34011,11 +33511,8 @@
       "english": "SharleyShirley (WT100)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 610",
-        "Episode 529"
-      ],
-      "episode": 0
+      "chapter": 610,
+      "episode": 529
     },
     "formerOccupations": [
       "Fortune teller (former)"
@@ -34086,26 +33583,19 @@
       "english": "Silvers Rayleigh"
     },
     "debut": {
-      "chapter": [
-        "Chapter 19",
-        "Episode 8"
-      ],
-      "episode": 0
+      "chapter": 19,
+      "episode": 8
     },
     "formerOccupations": [
-      "First Mate (former)",
-      "Pirate (former)"
+      "First Mate",
+      "Pirate"
     ],
     "formerAffiliations": [
-      "Roger Pirates (former)"
+      "Roger Pirates"
     ],
-    "affiliations": [
-      "Roger Pirates (former)"
-    ],
+    "affiliations": [],
     "occupations": [
-      "Coating Mechanic (current)",
-      "First Mate (former)",
-      "Pirate (former)"
+      "Coating Mechanic"
     ],
     "residence": [
       "Sabaody Archipelago"
@@ -34127,11 +33617,8 @@
       "english": "Synd"
     },
     "debut": {
-      "chapter": [
-        "Chapter 657",
-        "Episode 582"
-      ],
-      "episode": 0
+      "chapter": 657,
+      "episode": 582
     },
     "status": "Alive",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
@@ -34145,11 +33632,8 @@
       "english": "Skull"
     },
     "debut": {
-      "chapter": [
-        "Chapter 552",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 552,
+      "episode": 461
     },
     "affiliations": [
       "Spade Pirates, Whitebeard Pirates"
@@ -34193,11 +33677,8 @@
       "english": "Smiley"
     },
     "debut": {
-      "chapter": [
-        "Chapter 668",
-        "Episode 594"
-      ],
-      "episode": 0
+      "chapter": 668,
+      "episode": 594
     },
     "affiliations": [
       "Caesar Clown"
@@ -34228,28 +33709,22 @@
       "english": "Smoker"
     },
     "debut": {
-      "chapter": [
-        "Chapter 97",
-        "Episode 48"
-      ],
-      "episode": 0
+      "chapter": 97,
+      "episode": 48
     },
     "formerOccupations": [
-      "Commodore (former)",
-      "Captain (former)"
+      "Commodore",
+      "Captain"
     ],
     "formerAffiliations": [
-      "Loguetown Marine Base (former)"
+      "Loguetown Marine Base"
     ],
     "affiliations": [
       "Marines",
-      "G-5",
-      "Loguetown Marine Base (former)"
+      "G-5"
     ],
     "occupations": [
-      "Vice Admiral",
-      "Commodore (former)",
-      "Captain (former)"
+      "Vice Admiral"
     ],
     "origin": "Grand Line",
     "residence": [
@@ -34279,11 +33754,8 @@
       "english": "Smoothy (Viz);Smoothie (Funimation)"
     },
     "debut": {
-      "chapter": [
-        "Chapter 668",
-        "Episode 592"
-      ],
-      "episode": 0
+      "chapter": 668,
+      "episode": 592
     },
     "affiliations": [
       "Caesar Clown"
@@ -39851,11 +39323,8 @@
       "english": "Zambai"
     },
     "debut": {
-      "chapter": [
-        "Chapter 324",
-        "Episode 230"
-      ],
-      "episode": 0
+      "chapter": 324,
+      "episode": 230
     },
     "affiliations": [
       "Franky Family",
@@ -39865,10 +39334,8 @@
       "Dismantler",
       "Bounty Hunter"
     ],
-    "origin": "Grand Line (Water 7)",
-    "residence": [
-      "Water 7"
-    ],
+    "origin": "Water 7",
+    "residence": "Water 7",
     "status": "Alive",
     "age": 35,
     "birthday": "March 8th",
@@ -39885,11 +39352,8 @@
       "english": "Zanki"
     },
     "debut": {
-      "chapter": [
-        "Chapter 991",
-        "Episode 1055"
-      ],
-      "episode": 0
+      "chapter": 991,
+      "episode": 1055
     },
     "affiliations": [
       "Beasts Pirates (Numbers)"
@@ -39906,25 +39370,20 @@
       "english": "Zeff"
     },
     "debut": {
-      "chapter": [
-        "Chapter 43",
-        "Episode 20"
-      ],
-      "episode": 0
+      "chapter": 43,
+      "episode": 20
     },
     "formerOccupations": [
-      "Head Chef of Baratie, Pirate Captain (former)"
+      "Pirate Captain"
     ],
     "affiliations": [
       "Baratie"
     ],
     "occupations": [
-      "Head Chef of Baratie, Pirate Captain (former)"
+      "Head Chef of Baratie"
     ],
     "origin": "East Blue",
-    "residence": [
-      "Baratie"
-    ],
+    "residence": "Baratie",
     "status": "Alive",
     "age": 67,
     "birthday": "April 2nd",
@@ -39942,11 +39401,8 @@
       "english": "Zeo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 611",
-        "Episode 530"
-      ],
-      "episode": 0
+      "chapter": 611,
+      "episode": 530
     },
     "affiliations": [
       "New Fish-Man Pirates"
@@ -39973,11 +39429,8 @@
       "english": "Zepo"
     },
     "debut": {
-      "chapter": [
-        "Chapter 850",
-        "Episode 816"
-      ],
-      "episode": 0
+      "chapter": 850,
+      "episode": 816
     },
     "affiliations": [
       "Nox Pirates"
@@ -39997,11 +39450,8 @@
       "english": "Zeus"
     },
     "debut": {
-      "chapter": [
-        "Chapter 827",
-        "Episode 786"
-      ],
-      "episode": 0
+      "chapter": 827,
+      "episode": 786
     },
     "affiliations": [
       "Straw Hat Pirates"
@@ -40028,11 +39478,8 @@
       "english": "Zodia"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 462"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 462
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -40053,11 +39500,8 @@
       "english": "Burr"
     },
     "debut": {
-      "chapter": [
-        "Chapter 533",
-        "Episode 434"
-      ],
-      "episode": 0
+      "chapter": 533,
+      "episode": 434
     },
     "affiliations": [
       "Marines G-1 Branch"
@@ -40077,11 +39521,8 @@
       "english": "Zukka"
     },
     "debut": {
-      "chapter": [
-        "Chapter 564",
-        "Episode 489"
-      ],
-      "episode": 0
+      "chapter": 564,
+      "episode": 489
     },
     "affiliations": [
       "Ally of the Whitebeard Pirates"
@@ -40102,11 +39543,8 @@
       "english": "Zunesha"
     },
     "debut": {
-      "chapter": [
-        "Chapter 802",
-        "Episode 751"
-      ],
-      "episode": 0
+      "chapter": 802,
+      "episode": 751
     },
     "origin": "Grand Line",
     "residence": "New World",
