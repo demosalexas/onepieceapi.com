@@ -21,7 +21,7 @@
     ],
     "status": "Unknown",
     "birthday": "January 15th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/A_O"
   },
   {
     "id": "c-2",
@@ -47,7 +47,7 @@
       "Bounty Hunter"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Abdullah"
   },
   {
     "id": "c-3",
@@ -62,10 +62,7 @@
       "episode": 339
     },
     "formerAffiliations": [
-      "Thriller Bark Pirates (Mysterious Four) (former)"
-    ],
-    "affiliations": [
-      "Thriller Bark Pirates (Mysterious Four) (former)"
+      "Thriller Bark Pirates (Mysterious Four)"
     ],
     "occupations": [
       "ReporterSoldier Zombie and General Zombie Leader"
@@ -78,15 +75,20 @@
     "weight": 300,
     "bloodType": "F",
     "devilFruit": {
-      "japaneseName": "Suke Suke no Mi",
-      "englishName": "Clear-Clear Fruit",
+      "id": "df-1",
+      "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+      "name": {
+        "japanese": "スケスケの実",
+        "romanized": "Suke Suke no Mi",
+        "english": "Clear-Clear Fruit"
+      },
       "meanings": [
         "See-through",
         "Sheer"
       ],
       "type": "Paramecia"
     },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Absalom"
   },
   {
     "id": "c-4",
@@ -94,7 +96,7 @@
     "name": {
       "japanese": "アキリア",
       "romanized": "Akiria",
-      "english": "Agilia"
+      "english": "Acilia"
     },
     "debut": {
       "chapter": 706,
@@ -107,7 +109,7 @@
       "Gladiator"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Acilia"
   },
   {
     "id": "c-5",
@@ -115,7 +117,7 @@
     "name": {
       "japanese": "アデル",
       "romanized": "Aderu",
-      "english": "Adelle"
+      "english": "Adele"
     },
     "debut": {
       "chapter": 608,
@@ -128,11 +130,9 @@
       "Dancer"
     ],
     "origin": "Grand Line (Ryugu Kingdom; Fish-Man Island)",
-    "residence": [
-      "Mermaid Cove (Coral Hill)"
-    ],
+    "residence": "Mermaid Cove (Coral Hill)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Adele"
   },
   {
     "id": "c-6",
@@ -153,7 +153,7 @@
       "Pirate"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aggie_68"
   },
   {
     "id": "c-7",
@@ -173,11 +173,9 @@
     "occupations": [
       "Bandit"
     ],
-    "residence": [
-      "Arabasta"
-    ],
+    "residence": "Arabasta",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Agotogi"
   },
   {
     "id": "c-8",
@@ -185,7 +183,7 @@
     "name": {
       "japanese": "アグシリー",
       "romanized": "Agushirī",
-      "english": "Agushily"
+      "english": "Agsilly"
     },
     "debut": {
       "chapter": 578,
@@ -199,7 +197,7 @@
       "Captain"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Agsilly"
   },
   {
     "id": "c-9",
@@ -218,7 +216,7 @@
     ],
     "status": "Alive",
     "birthday": "November 29th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Agyo"
   },
   {
     "id": "c-10",
@@ -239,7 +237,7 @@
       "Noble"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ahho_Desunen_IX"
   },
   {
     "id": "c-11",
@@ -259,11 +257,9 @@
     "occupations": [
       "Noble"
     ],
-    "residence": [
-      "Goa Kingdom, Dawn Island"
-    ],
+    "residence": "Goa Kingdom, Dawn Island",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ahho_Zurako"
   },
   {
     "id": "c-12",
@@ -283,12 +279,12 @@
     "occupations": [
       "East Army Deputy Commander"
     ],
-    "residence": [
-      "Baltigo (former)",
-      "Momoiro Island"
+    "residence": "Momoiro Island",
+    "formerResidences":[
+      "Baltigo"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ahiru"
   },
   {
     "id": "c-13",
@@ -312,7 +308,7 @@
     "birthday": "January 3rd",
     "height": 140,
     "bloodType": "F",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aisa"
   },
   {
     "id": "c-14",
@@ -320,7 +316,7 @@
     "name": {
       "japanese": "アケヘンデ",
       "romanized": "Akehende",
-      "english": "Uweshall Notpass"
+      "english": "Akehende"
     },
     "debut": {
       "chapter": 548,
@@ -330,7 +326,7 @@
       "Marine Rear Admiral"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Akehende"
   },
   {
     "id": "c-15",
@@ -347,11 +343,9 @@
     "occupations": [
       "Arms dealer"
     ],
-    "residence": [
-      "Wano Country (Flower Capital)"
-    ],
+    "residence": "Wano Country (Flower Capital)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Akudai_Kanzaburo"
   },
   {
     "id": "c-16",
@@ -374,7 +368,7 @@
     "origin": "Grand Line",
     "status": "Alive",
     "birthday": "December 27th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Akumai"
   },
   {
     "id": "c-17",
@@ -409,8 +403,7 @@
     "birthday": "January 31st",
     "height": 627,
     "bloodType": "XF",
-    "bounty": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aladine"
   },
   {
     "id": "c-18",
@@ -437,7 +430,7 @@
     "status": "Alive",
     "birthday": "November 9th",
     "bounty": 92000000,
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Albion"
   },
   {
     "id": "c-19",
@@ -452,7 +445,7 @@
       "episode": 583
     },
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ally"
   },
   {
     "id": "c-20",
@@ -474,10 +467,19 @@
     ],
     "status": "Alive",
     "devilFruit": {
-      "englishName": "Alpaca SMILE",
+      "id": "df-2",
+      "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+      "name": {
+        "japanese": "アルパカのスマイル",
+        "romanized": "Arupaka no Sumairu",
+        "english": "Alpaca SMILE"
+      },
+      "meanings": [
+        "Alpaca"
+      ],
       "type": "Artificial Zoan"
     },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Alpacaman"
   },
   {
     "id": "c-21",
@@ -488,20 +490,18 @@
       "english": "Alpha"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1100"
-      ],
-      "episode": 0
+      "chapter": 1100,
+      "episode": null
     },
     "affiliations": [
       "CP8"
     ],
     "occupations": [
       "Cipher Pol Agent",
-      "Nurse (undercover)"
+      "Nurse"
     ],
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Alpha"
   },
   {
     "id": "c-22",
@@ -517,19 +517,20 @@
     },
     "affiliations": [
       "Cross Guild",
-      "Buggy's Delivery, Buggy and Alvida Alliance",
-      "Buggy Pirates (Acting Captain, temporarily)"
+      "Buggy's Delivery",
+      "Buggy and Alvida Alliance"
     ],
     "formerAffiliations": [
-      "Alvida Pirates"
+      "Alvida Pirates",
+      "Buggy Pirates"
     ],
     "occupations": [
       "Pirate Captain"
     ],
     "origin": "East Blue",
-    "residence": [
-      "Karai Bari Island",
-      "Goat Island (former)"
+    "residence": "Karai Bari Island",
+    "formerResidences": [
+      "Goat Island"
     ],
     "status": "Alive",
     "age": 27,
@@ -537,15 +538,8 @@
     "height": 198,
     "bloodType": "S",
     "bounty": 5000000,
-    "devilFruit": {
-      "japaneseName": "Sube Sube no Mi",
-      "englishName": "Smooth-Smooth Fruit",
-      "meanings": [
-        "Smooth, fat in cells, young and slippery"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-3",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Alvida"
   },
   {
     "id": "c-23",
@@ -568,7 +562,7 @@
     ],
     "status": "Alive",
     "birthday": "June 20th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Amadob"
   },
   {
     "id": "c-24",
@@ -583,25 +577,22 @@
       "episode": 153
     },
     "formerOccupations": [
-      "Gatekeeper of Skypiea (former)"
+      "Gatekeeper of Skypiea"
     ],
     "affiliations": [
       "Wagomuland"
     ],
     "occupations": [
-      "Gatekeeper of Skypiea (former)",
       "Ticket Saleswoman"
     ],
     "origin": "Grand Line (Skypiea)",
-    "residence": [
-      "Skypiea"
-    ],
+    "residence": "Skypiea",
     "status": "Alive",
     "age": 79,
     "birthday": "August 4th",
     "height": 120,
     "bloodType": "X",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Amazon"
   },
   {
     "id": "c-25",
@@ -621,8 +612,7 @@
     "origin": "Grand Line",
     "status": "Alive",
     "birthday": "January 31st",
-    "bounty": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/An_Zengaiina"
   },
   {
     "id": "c-27",
@@ -644,9 +634,8 @@
       "Captain"
     ],
     "status": "Alive",
-    "age": "Over 30",
     "birthday": "May 19th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Andre"
   },
   {
     "id": "c-28",
@@ -663,7 +652,7 @@
     "origin": "East Blue",
     "status": "Alive",
     "birthday": "January 1st",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Anjo"
   },
   {
     "id": "c-29",
@@ -685,7 +674,7 @@
     ],
     "status": "Alive",
     "birthday": "November 23rd",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ankoro"
   },
   {
     "id": "c-30",
@@ -705,12 +694,10 @@
     "occupations": [
       "Store owner"
     ],
-    "residence": [
-      "Sabaody Archipelago"
-    ],
+    "residence": "Sabaody Archipelago",
     "status": "Alive",
     "birthday": "January 21st",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Antonio"
   },
   {
     "id": "c-31",
@@ -721,11 +708,8 @@
       "english": "Aphelandra"
     },
     "debut": {
-      "chapter": [
-        "Chapter 514",
-        "Episode 408"
-      ],
-      "episode": 0
+      "chapter": 514,
+      "episode": 408
     },
     "affiliations": [
       "Kuja",
@@ -738,12 +722,10 @@
       "Warrior"
     ],
     "origin": "Calm Belt (Amazon Lily)",
-    "residence": [
-      "Amazon Lily"
-    ],
+    "residence": "Amazon Lily",
     "status": "Alive",
     "birthday": "August 1st",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aphelandra"
   },
   {
     "id": "c-32",
@@ -754,11 +736,8 @@
       "english": "Aramaki"
     },
     "debut": {
-      "chapter": [
-        "Chapter 905",
-        "Episode 882"
-      ],
-      "episode": 0
+      "chapter": 905,
+      "episode": 882
     },
     "affiliations": [
       "Marines"
@@ -767,18 +746,9 @@
       "Admiral"
     ],
     "status": "Alive",
-    "bounty": [
-      "(3,000,000,000)"
-    ],
-    "devilFruit": {
-      "japaneseName": "Mori Mori no Mi",
-      "englishName": "Woods-Woods Fruit",
-      "meanings": [
-        "Forest"
-      ],
-      "type": "Logia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "bounty": 3000000000,
+    "devilFruit": "df-4",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aramaki"
   },
   {
     "id": "c-33",
@@ -789,17 +759,14 @@
       "english": "Peekatha Krotch"
     },
     "debut": {
-      "chapter": [
-        "Chapter 707",
-        "Episode 636"
-      ],
-      "episode": 0
+      "chapter": 707,
+      "episode": 636
     },
     "affiliations": [
       "Corrida Colosseum"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aremo_Ganmi"
   },
   {
     "id": "c-34",
@@ -810,11 +777,8 @@
       "english": "Arlong"
     },
     "debut": {
-      "chapter": [
-        "Chapter 69",
-        "Episode 31"
-      ],
-      "episode": 0
+      "chapter": 69,
+      "episode": 31
     },
     "affiliations": [
       "Arlong Pirates"
@@ -831,8 +795,9 @@
       "Prisoner of the Great Prison"
     ],
     "origin": "Grand Line (Ryugu Kingdom, Fish-Man Island)",
-    "residence": [
-      "Fish-Man District (former) Arlong Park (former)"
+    "formerResidences":[
+      "Fish-Man District",
+      "Arlong Park"
     ],
     "status": "Alive",
     "age": 41,
@@ -840,7 +805,7 @@
     "height": 263,
     "bloodType": "F",
     "bounty": 20000000,
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Arlong"
   },
   {
     "id": "c-35",
