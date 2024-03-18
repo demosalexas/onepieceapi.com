@@ -1,11 +1,68 @@
 [
   {
     "id": "df-1",
-    "image": "",
+    "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
     "name": {
-      "japanese": "",
-      "romanized": "",
-      "english": ""
-    }
+      "japanese": "スケスケの実",
+      "romanized": "Suke Suke no Mi",
+      "english": "Clear-Clear Fruit"
+    },
+    "meanings": [
+      "See-through",
+      "Sheer"
+    ],
+    "type": "Paramecia",
+    "previousUser": "",
+    "currentUser": "",
+    "onePieceWikiFandom": ""
+  },
+  {
+    "id": "df-2",
+    "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+    "name": {
+      "japanese": "アルパカのスマイル",
+      "romanized": "Arupaka no Sumairu",
+      "english": "Alpaca SMILE"
+    },
+    "meanings": [
+      "Alpaca"
+    ],
+    "type": "Artificial Zoan",
+    "currentUser": "c-20",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
+  },
+  {
+    "id": "df-3",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-3.jpeg",
+    "name": {
+      "japanese": "スベスベの実",
+      "romanized": "Sube Sube no Mi",
+      "english": "Smooth-Smooth Fruit"
+    },
+    "meanings": [
+      "Smooth", 
+      "Fat in cells", 
+      "Young and slippery"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-22",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Sube_Sube_no_Mi"
+  },
+  {
+    "id": "df-4",
+      "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+      "name": {
+        "japanese": "モリモリの実",
+        "romanized": "Mori Mori no Mi",
+        "english": "Woods-Woods Fruit" 
+      },
+      "japaneseName": "Mori Mori no Mi",
+      "englishName": "Woods-Woods Fruit",
+      "meanings": [
+        "Forest"
+      ],
+      "type": "Logia",
+      "currentUser": "c-32",
+      "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
   }
 ]
