@@ -808,30 +808,6 @@
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Arlong"
   },
   {
-    "id": "c-35",
-    "image": "https://www.onepieceapi.com/api/images/c-35.jpeg",
-    "name": {
-      "japanese": "ツメゲリ部隊",
-      "romanized": "Tsumegeri Butai",
-      "english": "Kicking Claw Force; Elite Alabastian Royal Guards"
-    },
-    "debut": {
-      "chapter": [
-        "Chapter 196",
-        "Episode 120"
-      ],
-      "episode": 0
-    },
-    "affiliations": [
-      "Arabasta Kingdom"
-    ],
-    "occupations": [
-      "Guards"
-    ],
-    "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
     "id": "c-36",
     "image": "https://www.onepieceapi.com/api/images/c-36.jpeg",
     "name": {
@@ -840,10 +816,8 @@
       "english": "Arthur"
     },
     "debut": {
-      "chapter": [
-        "Chapter 556"
-      ],
-      "episode": 0
+      "chapter": 556,
+      "episode": null
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -853,7 +827,7 @@
       "Captain"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Arthur"
   },
   {
     "id": "c-37",
@@ -861,14 +835,11 @@
     "name": {
       "japanese": "アルユータヤン五世",
       "romanized": "Aruyūtayan Gosei",
-      "english": "N/A"
+      "english": "Aruyutayan V"
     },
     "debut": {
-      "chapter": [
-        "Chapter 292",
-        "Episode 189"
-      ],
-      "episode": 0
+      "chapter": 292,
+      "episode": 189
     },
     "affiliations": [
       "Lvneel Kingdom"
@@ -878,7 +849,7 @@
     ],
     "origin": "North Blue",
     "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aruyutayan_V"
   },
   {
     "id": "c-38",
@@ -889,11 +860,8 @@
       "english": "Heercomes Dasun"
     },
     "debut": {
-      "chapter": [
-        "Chapter 483",
-        "Episode 375"
-      ],
-      "episode": 0
+      "chapter": 483,
+      "episode": 375
     },
     "affiliations": [
       "Marines"
@@ -902,7 +870,7 @@
       "Chief Petty Officer"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Asahija"
   },
   {
     "id": "c-39",
@@ -910,23 +878,18 @@
     "name": {
       "japanese": "麻七",
       "romanized": "Asashichi",
-      "english": "N/A"
+      "english": "Asashichi"
     },
     "debut": {
-      "chapter": [
-        "Chapter 930",
-        "Episode 924"
-      ],
-      "episode": 0
+      "chapter": 930,
+      "episode": 924
     },
     "occupations": [
       "Soba Shop Owner"
     ],
-    "residence": [
-      "Wano Country (Flower Capital)"
-    ],
+    "residence": "Wano Country (Flower Capital)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Asashichi"
   },
   {
     "id": "c-40",
@@ -937,14 +900,11 @@
       "english": "Ashura Doji"
     },
     "debut": {
-      "chapter": [
-        "Chapter 920",
-        "Episode 910"
-      ],
-      "episode": 0
+      "chapter": 920,
+      "episode": 910
     },
     "formerOccupations": [
-      "Yakuza Boss (former)"
+      "Yakuza Boss"
     ],
     "affiliations": [
       "Mt. Atama Thieves",
@@ -954,19 +914,16 @@
     "occupations": [
       "Bandit",
       "Retainer of the Kozuki Family",
-      "Yakuza Boss (former)",
       "Samurai"
     ],
     "origin": "Grand Line (Wano Country)",
-    "residence": [
-      "Wano Country (Kuri: Mt. Atama)"
-    ],
+    "residence": "Wano Country (Kuri: Mt. Atama)",
     "status": "Deceased",
     "ageAtDeath": 56,
     "birthday": "April 10th",
     "height": 544,
     "bloodType": "X",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ashura_Doji"
   },
   {
     "id": "c-41",
@@ -977,20 +934,15 @@
       "english": "Aswa"
     },
     "debut": {
-      "chapter": [
-        "Chapter 163",
-        "Episode 100"
-      ],
-      "episode": 0
+      "chapter": 163,
+      "episode": 100
     },
     "affiliations": [
       "Neutral civilian"
     ],
-    "residence": [
-      "Arabasta"
-    ],
+    "residence": "Arabasta",
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Aswa"
   },
   {
     "id": "c-42",
@@ -998,23 +950,18 @@
     "name": {
       "japanese": "アタゴ山",
       "romanized": "Atagoyama",
-      "english": "N/A"
+      "english": "Atagoyama"
     },
     "debut": {
-      "chapter": [
-        "Chapter 915",
-        "Episode 902"
-      ],
-      "episode": 0
+      "chapter": 915,
+      "episode": 902
     },
     "occupations": [
       "Sumo Wrestler"
     ],
-    "residence": [
-      "Wano Country (Bakura Town)"
-    ],
+    "residence": "Wano Country (Bakura Town)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Atagoyama"
   },
   {
     "id": "c-43",
@@ -1025,20 +972,15 @@
       "english": "Atlas"
     },
     "debut": {
-      "chapter": [
-        "Chapter 1062",
-        "Episode 1091"
-      ],
-      "episode": 0
+      "chapter": 1062,
+      "episode": 1091
     },
     "affiliations": [
       "Marines (SSG)"
     ],
-    "residence": [
-      "Egghead"
-    ],
+    "residence":"Egghead",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Vegapunk/Atlas"
   },
   {
     "id": "c-44",
@@ -1049,11 +991,8 @@
       "english": "Atmos"
     },
     "debut": {
-      "chapter": [
-        "Chapter 553",
-        "Episode 461"
-      ],
-      "episode": 0
+      "chapter": 553,
+      "episode": 461
     },
     "affiliations": [
       "Whitebeard Pirates"
@@ -1065,7 +1004,7 @@
     "origin": "West Blue",
     "status": "Alive",
     "birthday": "March 19th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Atmos"
   },
   {
     "id": "c-45",
@@ -1077,8 +1016,7 @@
     },
     "debut": {
       "chapter": 436,
-      "episode": 321,
-      "sbs": 24
+      "episode": 321
     },
     "formerOccupations": [
       "Marine Photography Department chief"
@@ -1093,7 +1031,7 @@
       "Reporter"
     ],
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Attach"
   },
   {
     "id": "c-46",
@@ -1104,11 +1042,8 @@
       "english": "Avalo Pizarro"
     },
     "debut": {
-      "chapter": [
-        "Chapter 575",
-        "Episode 484"
-      ],
-      "episode": 0
+      "chapter": 575,
+      "episode": 484
     },
     "formerOccupations": [
       "Prisoner of the Great Prison",
@@ -1130,16 +1065,8 @@
     "birthday": "September 30th",
     "height": 505,
     "bloodType": "X",
-    "bounty": "Unknown",
-    "devilFruit": {
-      "japaneseName": "Shima Shima no Mi",
-      "englishName": "Isle-Isle Fruit",
-      "meanings": [
-        "Island"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-5",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Avalo_Pizarro"
   },
   {
     "id": "c-47",
@@ -1147,13 +1074,11 @@
     "name": {
       "japanese": "エーエスエ・ムアール",
       "romanized": "Ēesue Muāru",
-      "english": "N/A"
+      "english": "Eiyess Emmar"
     },
     "debut": {
-      "chapter": [
-        "SBS Volume 105 (mentioned)"
-      ],
-      "episode": 0
+      "chapter": null,
+      "episode": null
     },
     "affiliations": [
       "Marines"
@@ -1161,11 +1086,9 @@
     "occupations": [
       "Okaki artisan"
     ],
-    "residence": [
-      "South Blue"
-    ],
+    "residence": "South Blue",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ayes%C3%A9_Mar"
   },
   {
     "id": "c-48",
@@ -1173,7 +1096,7 @@
     "name": {
       "japanese": "あずき",
       "romanized": "Azuki",
-      "english": "N/A"
+      "english": "Azuki"
     },
     "debut": {
       "chapter": 940,
@@ -1181,7 +1104,7 @@
     },
     "residence": "Ebisu Town, Wano Country",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Azuki"
   },
   {
     "id": "c-49",
@@ -1204,11 +1127,8 @@
       "Warden of the Prisoner Mine"
     ],
     "status": "Alive",
-    "devilFruit": {
-      "englishName": "Elephant SMILE",
-      "type": "Artificial Zoan"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-6",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Babanuki"
   },
   {
     "id": "c-50",
@@ -1241,7 +1161,7 @@
     "height": 218,
     "bloodType": "F",
     "bounty": 3200000,
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Babe"
   },
   {
     "id": "c-51",
@@ -39470,5 +39390,97 @@
       "Length: Over 20 km (12.43 miles)"
     ],
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+  },
+  {
+    "id": "c-1394",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1394.jpeg",
+    "name": {
+      "japanese": "ヒョウタ",
+      "romanized": "Hyōta",
+      "english": "Hyota"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter":196,
+      "episode": 120
+    },
+    "affiliations": [
+      "Arabasta Kingdom",
+      "Kicking Claw Force",
+      "Elite Alabastian Royal Guards"
+    ],
+    "occupations": [
+      "Guards"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Tsumegeri_Guards"
+  },
+  {
+    "id": "c-1395",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1395.jpeg",
+    "name": {
+      "japanese": "ブラーム",
+      "romanized": "Burāmu",
+      "english": "Brahm"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter":196,
+      "episode": 120
+    },
+    "affiliations": [
+      "Arabasta Kingdom",
+      "Kicking Claw Force",
+      "Elite Alabastian Royal Guards"
+    ],
+    "occupations": [
+      "Guards"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Tsumegeri_Guards"
+  },
+  {
+    "id": "c-1396",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1396.jpeg",
+    "name": {
+      "japanese": "アロー",
+      "romanized": "Arō",
+      "english": "Arrow"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter":196,
+      "episode": 120
+    },
+    "affiliations": [
+      "Arabasta Kingdom",
+      "Kicking Claw Force",
+      "Elite Alabastian Royal Guards"
+    ],
+    "occupations": [
+      "Guards"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Tsumegeri_Guards"
+  },
+  {
+    "id": "c-1397",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1397.jpeg",
+    "name": {
+      "japanese": "バレル",
+      "romanized": "Bareru",
+      "english": "Barrel"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter":196,
+      "episode": 120
+    },
+    "affiliations": [
+      "Arabasta Kingdom",
+      "Kicking Claw Force",
+      "Elite Alabastian Royal Guards"
+    ],
+    "occupations": [
+      "Guards"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Tsumegeri_Guards"
   }
 ]
