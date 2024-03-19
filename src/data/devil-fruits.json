@@ -50,19 +50,47 @@
   },
   {
     "id": "df-4",
-      "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+    "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+    "name": {
+      "japanese": "モリモリの実",
+      "romanized": "Mori Mori no Mi",
+      "english": "Woods-Woods Fruit" 
+    },  
+    "meanings": [
+      "Forest"
+    ],
+    "type": "Logia",
+    "currentUser": "c-32",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
+  },
+  {
+    "id": "df-5",
+      "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-5.jpeg",
       "name": {
-        "japanese": "モリモリの実",
-        "romanized": "Mori Mori no Mi",
-        "english": "Woods-Woods Fruit" 
+        "japanese": "シマシマの実",
+        "romanized": "Shima Shima no Mi",
+        "english": "Isle-Isle Fruit" 
       },
-      "japaneseName": "Mori Mori no Mi",
-      "englishName": "Woods-Woods Fruit",
       "meanings": [
-        "Forest"
+        "Island"
       ],
-      "type": "Logia",
-      "currentUser": "c-32",
-      "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Mori_Mori_no_Mi"
+      "type": "Paramecia",
+      "currentUser": "c-46",
+      "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Shima_Shima_no_Mi"
+  },
+  {
+    "id": "df-6",
+    "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+    "name": {
+      "japanese": "ゾウのスマイル",
+      "romanized": "Zō no Sumairu",
+      "english": "Elephant SMILE"
+    },
+    "meanings": [
+      "Elephant"
+    ],
+    "type": "Artificial Zoan",
+    "currentUser": "c-49",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
   }
 ]
