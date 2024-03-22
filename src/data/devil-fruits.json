@@ -92,5 +92,65 @@
     "type": "Artificial Zoan",
     "currentUser": "c-49",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
+  },
+  {
+    "id": "df-7",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-7.jpeg",
+    "name": {
+      "japanese": "ブキブキの実",
+      "romanized": "Buki Buki no Mi",
+      "english": "Arms-Arms Fruit"
+    },
+    "meanings": [
+      "Weapon"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-51",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Buki_Buki_no_Mi"
+  },
+  {
+    "id": "df-8",
+    "image": "https://www.onepieceapi.com/api/images/no-image.jpeg",
+    "name": {
+      "japanese": "ムササビのスマイル",
+      "romanized": "Musasabi no Sumairu",
+      "english": "Flying Squirrel SMILE"
+    },
+    "meanings": [
+      "Flying Squirrel"
+    ],
+    "type": "Artificial Zoan",
+    "currentUser": "c-62",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
+  },
+  {
+    "id": "df-9",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-9.jpeg",
+    "name": {
+      "japanese": "ニキュニキュの実",
+      "romanized": "Nikyu Nikyu no Mi",
+      "english": "Paw-Paw Fruit"
+    },
+    "meanings": [
+      "Paw"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-66",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Nikyu_Nikyu_no_Mi"
+  },
+  {
+    "id": "df-10",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-10.jpeg",
+    "name": {
+      "japanese": "バリバリの実",
+      "romanized": "Bari Bari no Mi",
+      "english": "Barrier-Barrier Fruit"
+    },
+    "meanings": [
+      "Barrier"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-67",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi"
   }
 ]

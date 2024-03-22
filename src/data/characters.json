@@ -1172,11 +1172,8 @@
       "english": "Baby Five"
     },
     "debut": {
-      "chapter": [
-        "Chapter 682",
-        "Episode 608"
-      ],
-      "episode": 0
+      "chapter": 682,
+      "episode": 608
     },
     "formerOccupations": [
       "Pirate Officer",
@@ -1195,27 +1192,19 @@
       "Pirate"
     ],
     "origin": "North Blue",
-    "residence": [
-      "Kuen Village (former)",
-      "Spider Miles (former)",
-      "Dressrosa (former)",
-      "Kano Country"
+    "residence":  "Kano Country",
+    "formerResidences":[
+      "Kuen Village",
+      "Spider Miles",
+      "Dressrosa"
     ],
     "status": "Alive",
     "age": 24,
     "birthday": "May 15th",
     "height": 181,
     "bloodType": "XF",
-    "devilFruit": {
-      "japaneseName": "ブキブキの実",
-      "romanizedName": "Buki Buki no Mi",
-      "englishName": "Arms-Arms Fruit",
-      "meanings": [
-        "Weapon"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-7",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baby_5"
   },
   {
     "id": "c-52",
@@ -1237,12 +1226,10 @@
       "Executioner"
     ],
     "origin": "Calm Belt (Amazon Lily)",
-    "residence": [
-      "Amazon Lily"
-    ],
+    "residence": "Amazon Lily",
     "status": "Alive",
     "birthday": "November 29th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bacura"
   },
   {
     "id": "c-53",
@@ -1264,7 +1251,7 @@
       "Captain"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baggaley"
   },
   {
     "id": "c-54",
@@ -1283,7 +1270,7 @@
       "G-5"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bakezo"
   },
   {
     "id": "c-55",
@@ -1291,7 +1278,7 @@
     "name": {
       "japanese": "バン・ドデシネ",
       "romanized": "Ban Dodeshine",
-      "english": "N/A"
+      "english": "Ban Dedessinée"
     },
     "debut": {
       "chapter": 823,
@@ -1306,7 +1293,7 @@
     "origin": "East Blue",
     "residence": "Frauce Kingdom",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Ban_Dedessin%C3%A9e"
   },
   {
     "id": "c-56",
@@ -1328,7 +1315,7 @@
     ],
     "origin": "West Blue",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Banchi"
   },
   {
     "id": "c-57",
@@ -1345,7 +1332,7 @@
     "origin": "East Blue (Syrup Village)",
     "status": "Deceased",
     "birthday": "December 17th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Banchina"
   },
   {
     "id": "c-58",
@@ -1366,7 +1353,7 @@
       "Pirate"
     ],
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bankuro"
   },
   {
     "id": "c-59",
@@ -1384,8 +1371,7 @@
       "Spade Pirates"
     ],
     "status": "Alive",
-    "age": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Banshee"
   },
   {
     "id": "c-60",
@@ -1406,32 +1392,9 @@
       "Retainer of the Kozuki Family",
       "Food taster"
     ],
-    "residence": [
-      "Wano Country"
-    ],
+    "residence":  "Wano Country",
     "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
-    "id": "c-61",
-    "image": "https://www.onepieceapi.com/api/images/c-61.jpeg",
-    "name": {
-      "japanese": "ギョロ, ニン, バオ",
-      "romanized": "Gyoro, Nin, Bao",
-      "english": "Gyoro, Nin, Bao"
-    },
-    "debut": {
-      "chapter": 449,
-      "episode": 343
-    },
-    "affiliations": [
-      "Thriller Bark Pirates"
-    ],
-    "occupations": [
-      "Soldier Zombies[citation needed]"
-    ],
-    "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Banzaburo"
   },
   {
     "id": "c-62",
@@ -1454,11 +1417,8 @@
       "Scheduler"
     ],
     "status": "Alive",
-    "devilFruit": {
-      "englishName": "Flying Squirrel SMILE",
-      "type": "Artificial Zoan"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-8",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bao_Huang"
   },
   {
     "id": "c-63",
@@ -1480,32 +1440,9 @@
       "Recon Squad",
       "Guard"
     ],
-    "residence": [
-      "Zou"
-    ],
+    "residence": "Zou",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
-    "id": "c-64",
-    "image": "https://www.onepieceapi.com/api/images/c-64.jpeg",
-    "name": {
-      "japanese": "ツメゲリ部隊",
-      "romanized": "Tsumegeri Butai",
-      "english": "Kicking Claw Force; Elite Alabastian Royal Guards"
-    },
-    "debut": {
-      "chapter": 196,
-      "episode": 120
-    },
-    "affiliations": [
-      "Arabasta Kingdom"
-    ],
-    "occupations": [
-      "Guards"
-    ],
-    "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bariete"
   },
   {
     "id": "c-65",
@@ -1526,7 +1463,7 @@
       "Pirate"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Barry"
   },
   {
     "id": "c-66",
@@ -1558,7 +1495,6 @@
       "Pastor"
     ],
     "origin": "South Blue (Sorbet Kingdom)",
-    "residence": "",
     "formerResidences": [
       "Sorbet Kingdom",
       "Baltigo",
@@ -1572,15 +1508,8 @@
     "height": 689,
     "bloodType": "X",
     "bounty": 296000000,
-    "devilFruit": {
-      "japaneseName": "Nikyu Nikyu no Mi",
-      "englishName": "Paw-Paw Fruit",
-      "meanings": [
-        "Paw"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-9",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bartholomew_Kuma"
   },
   {
     "id": "c-67",
@@ -1615,15 +1544,11 @@
     "height": 220,
     "bloodType": "X",
     "bounty": 200000000,
-    "devilFruit": {
-      "japaneseName": "Bari Bari no Mi",
-      "englishName": "Barrier-Barrier Fruit",
-      "meanings": [
-        "Barrier"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "formerBounties": [
+      150000000
+    ],
+    "devilFruit": "df-10",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bartolomeo"
   },
   {
     "id": "c-68",
@@ -3114,30 +3039,6 @@
     "birthday": "October 10th",
     "height": 179,
     "bloodType": "X",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
-    "id": "c-120",
-    "image": "https://www.onepieceapi.com/api/images/c-120.jpeg",
-    "name": {
-      "japanese": "ツメゲリ部隊",
-      "romanized": "Tsumegeri Butai",
-      "english": "Kicking Claw Force; Elite Alabastian Royal Guards"
-    },
-    "debut": {
-      "chapter": [
-        "Chapter 196",
-        "Episode 120"
-      ],
-      "episode": 0
-    },
-    "affiliations": [
-      "Arabasta Kingdom"
-    ],
-    "occupations": [
-      "Guards"
-    ],
-    "status": "Deceased",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
   {
@@ -13887,30 +13788,6 @@
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
   {
-    "id": "c-483",
-    "image": "https://www.onepieceapi.com/api/images/c-483.jpeg",
-    "name": {
-      "japanese": "ギョロ, ニン, バオ",
-      "romanized": "Gyoro, Nin, Bao",
-      "english": "Gyoro, Nin, Bao"
-    },
-    "debut": {
-      "chapter": [
-        "Chapter 449",
-        "Episode 343"
-      ],
-      "episode": 0
-    },
-    "affiliations": [
-      "Thriller Bark Pirates"
-    ],
-    "occupations": [
-      "Soldier Zombies[citation needed]"
-    ],
-    "status": "Deceased",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
     "id": "c-484",
     "image": "https://www.onepieceapi.com/api/images/c-484.jpeg",
     "name": {
@@ -15848,30 +15725,6 @@
     "birthday": "February 14th",
     "height": 100,
     "bloodType": "S",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
-    "id": "c-556",
-    "image": "https://www.onepieceapi.com/api/images/c-556.jpeg",
-    "name": {
-      "japanese": "ツメゲリ部隊",
-      "romanized": "Tsumegeri Butai",
-      "english": "Kicking Claw Force; Elite Alabastian Royal Guards"
-    },
-    "debut": {
-      "chapter": [
-        "Chapter 196",
-        "Episode 120"
-      ],
-      "episode": 0
-    },
-    "affiliations": [
-      "Arabasta Kingdom"
-    ],
-    "occupations": [
-      "Guards"
-    ],
-    "status": "Deceased",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
   {
@@ -26713,30 +26566,6 @@
       "episode": 0
     },
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
-    "id": "c-939",
-    "image": "https://www.onepieceapi.com/api/images/c-939.jpeg",
-    "name": {
-      "japanese": "ギョロ, ニン, バオ",
-      "romanized": "Gyoro, Nin, Bao",
-      "english": "Gyoro, Nin, Bao"
-    },
-    "debut": {
-      "chapter": [
-        "Chapter 449",
-        "Episode 343"
-      ],
-      "episode": 0
-    },
-    "affiliations": [
-      "Thriller Bark Pirates"
-    ],
-    "occupations": [
-      "Soldier Zombies[citation needed]"
-    ],
-    "status": "Deceased",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
   },
   {
@@ -39482,5 +39311,68 @@
       "Guards"
     ],
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Tsumegeri_Guards"
+  },
+  {
+    "id": "c-1398",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1398.jpeg",
+    "name": {
+      "japanese": "ギョロ",
+      "romanized": "Gyoro",
+      "english": "Gyoro"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter": 449,
+      "episode": 343
+    },
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "Soldier Zombies"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Gyoro,_Nin,_and_Bao"
+  },
+  {
+    "id": "c-1399",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1399.jpeg",
+    "name": {
+      "japanese": "ニン",
+      "romanized": "Nin",
+      "english": "Nin"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter": 449,
+      "episode": 343
+    },
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "Soldier Zombies"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Gyoro,_Nin,_and_Bao"
+  },
+  {
+    "id": "c-1400",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1400.jpeg",
+    "name": {
+      "japanese": "バオ",
+      "romanized": "Bao",
+      "english": "Bao"
+    },
+    "status": "Deceased",
+    "debut": {
+      "chapter": 449,
+      "episode": 343
+    },
+    "affiliations": [
+      "Thriller Bark Pirates"
+    ],
+    "occupations": [
+      "Soldier Zombies"
+    ],
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Gyoro,_Nin,_and_Bao"
   }
 ]
