@@ -1551,39 +1551,6 @@
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bartolomeo"
   },
   {
-    "id": "c-68",
-    "image": "https://www.onepieceapi.com/api/images/c-68.jpeg",
-    "name": {
-      "japanese": "バスカビル",
-      "romanized": "Basukabiru",
-      "english": "Baskerville"
-    },
-    "debut": {
-      "chapter": 379,
-      "episode": 267
-    },
-    "affiliations": [
-      "World Government (Enies Lobby)"
-    ],
-    "occupations": [
-      "Chief Justices of Enies Lobby"
-    ],
-    "origin": "Grand Line",
-    "birthName": "Bas (バス, Basu?) (left)*;And (アンド, Ando?) (middle)*[2]Kerville (カビル, Kabiru?) (right)*",
-    "status": "Unknown",
-    "age": [
-      "Bas: 48",
-      "And: 53",
-      "Kerville: 42"
-    ],
-    "birthday": "Bas: March 30th And: March 31st Kerville: April 1st",
-    "height": [
-      "512 cm (16'9½) (combined)"
-    ],
-    "bloodType": "Bas: XAnd: XFKerville: F",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
-  },
-  {
     "id": "c-69",
     "image": "https://www.onepieceapi.com/api/images/c-69.jpeg",
     "name": {
@@ -39374,5 +39341,83 @@
       "Soldier Zombies"
     ],
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Gyoro,_Nin,_and_Bao"
+  },
+  {
+    "id": "c-1401",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1401.jpeg",
+    "name": {
+      "japanese": "バス",
+      "romanized": "Basu",
+      "english": "Bas"
+    },
+    "status": "Unknown",
+    "age": 48,
+    "debut": {
+      "chapter": 379,
+      "episode": 267
+    },
+    "affiliations": [
+      "World Government",
+      "Three-Headed Baskerville"
+    ],
+    "occupations": [
+      "Chief Justice of Enies Lobby"
+    ],
+    "origin": "Grand Line",
+    "bloodType": "X",
+    "birthday": "March 30th",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baskerville"
+  },
+  {
+    "id": "c-1402",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1402.jpeg",
+    "name": {
+      "japanese": "アンド",
+      "romanized": "Ando",
+      "english": "And"
+    },
+    "status": "Unknown",
+    "age": 53,
+    "debut": {
+      "chapter": 379,
+      "episode": 267
+    },
+    "affiliations": [
+      "World Government",
+      "Three-Headed Baskerville"
+    ],
+    "occupations": [
+      "Chief Justice of Enies Lobby"
+    ],
+    "origin": "Grand Line",
+    "bloodType": "XF",
+    "birthday": "March 31st",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baskerville"
+  },
+  {
+    "id": "c-1403",
+    "image": "https://www.onepieceapi.com/api/images/characters/c-1403.jpeg",
+    "name": {
+      "japanese": "カビル",
+      "romanized": "Kabiru",
+      "english": "Kerville"
+    },
+    "status": "Unknown",
+    "age": 42,
+    "debut": {
+      "chapter": 379,
+      "episode": 267
+    },
+    "affiliations": [
+      "World Government",
+      "Three-Headed Baskerville"
+    ],
+    "occupations": [
+      "Chief Justice of Enies Lobby"
+    ],
+    "origin": "Grand Line",
+    "bloodType": "F",
+    "birthday": "April 1st",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baskerville"
   }
 ]
