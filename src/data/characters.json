@@ -1578,15 +1578,11 @@
     "height": 210,
     "bloodType": "S",
     "bounty": 320000000,
-    "devilFruit": {
-      "japaneseName": "Wara Wara no Mi",
-      "englishName": "Straw-Straw Fruit",
-      "meaning": [
-        "Straw"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "formerBounties":[
+      249000000
+    ],
+    "devilFruit": "df-11",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Basil_Hawkins"
   },
   {
     "id": "c-70",
@@ -1601,14 +1597,15 @@
       "episode": 425
     },
     "affiliations": [
-      "World Government, Impel Down"
+      "World Government", 
+      "Impel Down"
     ],
     "occupations": [
       "Level 2 Guardian"
     ],
     "origin": "West Blue",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Basilisk"
   },
   {
     "id": "c-71",
@@ -1634,7 +1631,7 @@
     "birthday": "July 14th",
     "height": 291,
     "bloodType": "F",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bastille"
   },
   {
     "id": "c-72",
@@ -1651,7 +1648,7 @@
     "origin": "East Blue",
     "status": "Unknown",
     "birthday": "July 1st",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Batchee"
   },
   {
     "id": "c-73",
@@ -1672,11 +1669,8 @@
       "Gifter"
     ],
     "status": "Alive",
-    "devilFruit": {
-      "englishName": "Bat SMILE",
-      "type": "Artificial Zoan"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-12",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Batman"
   },
   {
     "id": "c-74",
@@ -1700,7 +1694,7 @@
       "Pirate"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Baxcon"
   },
   {
     "id": "c-75",
@@ -1717,11 +1711,9 @@
     "occupations": [
       "King of the Roshwan Kingdom"
     ],
-    "residence": [
-      "Roshwan Kingdom"
-    ],
+    "residence": "Roshwan Kingdom",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Beer_VI"
   },
   {
     "id": "c-76",
@@ -1738,12 +1730,9 @@
     "formerOccupations": [
       "King"
     ],
-    "occupations": [],
-    "residence": [
-      "Sorbet Kingdom"
-    ],
+    "residence": "Sorbet Kingdom",
     "status": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bekori"
   },
   {
     "id": "c-77",

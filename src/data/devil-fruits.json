@@ -152,5 +152,35 @@
     "type": "Paramecia",
     "currentUser": "c-67",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi"
+  },
+  {
+    "id": "df-11",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-11.jpeg",
+    "name": {
+      "japanese": "ワラワラの実",
+      "romanized": "Wara Wara no Mi",
+      "english": "Straw-Straw Fruit"
+    },
+    "meanings": [
+      "Straw"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-69",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Wara_Wara_no_Mi"
+  },
+  {
+    "id": "df-12",
+    "image": "https://www.onepieceapi.com/api/images/smile.jpeg",
+    "name": {
+      "japanese": "コウモリのスマイル",
+      "romanized": "Kōmori no Sumairu",
+      "english": "Bat SMILE"
+    },
+    "meanings": [
+      "Bat"
+    ],
+    "type": "Artificial Zoan",
+    "currentUser": "c-73",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
   }
 ]
