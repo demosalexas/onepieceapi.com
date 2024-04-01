@@ -1753,28 +1753,18 @@
       "East Army Commander of the Revolutionary Army"
     ],
     "origin": "East Blue",
-    "residence": [
-      "Baltigo (former)",
-      "Momoiro Island"
+    "residence": "Momoiro Island",
+    "formerResidences":[
+      "Baltigo"
     ],
     "status": "Alive",
-    "age": [
-      "34",
-      ""
-    ],
+    "age": 34,
     "birthday": "June 15th",
     "height": 196,
     "bloodType": "XF",
     "bounty": 457000000,
-    "devilFruit": {
-      "japaneseName": "Kobu Kobu no Mi",
-      "englishName": "Pump-Pump Fruit",
-      "meaning": [
-        "Encouragement"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-13",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Belo_Betty"
   },
   {
     "id": "c-78",
@@ -1795,12 +1785,10 @@
       "Doctor"
     ],
     "origin": "Calm Belt (Amazon Lily)",
-    "residence": [
-      "Amazon Lily"
-    ],
+    "residence": "Amazon Lily",
     "status": "Alive",
     "birthday": "October 26th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Belladonna"
   },
   {
     "id": "c-79",
@@ -1821,12 +1809,12 @@
       "Donquixote Pirates",
       "Bellamy Pirates"
     ],
-    "affiliations": [],
     "occupations": [
       "Dyer"
     ],
-    "residence": [
-      "Dressrosa (former)Notice (former)"
+    "formerResidences": [
+      "Dressrosa",
+      "Notice"
     ],
     "status": "Alive",
     "age": 27,
@@ -1834,15 +1822,11 @@
     "height": 240,
     "bloodType": "F",
     "bounty": 195000000,
-    "devilFruit": {
-      "japaneseName": "Bane Bane no Mi",
-      "englishName": "Spring-Spring Fruit",
-      "meaning": [
-        "Spring"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "formerBounties":[
+      55000000
+    ],
+    "devilFruit": "df-14",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bellamy"
   },
   {
     "id": "c-80",
@@ -1862,12 +1846,11 @@
     "formerAffiliations": [
       "Unnamed kingdom"
     ],
-    "affiliations": [],
     "occupations": [
       "Pirate"
     ],
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bellett"
   },
   {
     "id": "c-81",
@@ -1887,7 +1870,6 @@
     "formerAffiliations": [
       "Marines"
     ],
-    "affiliations": [],
     "occupations": [
       "Mikan Farmer"
     ],
@@ -1898,7 +1880,7 @@
     "birthday": "December 3rd",
     "height": 186,
     "bloodType": "S",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bell-m%C3%A8re"
   },
   {
     "id": "c-82",
@@ -1925,8 +1907,7 @@
     "birthday": "November 9th",
     "height": 206,
     "bloodType": "X",
-    "bounty": "Unknown",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Benn_Beckman"
   },
   {
     "id": "c-83",

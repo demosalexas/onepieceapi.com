@@ -182,5 +182,35 @@
     "type": "Artificial Zoan",
     "currentUser": "c-73",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/SMILE"
+  },
+  {
+    "id": "df-13",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-13.jpeg",
+    "name": {
+      "japanese": "コブコブの実",
+      "romanized": "Kobu Kobu no Mi",
+      "english": "Pump-Pump Fruit"
+    },
+    "meanings": [
+      "Encouragement"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-77",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Kobu_Kobu_no_Mi"
+  },
+  {
+    "id": "df-14",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-14.jpeg",
+    "name": {
+      "japanese": "バネバネの実",
+      "romanized": "Bane Bane no Mi",
+      "english": "Spring-Spring Fruit"
+    },
+    "meanings": [
+      "Encouragement"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-79",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bane_Bane_no_Mi"
   }
 ]
