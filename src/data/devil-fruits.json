@@ -212,5 +212,81 @@
     "type": "Paramecia",
     "currentUser": "c-79",
     "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bane_Bane_no_Mi"
+  },
+  {
+    "id": "df-15",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-15.jpeg",
+    "name": {
+      "japanese": "マネマネの実",
+      "romanized": "Mane Mane no Mi",
+      "english": "Clone-Clone Fruit"
+    },
+    "meanings": [
+      "Imitation"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-83",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Mane_Mane_no_Mi"
+  },
+  {
+    "id": "df-16",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-16.jpeg",
+    "name": {
+      "japanese": "ムシムシの実 モデルスズメバチ",
+      "romanized": "Mushi Mushi no Mi, Moderu: Suzumebachi",
+      "english": "Bug-Bug Fruit, Model: Hornet"
+    },
+    "meanings": [
+      "Insect", 
+      "Hornet"
+    ],
+    "type": "Zoan",
+    "currentUser": "c-85",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Mushi_Mushi_no_Mi,_Model:_Suzumebachi"
+  },
+  {
+    "id": "df-17",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-17.jpeg",
+    "name": {
+      "japanese": "クモクモの実 モデル ロサミガレ・グラウボゲリィ",
+      "romanized": "Kumo Kumo no Mi Moderu Rosamigare Guraubogerī",
+      "english": "Spider-Spider Fruit, Model: Rosamygale Grauvogeli"
+    },
+    "meanings": [
+      "Spider"
+    ],
+    "type": "Ancient Zoan",
+    "currentUser": "c-92",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Kumo_Kumo_no_Mi,_Model:_Rosamygale_Grauvogeli"
+  },
+  {
+    "id": "df-18",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-18.jpeg",
+    "name": {
+      "japanese": "ポケポケの実",
+      "romanized": "Poke Poke no Mi",
+      "english": "Pocket-Pocket Fruit"
+    },
+    "meanings": [
+      "Pocket"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-94",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Poke_Poke_no_Mi"
+  },
+  {
+    "id": "df-19",
+    "image": "https://www.onepieceapi.com/api/images/devil-fruits/df-19.jpeg",
+    "name": {
+      "japanese": "ノリノリの実",
+      "romanized": "Nori Nori no Mi",
+      "english": "Ride-Ride Fruit"
+    },
+    "meanings": [
+      "Ride"
+    ],
+    "type": "Paramecia",
+    "currentUser": "c-99",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Nori_Nori_no_Mi"
   }
 ]
