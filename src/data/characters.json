@@ -1941,15 +1941,8 @@
     "height": 238,
     "bloodType": "F",
     "bounty": 32000000,
-    "devilFruit": {
-      "japaneseName": "Mane Mane no Mi",
-      "englishName": "Clone-Clone Fruit",
-      "meaning": [
-        "Imitation"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-15",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bentham"
   },
   {
     "id": "c-84",
@@ -1972,9 +1965,9 @@
       "Guardians' helper"
     ],
     "origin": "Zou",
-    "residence": [
-      "Zou (former)",
-      "Swallow Island (former)"
+    "formerResidences": [
+      "Zou",
+      "Swallow Island"
     ],
     "status": "Alive",
     "age": 22,
@@ -1982,7 +1975,7 @@
     "height": 240,
     "bloodType": "S",
     "bounty": 500,
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bepo"
   },
   {
     "id": "c-85",
@@ -2006,16 +1999,8 @@
       "Pirate"
     ],
     "status": "Alive",
-    "devilFruit": {
-      "japaneseName": "Mushi Mushi no Mi, Model: Suzumebachi",
-      "englishName": "Bug-Bug Fruit, Model: Hornet",
-      "meaning": [
-        "Insect",
-        "Hornet"
-      ],
-      "type": "Zoan"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-16",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bian"
   },
   {
     "id": "c-86",
@@ -2039,7 +2024,7 @@
     ],
     "status": "Alive",
     "birthday": "May 25th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Big_Pan"
   },
   {
     "id": "c-87",
@@ -2050,19 +2035,15 @@
       "english": "Bimine"
     },
     "debut": {
-      "chapter": [
-        "Chapter 657 (cover)"
-      ],
+      "chapter": 657,
       "episode": 0
     },
     "occupations": [
       "Mayor"
     ],
-    "residence": [
-      "Pucci"
-    ],
+    "residence": "Pucci",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bimine"
   },
   {
     "id": "c-88",
@@ -2081,10 +2062,9 @@
       "Cooper",
       "Graverobber"
     ],
-    "occupations": [],
     "residence":"Wano Country (Ebisu Town)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bingo"
   },
   {
     "id": "c-89",
@@ -2116,7 +2096,7 @@
     "birthday": "August 1st",
     "height": 182,
     "bloodType": "XF",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bishamon"
   },
   {
     "id": "c-90",
@@ -2131,7 +2111,7 @@
       "episode": 583
     },
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Biyo"
   },
   {
     "id": "c-91",
@@ -2154,7 +2134,7 @@
     ],
     "status": "Alive",
     "birthday": "February 3rd",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bizarre"
   },
   {
     "id": "c-92",
@@ -2169,7 +2149,8 @@
       "episode": 982
     },
     "affiliations": [
-      "Beasts Pirates (Tobiroppo)"
+      "Beasts Pirates",
+      "Tobiroppo"
     ],
     "occupations": [
       "Shinuchi",
@@ -2183,15 +2164,8 @@
     "height": 820,
     "bloodType": "S",
     "bounty": 480000000,
-    "devilFruit": {
-      "japaneseName": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
-      "englishName": "Spider-Spider Fruit, Rosamygale grauvogeli Model",
-      "meaning": [
-        "Spider"
-      ],
-      "type": "Ancient Zoan"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-17",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Black_Maria"
   },
   {
     "id": "c-93",
@@ -2214,7 +2188,7 @@
     ],
     "residence": "Zou (Whale Forest)",
     "status": "Alive",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blackback"
   },
   {
     "id": "c-94",
@@ -2238,15 +2212,8 @@
     "origin": "South Blue",
     "status": "Alive",
     "birthday": "February 5th",
-    "devilFruit": {
-      "japaneseName": "Poke Poke no Mi",
-      "englishName": "Pocket-Pocket Fruit",
-      "meaning": [
-        "Pocket"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-18",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blamenco"
   },
   {
     "id": "c-95",
@@ -2270,7 +2237,7 @@
     "origin": "Grand Line",
     "status": "Alive",
     "birthday": "August 6th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blenheim"
   },
   {
     "id": "c-96",
@@ -2293,7 +2260,7 @@
     ],
     "status": "Alive",
     "birthday": "February 6th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blondie"
   },
   {
     "id": "c-97",
@@ -2301,7 +2268,7 @@
     "name": {
       "japanese": "ブルーファン",
       "romanized": "Burūfan",
-      "english": "Bluefan"
+      "english": "Blue Fan"
     },
     "debut": {
       "chapter": 516,
@@ -2318,7 +2285,7 @@
     "residence": "Amazon Lily",
     "status": "Alive",
     "birthday": "July 11th",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blue_Fan"
   },
   {
     "id": "c-98",
@@ -2337,7 +2304,8 @@
       "Straw Hat Grand Fleet"
     ],
     "occupations": [
-      "Martial Artist, Pirate"
+      "Martial Artist", 
+      "Pirate"
     ],
     "origin": "Grand Line",
     "status": "Alive",
@@ -2345,7 +2313,7 @@
     "birthday": "November 27th",
     "height": 314,
     "bloodType": "S",
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Blue_Gilly"
   },
   {
     "id": "c-99",
@@ -2366,15 +2334,8 @@
       "Vice Admiral"
     ],
     "status": "Alive",
-    "devilFruit": {
-      "japaneseName": "Nori Nori no Mi",
-      "englishName": "Ride-Ride Fruit",
-      "meanings": [
-        "Ride"
-      ],
-      "type": "Paramecia"
-    },
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "devilFruit": "df-19",
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bluegrass"
   },
   {
     "id": "c-100",
@@ -2402,7 +2363,7 @@
     "height": 261,
     "bloodType": "X",
     "bounty": 14300000,
-    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/One_Piece_Wiki"
+    "onePieceWikiFandom": "https://onepiece.fandom.com/wiki/Bluejam"
   },
   {
     "id": "c-101",
